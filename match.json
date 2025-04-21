@@ -1,0 +1,12 @@
+{
+  "match_id": 1,
+  "date": "2025-04-20",
+  "time": "20:30",
+  "stadium": "Papara Park",
+  "home_team": {
+    "name": "Trabzonspor"
+  },
+  "away_team": {
+    "name": "Göztepe"
+  }
+}
