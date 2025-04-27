@@ -1,14 +1,14 @@
 {
   "match_id": 1,
-  "date": "2025-04-20",
-  "time": "20:30",
+  "date": "2025-04-27",
+  "time": "16:00",
   "stadium": "Papara Park",
   "home_team": {
     "name": "Trabzonspor",
     "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_ts.png"
   },
   "away_team": {
-    "name": "Göztepe",
-    "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_gz.png"
+    "name": "Alanyaspor",
+    "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_aln.png"
   }
 }
