@@ -19,8 +19,8 @@
       "match_id": 2,
       "date": "2025-05-04",
       "time": "19:00",
-      "week":33,
-      "stadium": "Gürsel Aksel Stadyumu"
+      "week": 33,
+      "stadium": "Gürsel Aksel Stadyumu",
       "home_team": {
         "name": "Göztepe",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_fb.png"
