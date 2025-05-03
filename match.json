@@ -44,6 +44,36 @@
         "name": "Beşiktaş",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_bjk.png"
       }
+    },
+    {
+      "match_id": 4,
+      "date": "2025-05-03",
+      "time": "16:00",
+      "week": 34,
+      "stadium": "Çaykur Didi Stadyumu",
+      "home_team": {
+        "name": "Çaykur Rizespor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_crz.png"
+      },
+      "away_team": {
+        "name": "Gaziantep FK",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_gfk.png"
+      }
+    },
+    {
+      "match_id": 5,
+      "date": "2025-05-04",
+      "time": "16:00",
+      "week": 34,
+      "stadium": "Samsun Yeni 19 Mayıs Stadyumu",
+      "home_team": {
+        "name": "Reeder Samsunspor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_smsn.png"
+      },
+      "away_team": {
+        "name": "İkas Eyüpspor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_eyup.png"
+      }
     }
   ]
 }
