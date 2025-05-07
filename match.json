@@ -2,77 +2,32 @@
   "matches": [
     {
       "match_id": 1,
-      "date": "2025-05-05",
-      "time": "20:00",
-      "week": 34,
-      "stadium": "Recep Tayyip Erdoğan Stadyumu",
-      "home_team": {
-        "name": "Kasımpaşa",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_ksp.png"
-      },
-      "away_team": {
-        "name": "Trabzonspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_ts.png"
-      }
-    },
-    {
-      "match_id": 2,
       "date": "2025-05-09",
       "time": "20:00",
       "week": 35,
       "stadium": "Başakşehir Fatih Terim Stadı",
       "home_team": {
         "name": "Başakşehir FK",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_ibfk.png""
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ibfk.png"
       },
       "away_team": {
         "name": "Fenerbahçe",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_fb.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fb.png"
       }
     },
     {
-      "match_id": 3,
-      "date": "2025-05-09",
-      "time": "20:00",
-      "week": 35,
-      "stadium": "Gaziantep Büyükşehir Stadyumu",
-      "home_team": {
-        "name": "Gaziantep FK",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_gfk.png"
-      },
-      "away_team": {
-        "name": "Alanyaspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_aln.png"
-      }
-    },
-    {
-      "match_id": 4,
-      "date": "2025-05-10",
-      "time": "16:00",
-      "week": 35,
-      "stadium": "Recep Tayyip Erdoğan Stadyumu",
-      "home_team": {
-        "name": "İkas Eyüpspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_eyup.png"
-      },
-      "away_team": {
-        "name": "Kasımpaşa",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_ksp.pn
-      }
-    },
-    {
-      "match_id": 5,
+      "match_id": 2,
       "date": "2025-05-10",
       "time": "19:00",
       "week": 35,
       "stadium": "Papara Park",
       "home_team": {
         "name": "Trabzonspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_ts.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ts.png"
       },
       "away_team": {
         "name": "Galatasaray",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/logo_gs.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gs.png"
       }
     }
   ]
