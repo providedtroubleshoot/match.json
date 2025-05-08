@@ -7,7 +7,7 @@
       "week": 35,
       "stadium": "Başakşehir Fatih Terim Stadı",
       "home_team": {
-        "name": "Başakşehir FK",
+        "name": "Başakşehir",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ibfk.png"
       },
       "away_team": {
@@ -28,6 +28,21 @@
       "away_team": {
         "name": "Galatasaray",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gs.png"
+      }
+    },
+    {
+      "match_id": 3,
+      "date": "2025-05-09",
+      "time": "20:00",
+      "week": 35,
+      "stadium": "Gaziantep Stadyumu",
+      "home_team": {
+        "name": "Gaziantep FK",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gfk.png"
+      },
+      "away_team": {
+        "name": "Alanyaspor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aln.png"
       }
     }
   ]
