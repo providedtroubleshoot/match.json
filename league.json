@@ -4,31 +4,31 @@
     "name": "Süper Lig",
     "country": "Türkiye",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_tr1.png",
-    "primaryColor": "#E30A17",
-    "secondaryColor": "#FFFFFF"
+    "primaryColor": "E30A17",
+    "secondaryColor": "FFFFFF"
   },
   {
     "id": "EN1",
     "name": "Premier League",
     "country": "England",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_en1.png",
-    "primaryColor": "#3D195B",
-    "secondaryColor": "#00FF85"
+    "primaryColor": "3D195B",
+    "secondaryColor": "00FF85"
   },
   {
     "id": "ES1",
     "name": "La Liga",
     "country": "Spain",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_sp1.png",
-    "primaryColor": "#EE8700",
-    "secondaryColor": "#0D2A56"
+    "primaryColor": "EE8700",
+    "secondaryColor": "0D2A56"
   },
   {
     "id": "DE1",
     "name": "Bundesliga",
     "country": "Germany",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_ger1.png",
-    "primaryColor": "#D2042D",
-    "secondaryColor": "#FFFFFF"
+    "primaryColor": "D2042D",
+    "secondaryColor": "FFFFFF"
   }
 ]
