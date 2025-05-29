@@ -1,6 +1,6 @@
 [
   {
-    "id": "TR1",
+    "id": "tr1",
     "name": "Süper Lig",
     "country": "Türkiye",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_tr1.png",
@@ -8,7 +8,7 @@
     "secondaryColor": "0xFFFFFFFF"
   },
   {
-    "id": "EN1",
+    "id": "en1",
     "name": "Premier League",
     "country": "England",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_en1.png",
@@ -16,7 +16,7 @@
     "secondaryColor": "0xFF00FF85"
   },
   {
-    "id": "ES1",
+    "id": "es1",
     "name": "La Liga",
     "country": "Spain",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_sp1.png",
@@ -24,7 +24,7 @@
     "secondaryColor": "0xFF0D2A56"
   },
   {
-    "id": "DE1",
+    "id": "de1",
     "name": "Bundesliga",
     "country": "Germany",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_ger1.png",
