@@ -1,0 +1,34 @@
+{
+  "matches": [
+    {
+      "match_id": 101,
+      "date": "2025-05-25",
+      "time": "17:00",
+      "week": 38,
+      "stadium": "Old Trafford",
+      "home_team": {
+        "name": "Manchester United",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_manutd.png"
+      },
+      "away_team": {
+        "name": "Arsenal",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_arsenal.png"
+      }
+    },
+    {
+      "match_id": 102,
+      "date": "2025-05-25",
+      "time": "17:00",
+      "week": 38,
+      "stadium": "Etihad Stadium",
+      "home_team": {
+        "name": "Manchester City",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png"
+      },
+      "away_team": {
+        "name": "Chelsea",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_chelsea.png"
+      }
+    }
+  ]
+}

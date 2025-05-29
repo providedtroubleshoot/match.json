@@ -1,0 +1,34 @@
+{
+  "matches": [
+    {
+      "match_id": 201,
+      "date": "2025-05-24",
+      "time": "16:30",
+      "week": 34,
+      "stadium": "Allianz Arena",
+      "home_team": {
+        "name": "Bayern Munich",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bayern.png"
+      },
+      "away_team": {
+        "name": "Borussia Dortmund",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png"
+      }
+    },
+    {
+      "match_id": 202,
+      "date": "2025-05-24",
+      "time": "16:30",
+      "week": 34,
+      "stadium": "Red Bull Arena",
+      "home_team": {
+        "name": "RB Leipzig",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rbl.png"
+      },
+      "away_team": {
+        "name": "Bayer Leverkusen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png"
+      }
+    }
+  ]
+}
