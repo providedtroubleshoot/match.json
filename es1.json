@@ -1,34 +1,38 @@
 {
-  "matches": [
-    {
-      "match_id": 301,
-      "date": "2025-05-26",
-      "time": "22:00",
-      "week": 38,
-      "stadium": "Santiago Bernabéu",
-      "home_team": {
-        "name": "Real Madrid",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rma.png"
+    "matches": [
+      {
+        "match_id": 301,
+        "date": "2025-05-26",
+        "time": "22:00",
+        "week": 38,
+        "stadium": "Santiago Bernabéu",
+        "home_team": {
+          "name": "Real Madrid",
+          "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rma.png",
+          "colors": ["#FFFFFF", "#FEBE10"]
+        },
+        "away_team": {
+          "name": "Barcelona",
+          "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brc.png",
+          "colors": ["#A50044", "#004D98"]
+        }
       },
-      "away_team": {
-        "name": "Barcelona",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brc.png"
+      {
+        "match_id": 302,
+        "date": "2025-05-26",
+        "time": "22:00",
+        "week": 38,
+        "stadium": "Metropolitano",
+        "home_team": {
+          "name": "Atlético Madrid",
+          "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png",
+          "colors": ["#C8102E", "#FFFFFF"]
+        },
+        "away_team": {
+          "name": "Sevilla",
+          "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sev.png",
+          "colors": ["#FFFFFF", "#D1001C"]
+        }
       }
-    },
-    {
-      "match_id": 302,
-      "date": "2025-05-26",
-      "time": "22:00",
-      "week": 38,
-      "stadium": "Metropolitano",
-      "home_team": {
-        "name": "Atlético Madrid",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png"
-      },
-      "away_team": {
-        "name": "Sevilla",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sev.png"
-      }
-    }
-  ]
-}
+    ]
+ }
