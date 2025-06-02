@@ -12,14 +12,14 @@
           "colors": ["#FFFFFF", "#FEBE10"]
         },
         "away_team": {
-          "name": "Barcelona",
+          "name": "FC Barcelona",
           "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brc.png",
           "colors": ["#A50044", "#004D98"]
         }
       },
       {
         "match_id": 302,
-        "date": "2025-05-26",
+        "date": "2025-07-26",
         "time": "22:00",
         "week": 38,
         "stadium": "Metropolitano",
