@@ -2,7 +2,7 @@
   "matches": [
       {
         "match_id": 1,
-        "date": "2025-05-24",
+        "date": "2025-07-24",
         "time": "16:00",
         "week": 37,
         "stadium": "Recep Tayyip Erdoğan Stadı",
@@ -19,7 +19,7 @@
       },
       {
         "match_id": 2,
-        "date": "2025-05-24",
+        "date": "2025-07-24",
         "time": "19:00",
         "week": 37,
         "stadium": "Gaziantep Büyükşehir Belediye Stadyumu",
@@ -36,7 +36,7 @@
       },
       {
         "match_id": 3,
-        "date": "2025-05-24",
+        "date": "2025-07-24",
         "time": "19:00",
         "week": 37,
         "stadium": "Gürsel Aksel Stadyumu",
