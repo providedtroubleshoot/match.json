@@ -24,7 +24,7 @@
         "week": 38,
         "stadium": "Metropolitano",
         "home_team": {
-          "name": "Atlético Madrid",
+          "name": "Atletico Madrid",
           "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png",
           "colors": ["#C8102E", "#FFFFFF"]
         },
