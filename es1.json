@@ -24,12 +24,12 @@
         "week": 38,
         "stadium": "Metropolitano",
         "home_team": {
-          "name": "Atletico Madrid",
+          "name": "Atlético Madrid",
           "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png",
           "colors": ["#C8102E", "#FFFFFF"]
         },
         "away_team": {
-          "name": "Sevilla",
+          "name": "Sevilla FC",
           "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sev.png",
           "colors": ["#FFFFFF", "#D1001C"]
         }

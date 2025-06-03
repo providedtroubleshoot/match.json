@@ -7,7 +7,7 @@
       "week": 38,
       "stadium": "Old Trafford",
       "home_team": {
-        "name": "Manchester United",
+        "name": "Man United",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_manutd.png",
         "colors": ["#DA291C", "#FBE122"]
       },
@@ -24,7 +24,7 @@
       "week": 38,
       "stadium": "Etihad Stadium",
       "home_team": {
-        "name": "Manchester City",
+        "name": "Man City",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png",
         "colors": ["#6CABDD", "#FFFFFF"]
       },
