@@ -6,6 +6,7 @@
       "time": "17:00",
       "week": 38,
       "stadium": "Old Trafford",
+      "importance_score": 8.8,
       "home_team": {
         "name": "Man United",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_manutd.png",
@@ -23,6 +24,7 @@
       "time": "17:00",
       "week": 38,
       "stadium": "Etihad Stadium",
+      "importance_score": 7.9,
       "home_team": {
         "name": "Man City",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png",
