@@ -2,8 +2,44 @@
   "matches": [
     {
       "match_id": 1,
-      "date": "2025-07-24",
-      "time": "16:00",
+      "date": "2025-08-08",
+      "time": "21:30",
+      "week": 1,
+      "importance_score": 8.0,
+      "stadium": "Gaziantep Büyükşehir Stadyumu",
+      "home_team": {
+        "name": "Gaziantep FK",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gfk.png",
+        "colors": ["#E30613", "#000000"]
+      },
+      "away_team": {
+        "name": "Galatasaray",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gs.png",
+        "colors": ["#A32035", "#FDB813"]
+      }
+    },
+    {
+      "match_id": 2,
+      "date": "2025-08-09",
+      "time": "19:00",
+      "week": 1,
+      "importance_score": 6.4,
+      "stadium": "Samsun Yeni 19 Mayıs Stadyumu",
+      "home_team": {
+        "name": "Samsunspor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_smsn.png",
+        "colors": ["#E30613", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Gençlerbirliği",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gnclr.png",
+        "colors": ["#E30613", "#000000"]
+      }
+    },
+    {
+      "match_id": 3,
+      "date": "2025-08-09",
+      "time": "21:30",
       "week": 1,
       "stadium": "Corendon Airlines Park",
       "importance_score": 5.3,
@@ -19,26 +55,26 @@
       }
     },
     {
-      "match_id": 2,
-      "date": "2025-07-24",
-      "time": "19:00",
+      "match_id": 4,
+      "date": "2025-08-09",
+      "time": "21:30",
       "week": 1,
-      "stadium": "Çaykur Didi Stadyumu",
-      "importance_score": 6.1,
+      "importance_score": 7.5,
+      "stadium": "Ülker Stadyumu",
       "home_team": {
-        "name": "Ç. Rizespor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_crz.png",
-        "colors": ["#1CA153", "#005BAC"]
+        "name": "Fenerbahçe",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fb.png",
+        "colors": ["#0C2340", "#FEDD00"]
       },
       "away_team": {
-        "name": "Göztepe",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gz.png",
-        "colors": ["#FFD700", "#A32035"]
+        "name": "Alanyaspor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aln.png",
+        "colors": ["#FF6A13", "#007C30"]
       }
     },
     {
-      "match_id": 3,
-      "date": "2025-07-24",
+      "match_id": 5,
+      "date": "2025-08-10",
       "time": "19:00",
       "week": 1,
       "stadium": "Recep Tayyip Erdoğan Stadyumu",
@@ -55,9 +91,27 @@
       }
     },
     {
-      "match_id": 4,
-      "date": "2025-05-25",
+      "match_id": 6,
+      "date": "2025-08-10",
       "time": "19:00",
+      "week": 1,
+      "stadium": "Çaykur Didi Stadyumu",
+      "importance_score": 6.1,
+      "home_team": {
+        "name": "Ç. Rizespor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_crz.png",
+        "colors": ["#1CA153", "#005BAC"]
+      },
+      "away_team": {
+        "name": "Göztepe",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gz.png",
+        "colors": ["#FFD700", "#A32035"]
+      }
+    },
+    {
+      "match_id": 7,
+      "date": "2025-08-10",
+      "time": "21:30",
       "week": 1,
       "importance_score": 3.4,
       "stadium": "Atatürk Olimpiyat Stadyumu",
@@ -73,48 +127,12 @@
       }
     },
     {
-      "match_id": 5,
-      "date": "2025-05-25",
-      "time": "19:00",
-      "week": 1,
-      "importance_score": 7.5,
-      "stadium": "Şükrü Saraçoğlu Stadı",
-      "home_team": {
-        "name": "Fenerbahçe",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fb.png",
-        "colors": ["#0C2340", "#FEDD00"]
-      },
-      "away_team": {
-        "name": "Alanyaspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aln.png",
-        "colors": ["#FF6A13", "#007C30"]
-      }
-    },
-    {
-      "match_id": 6,
-      "date": "2025-05-25",
-      "time": "19:00",
-      "week": 1,
-      "importance_score": 8.0,
-      "stadium": "Gaziantep Büyükşehir Stadyumu",
-      "home_team": {
-        "name": "Gaziantep FK",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gfk.png",
-        "colors": ["#E30613", "#000000"]
-      },
-      "away_team": {
-        "name": "Galatasaray",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gs.png",
-        "colors": ["#A32035", "#FDB813"]
-      }
-    },
-    {
-      "match_id": 7,
-      "date": "2025-05-25",
-      "time": "19:00",
+      "match_id": 8,
+      "date": "2025-08-10",
+      "time": "21:30",
       "week": 1,
       "importance_score": 7.2,
-      "stadium": "Kayseri Stadyumu",
+      "stadium": "RHG Enertürk Enerji Stadyumu",
       "home_team": {
         "name": "Kayserispor",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kys.png",
@@ -127,9 +145,9 @@
       }
     },
     {
-      "match_id": 8,
-      "date": "2025-05-25",
-      "time": "19:00",
+      "match_id": 9,
+      "date": "2025-08-11",
+      "time": "21:30",
       "week": 1,
       "importance_score": 8.0,
       "stadium": "Papara Park",
@@ -142,24 +160,6 @@
         "name": "Kocaelispor",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kca.png",
         "colors": ["#008000", "#000000"]
-      }
-    },
-    {
-      "match_id": 9,
-      "date": "2025-05-26",
-      "time": "20:00",
-      "week": 1,
-      "importance_score": 6.4,
-      "stadium": "Mersin Stadyumu",
-      "home_team": {
-        "name": "Samsunspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_smsn.png",
-        "colors": ["#E30613", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Gençlerbirliği",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gnclr.png",
-        "colors": ["#E30613", "#000000"]
       }
     }
   ]
