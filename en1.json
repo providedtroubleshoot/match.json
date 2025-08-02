@@ -8,12 +8,12 @@
       "stadium": "Anfield",
       "importance_score": 7.5,
       "home_team": {
-        "name": "Liverpool",
+        "name": "Liverpool FC",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_liv.png",
         "colors": ["#C8102E", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Bournemouth",
+        "name": "AFC Bournemouth",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bour.png",
         "colors": ["#DA291C", "#000000"]
       }
@@ -49,7 +49,7 @@
         "colors": ["#0057B8", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Fulham",
+        "name": "Fulham FC",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fulham.png",
         "colors": ["#000000", "#FFFFFF"]
       }
@@ -80,12 +80,12 @@
       "stadium": "Tottenham Hotspur Stadium",
       "importance_score": 6.2,
       "home_team": {
-        "name": "Tottenham",
+        "name": "Tottenham Hotspur",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tottenham.png",
         "colors": ["#132257", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Burnley",
+        "name": "Burnley FC",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_burnley.png",
         "colors": ["#6C1D45", "#99D6EA"]
       }
@@ -98,7 +98,7 @@
       "stadium": "Molineux Stadium",
       "importance_score": 8.0,
       "home_team": {
-        "name": "Wolverhampton",
+        "name": "Wolverhampton Wanderers",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_wolves.png",
         "colors": ["#FDB913", "#231F20"]
       },
@@ -116,7 +116,7 @@
       "stadium": "Stamford Bridge",
       "importance_score": 7.8,
       "home_team": {
-        "name": "Chelsea",
+        "name": "Chelsea FC",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_chelsea.png",
         "colors": ["#034694", "#FFFFFF"]
       },
@@ -139,7 +139,7 @@
         "colors": ["#DD0000", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Brentford",
+        "name": "Brentford FC",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brentford.png",
         "colors": ["#FF0000", "#FFFFFF"]
       }
@@ -175,7 +175,7 @@
         "colors": ["#FFCD00", "#1D428A"]
       },
       "away_team": {
-        "name": "Everton",
+        "name": "Everton FC",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_everton.png",
         "colors": ["#003399", "#FFFFFF"]
       }
