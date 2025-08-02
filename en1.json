@@ -135,7 +135,7 @@
       "importance_score": 5.7,
       "home_team": {
         "name": "Nottingham Forest",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_notting	.png",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_notting.png",
         "colors": ["#DD0000", "#FFFFFF"]
       },
       "away_team": {
