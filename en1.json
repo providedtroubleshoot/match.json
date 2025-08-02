@@ -8,12 +8,12 @@
       "stadium": "Anfield",
       "importance_score": 7.5,
       "home_team": {
-        "name": "Liverpool FC",
+        "name": "Liverpool",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_liv.png",
         "colors": ["#C8102E", "#FFFFFF"]
       },
       "away_team": {
-        "name": "AFC Bournemouth",
+        "name": "Bournemouth",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bour.png",
         "colors": ["#DA291C", "#000000"]
       }
