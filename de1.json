@@ -8,12 +8,12 @@
       "stadium": "Allianz Arena",
       "importance_score": 9.5,
       "home_team": {
-        "name": "Bayern Munich",
+        "name": "Bayern Münih",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bayern.png",
         "colors": ["#DC052D", "#0066B2"]
       },
       "away_team": {
-        "name": "RB Leipzig",
+        "name": "Leipzig",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rbl.png",
         "colors": ["#FFFFFF", "#E30613"]
       }
@@ -26,7 +26,7 @@
       "stadium": "BayArena",
       "importance_score": 7.8,
       "home_team": {
-        "name": "Bayer Leverkusen",
+        "name": "Leverkusen",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png",
         "colors": ["#E30613", "#000000"]
       },
@@ -44,12 +44,12 @@
       "stadium": "Deutsche Bank Park",
       "importance_score": 6.9,
       "home_team": {
-        "name": "Eintracht Frankfurt",
+        "name": "Frankfurt",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png",
         "colors": ["#E30613", "#000000"]
       },
       "away_team": {
-        "name": "Werder Bremen",
+        "name": "Bremen",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_werder.png",
         "colors": ["#008B45", "#FFFFFF"]
       }
@@ -98,7 +98,7 @@
       "stadium": "Stadion An der Alten Försterei",
       "importance_score": 6.2,
       "home_team": {
-        "name": "Union Berlin",
+        "name": "U. Berlin",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_berlin.png",
         "colors": ["#DC052D", "#FFFFFF"]
       },
@@ -121,7 +121,7 @@
         "colors": ["#441100", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Borussia Dortmund",
+        "name": "Dortmund",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png",
         "colors": ["#FDE100", "#000000"]
       }
@@ -134,7 +134,7 @@
       "stadium": "MEWA Arena",
       "importance_score": 6.3,
       "home_team": {
-        "name": "Mainz 05",
+        "name": "Mainz",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mainz.png",
         "colors": ["#E30613", "#FFFFFF"]
       },
@@ -152,7 +152,7 @@
       "stadium": "Borussia-Park",
       "importance_score": 6.7,
       "home_team": {
-        "name": "Mönchengladbach",
+        "name": "Gladbach",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bmg.png",
         "colors": ["#000000", "#FFFFFF"]
       },
