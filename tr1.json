@@ -13,7 +13,7 @@
         "colors": ["#A32638", "#FDB913"]
       },
       "away_team": {
-        "name": "Fatih Karagümrük",
+        "name": "Karagümrük",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kara.png",
         "colors": ["#E30613", "#000000"]
       }
@@ -49,7 +49,7 @@
         "colors": ["#F47B20", "#00843D"]
       },
       "away_team": {
-        "name": "Çaykur Rizespor",
+        "name": "Ç. Rizespor",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_crz.png",
         "colors": ["#006BB6", "#FFFFFF"]
       }
@@ -116,7 +116,7 @@
       "stadium": "Başakşehir Fatih Terim Stadyumu",
       "importance_score": 6.4,
       "home_team": {
-        "name": "Başakşehir FK",
+        "name": "Başakşehir",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ibfk.png",
         "colors": ["#FF6600", "#0B2240"]
       },
