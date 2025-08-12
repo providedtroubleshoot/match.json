@@ -30,5 +30,13 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_ger1.png",
     "primaryColor": "0xFFD2042D",
     "secondaryColor": "0xFFFFFFFF"
+  },
+  {
+    "id": "fr1",
+    "name": "Ligue 1",
+    "country": "France",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_fr1.png",
+    "primaryColor": "0xFFCEFB0A",
+    "secondaryColor": "0xFF091C3D"
   }
 ]
