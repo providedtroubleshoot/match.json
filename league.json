@@ -41,7 +41,7 @@
   },
   {
     "id": "br1",
-    "name": "Campeonato Brasileiro Série A",
+    "name": "Brasileirão Série A",
     "country": "Brazil",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_br1.png",
     "primaryColor": "0xFF00429C",
