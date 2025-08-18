@@ -1,13 +1,5 @@
 [
   {
-    "id": "tr1",
-    "name": "Süper Lig",
-    "country": "Türkiye",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_tr1.png",
-    "primaryColor": "0xFFE30A17",
-    "secondaryColor": "0xFFFFFFFF"
-  },
-  {
     "id": "en1",
     "name": "Premier League",
     "country": "England",
@@ -46,5 +38,13 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_br1.png",
     "primaryColor": "0xFF00429C",
     "secondaryColor": "0xFFF0CA00"
+  },
+  {
+    "id": "tr1",
+    "name": "Süper Lig",
+    "country": "Türkiye",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_tr1.png",
+    "primaryColor": "0xFFE30A17",
+    "secondaryColor": "0xFFFFFFFF"
   }
 ]
