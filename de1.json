@@ -4,7 +4,7 @@
       "match_id": 801,
       "date": "2025-08-22",
       "time": "21:30",
-      "week": 3,
+      "week": 1,
       "stadium": "Allianz Arena",
       "importance_score": 9.5,
       "home_team": {
@@ -22,7 +22,7 @@
       "match_id": 802,
       "date": "2025-08-23",
       "time": "16:30",
-      "week": 2,
+      "week": 1,
       "stadium": "BayArena",
       "importance_score": 7.8,
       "home_team": {
@@ -40,7 +40,7 @@
       "match_id": 803,
       "date": "2025-08-23",
       "time": "16:30",
-      "week": 5,
+      "week": 1,
       "stadium": "Deutsche Bank Park",
       "importance_score": 6.9,
       "home_team": {
@@ -58,7 +58,7 @@
       "match_id": 804,
       "date": "2025-08-23",
       "time": "16:30",
-      "week": 6,
+      "week": 1,
       "stadium": "Europa-Park Stadion",
       "importance_score": 6.5,
       "home_team": {
@@ -76,7 +76,7 @@
       "match_id": 805,
       "date": "2025-08-23",
       "time": "16:30",
-      "week": 8,
+      "week": 1,
       "stadium": "Voith-Arena",
       "importance_score": 5.9,
       "home_team": {
@@ -94,7 +94,7 @@
       "match_id": 806,
       "date": "2025-08-23",
       "time": "16:30",
-      "week": 16,
+      "week": 1,
       "stadium": "Stadion An der Alten Försterei",
       "importance_score": 6.2,
       "home_team": {
@@ -112,7 +112,7 @@
       "match_id": 807,
       "date": "2025-08-23",
       "time": "19:30",
-      "week": 14,
+      "week": 11,
       "stadium": "Millerntor-Stadion",
       "importance_score": 7.1,
       "home_team": {
@@ -130,7 +130,7 @@
       "match_id": 808,
       "date": "2025-08-24",
       "time": "16:30",
-      "week": 11,
+      "week": 1,
       "stadium": "MEWA Arena",
       "importance_score": 6.3,
       "home_team": {
@@ -148,7 +148,7 @@
       "match_id": 809,
       "date": "2025-08-24",
       "time": "18:30",
-      "week": 12,
+      "week": 11,
       "stadium": "Borussia-Park",
       "importance_score": 6.7,
       "home_team": {
