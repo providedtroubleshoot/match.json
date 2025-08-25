@@ -131,8 +131,8 @@
       "date": "2025-08-31",
       "time": "21:30",
       "week": 4,
-      "stadium": "Şenol Güneş Spor Kompleksi",
-      "importance_score": 7.0,
+      "stadium": Papara Park",
+      "importance_score": 7.4,
       "home_team": {
         "name": "Trabzonspor",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ts.png",
@@ -140,7 +140,7 @@
       },
       "away_team": {
         "name": "Samsunspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sms.png",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_smsn.png",
         "colors": ["#FF0000", "#FFFFFF"]
       }
     },
