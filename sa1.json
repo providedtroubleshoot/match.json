@@ -154,7 +154,7 @@
       "home_team": {
         "name": "Al-Okhdood",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alokhdood.png",
-        "colors": ["#FF0000", "#000000"]
+        "colors": ["#6BB9E1", "#FFFFFF"]
       },
       "away_team": {
         "name": "Al-Ittihad",
