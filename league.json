@@ -46,5 +46,13 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_tr1.png",
     "primaryColor": "0xFFE30A17",
     "secondaryColor": "0xFFFFFFFF"
+  },
+  {
+    "id": "sa1",
+    "name": "Pro League",
+    "country": "Saudi",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_sa1.png",
+    "primaryColor": "0xFFFFFFFF",
+    "secondaryColor": "0xFF0AE32B"
   }
 ]
