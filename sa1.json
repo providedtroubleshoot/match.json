@@ -49,7 +49,7 @@
         "colors": ["#006400", "#FFFFFF"]
       },
       "away_team": {
-        "name": "NEOM",
+        "name": "NEOM SC",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_neom.png",
         "colors": ["#000000", "#FFD700"]
       }
