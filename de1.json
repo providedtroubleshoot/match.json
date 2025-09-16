@@ -1,70 +1,106 @@
 {
   "matches": [
     {
-      "match_id": 6000,
-      "date": "2025-09-12",
+      "match_id": 6009,
+      "date": "2025-09-19",
       "time": "21:30",
-      "week": 3,
-      "stadium": "BayArena",
-      "importance_score": 7.5,
+      "week": 4,
+      "stadium": "Mercedes-Benz Arena",
+      "importance_score": 6.0,
       "home_team": {
-        "name": "Leverkusen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png",
-        "colors": ["#E30613", "#000000"]
-      },
-      "away_team": {
-        "name": "Frankfurt",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png",
-        "colors": ["#E30613", "#000000"]
-      }
-    },
-    {
-      "match_id": 6001,
-      "date": "2025-09-13",
-      "time": "16:30",
-      "week": 3,
-      "stadium": "Europa-Park Stadion",
-      "importance_score": 6.8,
-      "home_team": {
-        "name": "Freiburg",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_freiburg.png",
-        "colors": ["#000000", "#FFFFFF"]
-      },
-      "away_team": {
         "name": "Stuttgart",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_stuttgart.png",
         "colors": ["#FFFFFF", "#E30613"]
+      },
+      "away_team": {
+        "name": "St. Pauli",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pauli.png",
+        "colors": ["#441100", "#FFFFFF"]
       }
     },
     {
-      "match_id": 6002,
-      "date": "2025-09-13",
+      "match_id": 6010,
+      "date": "2025-09-20",
       "time": "16:30",
-      "week": 3,
-      "stadium": "Mewa Arena",
-      "importance_score": 7.0,
+      "week": 4,
+      "stadium": "Weserstadion",
+      "importance_score": 5.8,
       "home_team": {
+        "name": "Bremen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_werder.png",
+        "colors": ["#008B45", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Freiburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_freiburg.png",
+        "colors": ["#000000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 6011,
+      "date": "2025-09-20",
+      "time": "16:30",
+      "week": 4,
+      "stadium": "WWK Arena",
+      "importance_score": 5.7,
+      "home_team": {
+        "name": "Augsburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_augsburg.png",
+        "colors": ["#C20C0C", "#008751"]
+      },
+      "away_team": {
         "name": "Mainz",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mainz.png",
         "colors": ["#E30613", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Leipzig",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rbl.png",
-        "colors": ["#FFFFFF", "#E30613"]
       }
     },
     {
-      "match_id": 6003,
-      "date": "2025-09-13",
+      "match_id": 6012,
+      "date": "2025-09-20",
       "time": "16:30",
-      "week": 3,
-      "stadium": "Volkswagen Arena",
-      "importance_score": 6.9,
+      "week": 4,
+      "stadium": "PreZero Arena",
+      "importance_score": 7.9,
       "home_team": {
-        "name": "Wolfsburg",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_wolfsburg.png",
-        "colors": ["#65B32E", "#FFFFFF"]
+        "name": "Hoffenheim",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hoffenheim.png",
+        "colors": ["#005BAC", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Bayern Münih",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bayern.png",
+        "colors": ["#DC052D", "#0066B2"]
+      }
+    },
+    {
+      "match_id": 6013,
+      "date": "2025-09-20",
+      "time": "16:30",
+      "week": 4,
+      "stadium": "Volksparkstadion",
+      "importance_score": 5.5,
+      "home_team": {
+        "name": "Hamburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hamburg.png",
+        "colors": ["#0F45A0", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Heidenheim",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heidenheim.png",
+        "colors": ["#005BAC", "#DA291C"]
+      }
+    },
+    {
+      "match_id": 6014,
+      "date": "2025-09-20",
+      "time": "19:30",
+      "week": 4,
+      "stadium": "Red Bull Arena",
+      "importance_score": 6.6,
+      "home_team": {
+        "name": "Leipzig",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rbl.png",
+        "colors": ["#FFFFFF", "#E30613"]
       },
       "away_team": {
         "name": "Köln",
@@ -73,93 +109,57 @@
       }
     },
     {
-      "match_id": 6004,
-      "date": "2025-09-13",
+      "match_id": 6015,
+      "date": "2025-09-21",
       "time": "16:30",
-      "week": 3,
-      "stadium": "Stadion An der Alten Försterei",
-      "importance_score": 7.1,
+      "week": 4,
+      "stadium": "Deutsche Bank Park",
+      "importance_score": 6.0,
       "home_team": {
+        "name": "Frankfurt",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png",
+        "colors": ["#E30613", "#000000"]
+      },
+      "away_team": {
         "name": "U. Berlin",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_berlin.png",
         "colors": ["#DC052D", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Hoffenheim",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hoffenheim.png",
-        "colors": ["#005BAC", "#FFFFFF"]
       }
     },
     {
-      "match_id": 6005,
-      "date": "2025-09-13",
-      "time": "16:30",
-      "week": 3,
-      "stadium": "Voith-Arena",
-      "importance_score": 7.3,
-      "home_team": {
-        "name": "Heidenheim",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heidenheim.png",
-        "colors": ["#005BAC", "#DA291C"]
-      },
-      "away_team": {
-        "name": "Dortmund",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png",
-        "colors": ["#FDE100", "#000000"]
-      }
-    },
-    {
-      "match_id": 6006,
-      "date": "2025-09-13",
-      "time": "19:30",
-      "week": 3,
-      "stadium": "Allianz Arena",
-      "importance_score": 9.0,
-      "home_team": {
-        "name": "Bayern Münih",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bayern.png",
-        "colors": ["#DC052D", "#0066B2"]
-      },
-      "away_team": {
-        "name": "Hamburg",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hamburg.png",
-        "colors": ["#0F45A0", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 6007,
-      "date": "2025-09-14",
-      "time": "16:30",
-      "week": 3,
-      "stadium": "Millerntor-Stadion",
-      "importance_score": 7.2,
-      "home_team": {
-        "name": "St. Pauli",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pauli.png",
-        "colors": ["#441100", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Augsburg",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_augsburg.png",
-        "colors": ["#C20C0C", "#008751"]
-      }
-    },
-    {
-      "match_id": 6008,
-      "date": "2025-09-14",
+      "match_id": 6016,
+      "date": "2025-09-21",
       "time": "18:30",
-      "week": 3,
-      "stadium": "Borussia-Park",
-      "importance_score": 7.4,
+      "week": 4,
+      "stadium": "BayArena",
+      "importance_score": 6.3,
       "home_team": {
+        "name": "Leverkusen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png",
+        "colors": ["#E30613", "#000000"]
+      },
+      "away_team": {
         "name": "Gladbach",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bmg.png",
         "colors": ["#000000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 6017,
+      "date": "2025-09-21",
+      "time": "20:30",
+      "week": 4,
+      "stadium": "Signal Iduna Park",
+      "importance_score": 7.5,
+      "home_team": {
+        "name": "Dortmund",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png",
+        "colors": ["#FDE100", "#000000"]
       },
       "away_team": {
-        "name": "Bremen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_werder.png",
-        "colors": ["#008B45", "#FFFFFF"]
+        "name": "Wolfsburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_wolfsburg.png",
+        "colors": ["#65B32E", "#FFFFFF"]
       }
     }
   ]
