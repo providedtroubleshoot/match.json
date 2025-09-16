@@ -35,6 +35,24 @@
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aln.png",
         "colors": ["#F47B20", "#00843D"]
       }
+    },
+    {
+      "match_id": 3026,
+      "date": "2025-09-17",
+      "time": "20:00",
+      "week": 5,
+      "stadium": "Samsun 19 Mayıs Stadyumu",
+      "importance_score": 4.0,
+      "home_team": {
+        "name": "Samsunspor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_smsn.png",
+        "colors": ["#E30613", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Kasımpaşa",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ksp.png",
+        "colors": ["#0033A0", "#FFFFFF"]
+      }
     }
   ]
 }
