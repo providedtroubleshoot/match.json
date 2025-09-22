@@ -1,165 +1,165 @@
 {
   "matches": [
     {
-      "match_id": 1527,
-      "date": "2025-09-19",
+      "match_id": 1536,
+      "date": "2025-09-26",
       "time": "21:45",
-      "week": 5,
-      "stadium": "Groupama Stadium",
-      "importance_score": 6.2,
+      "week": 6,
+      "stadium": "Stade de la Meinau",
+      "importance_score": 6.0,
       "home_team": {
-        "name": "Lyon",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lyo.png",
-        "colors": ["#00285E", "#DA291C"]
-      },
-      "away_team": {
-        "name": "Angers",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ang.png",
-        "colors": ["#000000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1528,
-      "date": "2025-09-20",
-      "time": "18:00",
-      "week": 5,
-      "stadium": "Stade de la Beaujoire",
-      "importance_score": 5.4,
-      "home_team": {
-        "name": "Nantes",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nte.png",
-        "colors": ["#FFFF00", "#008000"]
-      },
-      "away_team": {
-        "name": "Rennes",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ren.png",
-        "colors": ["#ED1C24", "#000000"]
-      }
-    },
-    {
-      "match_id": 1529,
-      "date": "2025-09-20",
-      "time": "20:00",
-      "week": 5,
-      "stadium": "Stade Francis-Le Blé",
-      "importance_score": 5.1,
-      "home_team": {
-        "name": "Brest",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brs.png",
-        "colors": ["#D6002F", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Nice",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nce.png",
-        "colors": ["#000000", "#ED1C24"]
-      }
-    },
-    {
-      "match_id": 1530,
-      "date": "2025-09-20",
-      "time": "22:05",
-      "week": 5,
-      "stadium": "Stade Bollaert-Delelis",
-      "importance_score": 6.7,
-      "home_team": {
-        "name": "Lens",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_len.png",
-        "colors": ["#E30613", "#FFD200"]
-      },
-      "away_team": {
-        "name": "Lille",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lil.png",
-        "colors": ["#E4002B", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1531,
-      "date": "2025-09-21",
-      "time": "16:00",
-      "week": 5,
-      "stadium": "Stade Charléty",
-      "importance_score": 5.0,
-      "home_team": {
-        "name": "Paris FC",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pfc.png",
-        "colors": ["#00AEEF", "#FFFFFF"]
-      },
-      "away_team": {
         "name": "Strasbourg",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rcs.png",
         "colors": ["#0000FF", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1532,
-      "date": "2025-09-21",
-      "time": "18:15",
-      "week": 5,
-      "stadium": "Stade de l'Abbé-Deschamps",
-      "importance_score": 5.3,
-      "home_team": {
-        "name": "AJ Auxerre",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aux.png",
-        "colors": ["#002767", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Toulouse",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tls.png",
-        "colors": ["#745990", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1533,
-      "date": "2025-09-21",
-      "time": "18:15",
-      "week": 5,
-      "stadium": "Stade Océane",
-      "importance_score": 4.9,
-      "home_team": {
-        "name": "Le Havre",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lhav.png",
-        "colors": ["#00427F", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Lorient",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lrn.png",
-        "colors": ["#FF7300", "#000000"]
-      }
-    },
-    {
-      "match_id": 1534,
-      "date": "2025-09-21",
-      "time": "18:15",
-      "week": 5,
-      "stadium": "Stade Louis II",
-      "importance_score": 5.5,
-      "home_team": {
-        "name": "Monaco",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mco.png",
-        "colors": ["#F2003C", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Metz",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mtz.png",
-        "colors": ["#5C0916", "#FFD200"]
-      }
-    },
-    {
-      "match_id": 1535,
-      "date": "2025-09-22",
-      "time": "21:00",
-      "week": 5,
-      "stadium": "Stade Vélodrome",
-      "importance_score": 8.1,
-      "home_team": {
         "name": "Marsilya",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mrs.png",
         "colors": ["#00A1DE", "#F15A22"]
+      }
+    },
+    {
+      "match_id": 1537,
+      "date": "2025-09-27",
+      "time": "18:00",
+      "week": 6,
+      "stadium": "Stade du Moustoir",
+      "importance_score": 5.3,
+      "home_team": {
+        "name": "Lorient",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lrn.png",
+        "colors": ["#FF7300", "#000000"]
       },
       "away_team": {
+        "name": "Monaco",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mco.png",
+        "colors": ["#F2003C", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1538,
+      "date": "2025-09-27",
+      "time": "20:00",
+      "week": 6,
+      "stadium": "Stadium de Toulouse",
+      "importance_score": 5.5,
+      "home_team": {
+        "name": "Toulouse",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tls.png",
+        "colors": ["#745990", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Nantes",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nte.png",
+        "colors": ["#FFFF00", "#008000"]
+      }
+    },
+    {
+      "match_id": 1539,
+      "date": "2025-09-27",
+      "time": "22:05",
+      "week": 6,
+      "stadium": "Parc des Princes",
+      "importance_score": 7.0,
+      "home_team": {
         "name": "PSG",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psg.png",
         "colors": ["#004170", "#DA021C"]
+      },
+      "away_team": {
+        "name": "AJ Auxerre",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aux.png",
+        "colors": ["#002767", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1540,
+      "date": "2025-09-28",
+      "time": "16:00",
+      "week": 6,
+      "stadium": "Allianz Riviera",
+      "importance_score": 5.0,
+      "home_team": {
+        "name": "Nice",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nce.png",
+        "colors": ["#000000", "#ED1C24"]
+      },
+      "away_team": {
+        "name": "Paris FC",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pfc.png",
+        "colors": ["#00AEEF", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1541,
+      "date": "2025-09-28",
+      "time": "18:15",
+      "week": 6,
+      "stadium": "Stade Raymond-Kopa",
+      "importance_score": 5.1,
+      "home_team": {
+        "name": "Angers",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ang.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Brest",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brs.png",
+        "colors": ["#D6002F", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1542,
+      "date": "2025-09-28",
+      "time": "18:15",
+      "week": 6,
+      "stadium": "Stade Saint-Symphorien",
+      "importance_score": 4.8,
+      "home_team": {
+        "name": "Metz",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mtz.png",
+        "colors": ["#5C0916", "#FFD200"]
+      },
+      "away_team": {
+        "name": "Le Havre",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lhav.png",
+        "colors": ["#00427F", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1543,
+      "date": "2025-09-28",
+      "time": "18:15",
+      "week": 6,
+      "stadium": "Stade Pierre-Mauroy",
+      "importance_score": 6.3,
+      "home_team": {
+        "name": "Lille",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lil.png",
+        "colors": ["#E4002B", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Lyon",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lyo.png",
+        "colors": ["#00285E", "#DA291C"]
+      }
+    },
+    {
+      "match_id": 1544,
+      "date": "2025-09-28",
+      "time": "21:45",
+      "week": 6,
+      "stadium": "Roazhon Park",
+      "importance_score": 6.5,
+      "home_team": {
+        "name": "Rennes",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ren.png",
+        "colors": ["#ED1C24", "#000000"]
+      },
+      "away_team": {
+        "name": "Lens",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_len.png",
+        "colors": ["#E30613", "#FFD200"]
       }
     }
   ]
