@@ -24,6 +24,14 @@
     "secondaryColor": "0xFFFFFFFF"
   },
   {
+    "id": "it1",
+    "name": "Serie A",
+    "country": "Italy",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_it1.png",
+    "primaryColor": "0xFFFFFFFF",
+    "secondaryColor": "0xFF0AE32B"
+  },
+  {
     "id": "fr1",
     "name": "Ligue 1",
     "country": "France",
@@ -52,14 +60,6 @@
     "name": "Pro League",
     "country": "Saudi",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_sa1.png",
-    "primaryColor": "0xFFFFFFFF",
-    "secondaryColor": "0xFF0AE32B"
-  },
-  {
-    "id": "it1",
-    "name": "Serie A",
-    "country": "Italy",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_it1.png",
     "primaryColor": "0xFFFFFFFF",
     "secondaryColor": "0xFF0AE32B"
   }
