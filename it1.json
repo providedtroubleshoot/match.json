@@ -1,0 +1,130 @@
+{
+  "matches": [
+    {
+      "match_id": 75000,
+      "date": "2025-09-28",
+      "time": "13:30",
+      "week": 5,
+      "stadium": "Mapei Stadium",
+      "importance_score": 3.5,
+      "home_team": {
+        "name": "Sassuolo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sassuolo.png",
+        "colors": ["#006400", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Udinese",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_udinese.png",
+        "colors": ["#000000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 75001,
+      "date": "2025-09-28",
+      "time": "16:00",
+      "week": 5,
+      "stadium": "Arena Garibaldi – Romeo Anconetani",
+      "importance_score": 4.2,
+      "home_team": {
+        "name": "Pisa",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pisa.png",
+        "colors": ["#0000FF", "#000000"]
+      },
+      "away_team": {
+        "name": "Fiorentina",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fiorentina.png",
+        "colors": ["#800080", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 75002,
+      "date": "2025-09-28",
+      "time": "16:00",
+      "week": 5,
+      "stadium": "Stadio Olimpico (Rome)",
+      "importance_score": 5.7,
+      "home_team": {
+        "name": "Roma",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_roma.png",
+        "colors": ["#800000", "#FFD700"]
+      },
+      "away_team": {
+        "name": "Verona",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_verona.png",
+        "colors": ["#002FA7", "#FFFF00"]
+      }
+    },
+    {
+      "match_id": 75003,
+      "date": "2025-09-28",
+      "time": "19:00",
+      "week": 5,
+      "stadium": "Stadio Via del Mare",
+      "importance_score": 3.1,
+      "home_team": {
+        "name": "Lecce",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lecce.png",
+        "colors": ["#FF0000", "#FFD700"]
+      },
+      "away_team": {
+        "name": "Bologna",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bologna.png",
+        "colors": ["#000080", "#FF0000"]
+      }
+    },
+    {
+      "match_id": 75004,
+      "date": "2025-09-28",
+      "time": "21:45",
+      "week": 5,
+      "stadium": "San Siro",
+      "importance_score": 7.5,
+      "home_team": {
+        "name": "Milan",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_milan.png",
+        "colors": ["#FF0000", "#000000"]
+      },
+      "away_team": {
+        "name": "Napoli",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_napoli.png",
+        "colors": ["#00BFFF", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 75005,
+      "date": "2025-09-29",
+      "time": "19:30",
+      "week": 5,
+      "stadium": "Stadio Ennio Tardini",
+      "importance_score": 2.0,
+      "home_team": {
+        "name": "Parma",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_parma.png",
+        "colors": ["#FFD700", "#000080"]
+      },
+      "away_team": {
+        "name": "Torino",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_torino.png",
+        "colors": ["#800000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 75006,
+      "date": "2025-09-29",
+      "time": "21:45",
+      "week": 5,
+      "stadium": "Stadio Luigi Ferraris",
+      "importance_score": 3.6,
+      "home_team": {
+        "name": "Genoa",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_genoa.png",
+        "colors": ["#000080", "#FF0000"]
+      },
+      "away_team": {
+        "name": "Lazio",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lazio.png",
+        "colors": ["#87CEFA", "#FFFFFF"]
+      }
+    }
+  ]
+}
