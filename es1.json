@@ -121,7 +121,7 @@
         "colors": ["#A50044", "#004D98"]
       },
       "away_team": {
-        "name": "Real Sociedad",
+        "name": "Sociedad",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sociedad.png",
         "colors": ["#005BAC", "#FFFFFF"]
       }
