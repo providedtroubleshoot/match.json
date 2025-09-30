@@ -1,24 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 5057,
-      "date": "2025-09-30",
-      "time": "21:00",
-      "week": 7,
-      "stadium": "Mestalla",
-      "importance_score": 5.9,
-      "home_team": {
-        "name": "Valencia",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_valencia.png",
-        "colors": ["#F5941D", "#000000"]
-      },
-      "away_team": {
-        "name": "Real Oviedo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_oviedo.png",
-        "colors": ["#0033A0", "#FFD700"]
-      }
-    },
-    {
       "match_id": 5058,
       "date": "2025-10-03",
       "time": "22:00",
