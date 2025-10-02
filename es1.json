@@ -175,7 +175,7 @@
         "colors": ["#A1C9E9", "#DA291C"]
       },
       "away_team": {
-        "name": "Atlético Madrid",
+        "name": "Atletico Madrid",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png",
         "colors": ["#D50C2D", "#FFFFFF"]
       }
