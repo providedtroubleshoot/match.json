@@ -1,0 +1,40 @@
+{
+  "matches": [
+    {
+      "match_id": 19389138,
+      "date": "2025-10-21",
+      "time": "22:00",
+      "week": 3,
+      "stadium": "Emirates",
+      "importance_score": 8.0,
+      "home_team": {
+        "name": "Arsenal",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_arsenal.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Atletico Madrid",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png",
+        "colors": ["#000000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 111293936,
+      "date": "2025-10-21",
+      "time": "22:00",
+      "week": 3,
+      "stadium": "BayArena",
+      "importance_score": 6.0,
+      "home_team": {
+        "name": "Leverkusen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png",
+        "colors": ["#006437", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "PSG",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psg.png",
+        "colors": ["#0033A0", "#FFFFFF"]
+      }
+    }
+  ]
+}
