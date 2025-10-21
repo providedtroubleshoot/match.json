@@ -1,183 +1,183 @@
 {
   "matches": [
     {
-      "match_id": 2560,
-      "date": "2025-10-18",
-      "time": "14:30",
-      "week": 8,
-      "stadium": "City Ground",
-      "importance_score": 6.0,
-      "home_team": {
-        "name": "Nottingham",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_notting.png",
-        "colors": ["#DD0000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Chelsea",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_chelsea.png",
-        "colors": ["#034694", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 2561,
-      "date": "2025-10-18",
-      "time": "17:00",
-      "week": 8,
-      "stadium": "Amex Stadium",
-      "importance_score": 5.5,
-      "home_team": {
-        "name": "Brighton",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brighton.png",
-        "colors": ["#0057B8", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Newcastle",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_newc.png",
-        "colors": ["#241F20", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 2562,
-      "date": "2025-10-18",
-      "time": "17:00",
-      "week": 8,
-      "stadium": "Turf Moor",
+      "match_id": 2570,
+      "date": "2025-10-24",
+      "time": "22:00",
+      "week": 9,
+      "stadium": "Elland Road",
       "importance_score": 5.0,
       "home_team": {
-        "name": "Burnley",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_burnley.png",
-        "colors": ["#6C1D45", "#99D6EA"]
-      },
-      "away_team": {
         "name": "Leeds",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_leeds.png",
         "colors": ["#FFCD00", "#1D428A"]
-      }
-    },
-    {
-      "match_id": 2563,
-      "date": "2025-10-18",
-      "time": "17:00",
-      "week": 8,
-      "stadium": "Selhurst Park",
-      "importance_score": 5.5,
-      "home_team": {
-        "name": "Crystal Palace",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cry.png",
-        "colors": ["#1B458F", "#A7A5A6"]
       },
       "away_team": {
-        "name": "Bournemouth",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bour.png",
-        "colors": ["#DA291C", "#000000"]
-      }
-    },
-    {
-      "match_id": 2564,
-      "date": "2025-10-18",
-      "time": "17:00",
-      "week": 8,
-      "stadium": "Etihad Stadium",
-      "importance_score": 6.5,
-      "home_team": {
-        "name": "Man City",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png",
-        "colors": ["#6CABDD", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Everton",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_everton.png",
-        "colors": ["#003399", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 2565,
-      "date": "2025-10-18",
-      "time": "17:00",
-      "week": 8,
-      "stadium": "Stadium of Light",
-      "importance_score": 5.0,
-      "home_team": {
-        "name": "Sunderland",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sunderland.png",
-        "colors": ["#D71920", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Wolves",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_wolves.png",
-        "colors": ["#FDB913", "#231F20"]
-      }
-    },
-    {
-      "match_id": 2566,
-      "date": "2025-10-18",
-      "time": "19:30",
-      "week": 8,
-      "stadium": "Craven Cottage",
-      "importance_score": 6.0,
-      "home_team": {
-        "name": "Fulham",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fulham.png",
-        "colors": ["#000000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Arsenal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_arsenal.png",
-        "colors": ["#EF0107", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 2567,
-      "date": "2025-10-19",
-      "time": "16:00",
-      "week": 8,
-      "stadium": "Tottenham Hotspur Stadium",
-      "importance_score": 6.5,
-      "home_team": {
-        "name": "Tottenham",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tottenham.png",
-        "colors": ["#132257", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Aston Villa",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_asvilla.png",
-        "colors": ["#95BFE5", "#670E36"]
-      }
-    },
-    {
-      "match_id": 2568,
-      "date": "2025-10-19",
-      "time": "18:30",
-      "week": 8,
-      "stadium": "Anfield",
-      "importance_score": 8.5,
-      "home_team": {
-        "name": "Liverpool",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_liv.png",
-        "colors": ["#C8102E", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Man United",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_manutd.png",
-        "colors": ["#DA291C", "#FBE122"]
-      }
-    },
-    {
-      "match_id": 2569,
-      "date": "2025-10-20",
-      "time": "22:00",
-      "week": 8,
-      "stadium": "London Stadium",
-      "importance_score": 5.5,
-      "home_team": {
         "name": "West Ham",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_westh.png",
         "colors": ["#7A263A", "#1BB1E7"]
+      }
+    },
+    {
+      "match_id": 2571,
+      "date": "2025-10-25",
+      "time": "17:00",
+      "week": 9,
+      "stadium": "Stamford Bridge",
+      "importance_score": 5.2,
+      "home_team": {
+        "name": "Chelsea",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_chelsea.png",
+        "colors": ["#034694", "#FFFFFF"]
       },
       "away_team": {
+        "name": "Sunderland",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sunderland.png",
+        "colors": ["#D71920", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 2572,
+      "date": "2025-10-25",
+      "time": "17:00",
+      "week": 9,
+      "stadium": "St. James' Park",
+      "importance_score": 5.0,
+      "home_team": {
+        "name": "Newcastle",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_newc.png",
+        "colors": ["#241F20", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Fulham",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fulham.png",
+        "colors": ["#000000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 2573,
+      "date": "2025-10-25",
+      "time": "19:30",
+      "week": 9,
+      "stadium": "Old Trafford",
+      "importance_score": 7.0,
+      "home_team": {
+        "name": "Man United",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_manutd.png",
+        "colors": ["#DA291C", "#FBE122"]
+      },
+      "away_team": {
+        "name": "Brighton",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brighton.png",
+        "colors": ["#0057B8", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 2574,
+      "date": "2025-10-25",
+      "time": "22:00",
+      "week": 9,
+      "stadium": "Gtech Community Stadium",
+      "importance_score": 7.3,
+      "home_team": {
         "name": "Brentford",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brentford.png",
         "colors": ["#FF0000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Liverpool",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_liv.png",
+        "colors": ["#C8102E", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 2575,
+      "date": "2025-10-26",
+      "time": "17:00",
+      "week": 9,
+      "stadium": "Emirates Stadium",
+      "importance_score": 6.8,
+      "home_team": {
+        "name": "Arsenal",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_arsenal.png",
+        "colors": ["#EF0107", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Crystal Palace",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cry.png",
+        "colors": ["#1B458F", "#A7A5A6"]
+      }
+    },
+    {
+      "match_id": 2576,
+      "date": "2025-10-26",
+      "time": "17:00",
+      "week": 9,
+      "stadium": "Villa Park",
+      "importance_score": 7.2,
+      "home_team": {
+        "name": "Aston Villa",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_asvilla.png",
+        "colors": ["#95BFE5", "#670E36"]
+      },
+      "away_team": {
+        "name": "Man City",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png",
+        "colors": ["#6CABDD", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 2577,
+      "date": "2025-10-26",
+      "time": "17:00",
+      "week": 9,
+      "stadium": "Vitality Stadium",
+      "importance_score": 4.6,
+      "home_team": {
+        "name": "Bournemouth",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bour.png",
+        "colors": ["#DA291C", "#000000"]
+      },
+      "away_team": {
+        "name": "Nottingham",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_notting.png",
+        "colors": ["#DD0000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 2578,
+      "date": "2025-10-26",
+      "time": "17:00",
+      "week": 9,
+      "stadium": "Molineux Stadium",
+      "importance_score": 4.5,
+      "home_team": {
+        "name": "Wolves",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_wolves.png",
+        "colors": ["#FDB913", "#231F20"]
+      },
+      "away_team": {
+        "name": "Burnley",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_burnley.png",
+        "colors": ["#6C1D45", "#99D6EA"]
+      }
+    },
+    {
+      "match_id": 2579,
+      "date": "2025-10-26",
+      "time": "19:30",
+      "week": 9,
+      "stadium": "Goodison Park",
+      "importance_score": 7.0,
+      "home_team": {
+        "name": "Everton",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_everton.png",
+        "colors": ["#003399", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Tottenham",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tottenham.png",
+        "colors": ["#132257", "#FFFFFF"]
       }
     }
   ]
