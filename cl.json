@@ -35,6 +35,24 @@
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psg.png",
         "colors": ["#0033A0", "#FFFFFF"]
       }
+    },
+    {
+      "match_id": 111293935,
+      "date": "2025-10-21",
+      "time": "22:00",
+      "week": 3,
+      "stadium": "BayArena",
+      "importance_score": 6.0,
+      "home_team": {
+        "name": "Villarreal",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_villarreal.png",
+        "colors": ["#006437", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Man City",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png",
+        "colors": ["#0033A0", "#FFFFFF"]
+      }
     }
   ]
 }
