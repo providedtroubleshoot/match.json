@@ -53,6 +53,60 @@
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png",
         "colors": ["#0033A0", "#FFFFFF"]
       }
+    },
+    {
+      "match_id": 111293935,
+      "date": "2025-10-22",
+      "time": "22:00",
+      "week": 3,
+      "stadium": "BayArena",
+      "importance_score": 6.0,
+      "home_team": {
+        "name": "Frankfurt",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png",
+        "colors": ["#006437", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Liverpool",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_liv.png",
+        "colors": ["#0033A0", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 111293935,
+      "date": "2025-10-22",
+      "time": "22:00",
+      "week": 3,
+      "stadium": "BayArena",
+      "importance_score": 6.0,
+      "home_team": {
+        "name": "Monaco",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mco.png",
+        "colors": ["#006437", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Tottenham",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tottenham.png",
+        "colors": ["#0033A0", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 111293935,
+      "date": "2025-10-22",
+      "time": "22:00",
+      "week": 3,
+      "stadium": "BayArena",
+      "importance_score": 6.0,
+      "home_team": {
+        "name": "Real Madrid",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rma.png",
+        "colors": ["#006437", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Juventus",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_juventus.png",
+        "colors": ["#0033A0", "#FFFFFF"]
+      }
     }
   ]
 }
