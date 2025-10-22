@@ -121,7 +121,7 @@
         "colors": ["#FF0000", "#FFFFFF"]
       },
       "away_team": {
-        "name",
+        "name": "PSV",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psv.png",
         "colors": ["#DA121A", "#FFFFFF"]
       }
