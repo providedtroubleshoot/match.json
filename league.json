@@ -62,13 +62,5 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_sa1.png",
     "primaryColor": "0xFFFFFFFF",
     "secondaryColor": "0xFF0AE32B"
-  },
-  {
-    "id": "hl1",
-    "name": "Eredivisie",
-    "country": "Nederland",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_hl1.png",
-    "primaryColor": "0xFF002B63",
-    "secondaryColor": "0xFFFFFFFF"
   }
 ]
