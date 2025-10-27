@@ -9,11 +9,13 @@
       "importance_score": 6.3,
       "home_team": {
         "name": "Damac",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_damac.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_damac.png",
+        "colors": ["#8B0000", "#FFFFFF"]
       },
       "away_team": {
         "name": "Al-Fateh",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfateh.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfateh.png",
+        "colors": ["#006BB6", "#32CD32"]
       }
     },
     {
@@ -25,11 +27,13 @@
       "importance_score": 7.1,
       "home_team": {
         "name": "Al-Ahli",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alahli.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alahli.png",
+        "colors": ["#006400", "#FFFFFF"]
       },
       "away_team": {
         "name": "Al-Riyadh",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alriyadh.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alriyadh.png",
+        "colors": ["#FF0000", "#FFFFFF"]
       }
     },
     {
@@ -41,11 +45,13 @@
       "importance_score": 6.0,
       "home_team": {
         "name": "Al-Kholood",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alkholood.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alkholood.png",
+        "colors": ["#8B0000", "#FFFFFF"]
       },
       "away_team": {
         "name": "NEOM SC",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_neom.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_neom.png",
+        "colors": ["#000000", "#FFD700"]
       }
     },
     {
@@ -57,11 +63,13 @@
       "importance_score": 5.8,
       "home_team": {
         "name": "Al-Okhdood",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alokhdood.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alokhdood.png",
+        "colors": ["#6BB9E1", "#FFFFFF"]
       },
       "away_team": {
         "name": "Al-Najma",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnajma.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnajma.png",
+        "colors": ["#1B1F8A", "#FFFFFF"]
       }
     },
     {
@@ -73,11 +81,13 @@
       "importance_score": 7.5,
       "home_team": {
         "name": "Al-Hilal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alhilal.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alhilal.png",
+        "colors": ["#002B7F", "#FFFFFF"]
       },
       "away_team": {
         "name": "Al-Shabab",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alshabab.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alshabab.png",
+        "colors": ["#FFFFFF", "#000000"]
       }
     },
     {
@@ -89,11 +99,13 @@
       "importance_score": 6.7,
       "home_team": {
         "name": "Al-Ettifaq",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alettifaq.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alettifaq.png",
+        "colors": ["#007A33", "#FFFFFF"]
       },
       "away_team": {
         "name": "Al-Hazem",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alhazem.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alhazem.png",
+        "colors": ["#002B7F", "#FFD700"]
       }
     },
     {
@@ -105,11 +117,13 @@
       "importance_score": 5.9,
       "home_team": {
         "name": "Al-Taawoun",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_altawoun.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_altawoun.png",
+        "colors": ["#FFD700", "#000000"]
       },
       "away_team": {
         "name": "Al-Qadsiah",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alqadsiah.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alqadsiah.png",
+        "colors": ["#FFD700", "#FF0000"]
       }
     },
     {
@@ -121,11 +135,13 @@
       "importance_score": 6.3,
       "home_team": {
         "name": "Al-Khaleej",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alkhaleej.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alkhaleej.png",
+        "colors": ["#006400", "#FFD700"]
       },
       "away_team": {
         "name": "Al-Ittihad",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alittihad.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alittihad.png",
+        "colors": ["#FFD700", "#000000"]
       }
     },
     {
@@ -137,11 +153,13 @@
       "importance_score": 7.0,
       "home_team": {
         "name": "Al-Nassr",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnasrr.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnassr.png",
+        "colors": ["#FFD700", "#1B1F8A"]
       },
       "away_team": {
         "name": "Al-Fayha",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfayha.png"
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfayha.png",
+        "colors": ["#FF4F00", "#000080"]
       }
     }
   ]
