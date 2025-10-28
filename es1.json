@@ -1,183 +1,183 @@
 {
   "matches": [
     {
-      "match_id": 5078,
-      "date": "2025-10-24",
-      "time": "22:00",
-      "week": 10,
-      "stadium": "Reale Arena",
+      "match_id": 5088,
+      "date": "2025-10-31",
+      "time": "23:00",
+      "week": 11,
+      "stadium": "Coliseum Alfonso Pérez",
+      "importance_score": 4.4,
+      "home_team": {
+        "name": "Getafe",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_getafe.png",
+        "colors": ["#0033A0", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Girona",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_girona.png",
+        "colors": ["#D6001C", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 5089,
+      "date": "2025-11-01",
+      "time": "16:00",
+      "week": 11,
+      "stadium": "Estadio de la Cerámica",
+      "importance_score": 4.7,
+      "home_team": {
+        "name": "Villarreal",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_villarreal.png",
+        "colors": ["#FDE100", "#00008B"]
+      },
+      "away_team": {
+        "name": "Rayo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rayo.png",
+        "colors": ["#FFFFFF", "#FF0000"]
+      }
+    },
+    {
+      "match_id": 5090,
+      "date": "2025-11-01",
+      "time": "18:15",
+      "week": 11,
+      "stadium": "Cívitas Metropolitano",
       "importance_score": 5.8,
       "home_team": {
-        "name": "Sociedad",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sociedad.png",
-        "colors": ["#005CA9", "#FFFFFF"]
+        "name": "Atletico Madrid",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png",
+        "colors": ["#A50044", "#FFFFFF"]
       },
       "away_team": {
         "name": "Sevilla",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sev.png",
-        "colors": ["#FF0000", "#FFFFFF"]
+        "colors": ["#FFFFFF", "#D71920"]
       }
     },
     {
-      "match_id": 5079,
-      "date": "2025-10-25",
-      "time": "15:00",
-      "week": 10,
-      "stadium": "Montilivi",
-      "importance_score": 4.3,
+      "match_id": 5091,
+      "date": "2025-11-01",
+      "time": "20:30",
+      "week": 11,
+      "stadium": "Reale Arena",
+      "importance_score": 4.9,
       "home_team": {
-        "name": "Girona",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_girona.png",
-        "colors": ["#E50019", "#FFFFFF"]
+        "name": "Sociedad",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sociedad.png",
+        "colors": ["#005BAC", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Real Oviedo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_oviedo.png",
-        "colors": ["#0033A0", "#FFD700"]
-      }
-    },
-    {
-      "match_id": 5080,
-      "date": "2025-10-25",
-      "time": "17:15",
-      "week": 10,
-      "stadium": "RCDE Stadium",
-      "importance_score": 5.1,
-      "home_team": {
-        "name": "Espanyol",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_espanyol.png",
-        "colors": ["#0070B7", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Elche",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_elche.png",
-        "colors": ["#008753", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 5081,
-      "date": "2025-10-25",
-      "time": "19:30",
-      "week": 10,
-      "stadium": "San Mamés",
-      "importance_score": 5.6,
-      "home_team": {
         "name": "Athletic Bilbao",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bilbao.png",
-        "colors": ["#EE1A22", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Getafe",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_getafe.png",
-        "colors": ["#003DA5", "#FFCC00"]
+        "colors": ["#EE2E24", "#FFFFFF"]
       }
     },
     {
-      "match_id": 5082,
-      "date": "2025-10-25",
-      "time": "22:00",
-      "week": 10,
-      "stadium": "Mestalla",
-      "importance_score": 6.0,
-      "home_team": {
-        "name": "Valencia",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_valencia.png",
-        "colors": ["#F5941D", "#000000"]
-      },
-      "away_team": {
-        "name": "Villarreal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_villarreal.png",
-        "colors": ["#FFE300", "#000080"]
-      }
-    },
-    {
-      "match_id": 5083,
-      "date": "2025-10-26",
-      "time": "16:00",
-      "week": 10,
-      "stadium": "Visit Mallorca Estadi",
-      "importance_score": 4.2,
-      "home_team": {
-        "name": "Mallorca",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mallorca.png",
-        "colors": ["#D6001C", "#000000"]
-      },
-      "away_team": {
-        "name": "Levante",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_levante.png",
-        "colors": ["#00205B", "#A50044"]
-      }
-    },
-    {
-      "match_id": 5084,
-      "date": "2025-10-26",
-      "time": "18:15",
-      "week": 10,
+      "match_id": 5092,
+      "date": "2025-11-01",
+      "time": "23:00",
+      "week": 11,
       "stadium": "Santiago Bernabéu",
-      "importance_score": 9.3,
+      "importance_score": 6.8,
       "home_team": {
         "name": "Real Madrid",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rma.png",
-        "colors": ["#FFFFFF", "#FEBE10"]
+        "colors": ["#FEBE10", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Barcelona",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brc.png",
-        "colors": ["#A50044", "#004D98"]
+        "name": "Valencia",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_valencia.png",
+        "colors": ["#F5941D", "#000000"]
       }
     },
     {
-      "match_id": 5085,
-      "date": "2025-10-26",
-      "time": "20:30",
-      "week": 10,
-      "stadium": "El Sadar",
-      "importance_score": 5.0,
+      "match_id": 5094,
+      "date": "2025-11-02",
+      "time": "16:00",
+      "week": 11,
+      "stadium": "Estadi Ciutat de València",
+      "importance_score": 3.7,
       "home_team": {
-        "name": "Osasuna",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_osasuna.png",
-        "colors": ["#E60026", "#002D62"]
+        "name": "Levante",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_levante.png",
+        "colors": ["#00205B", "#C8102E"]
       },
       "away_team": {
         "name": "Celta Vigo",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_celta.png",
-        "colors": ["#8ECEF2", "#FF0000"]
+        "colors": ["#94C1E9", "#FF0000"]
       }
     },
     {
-      "match_id": 5086,
-      "date": "2025-10-26",
-      "time": "23:00",
-      "week": 10,
-      "stadium": "Vallecas",
-      "importance_score": 4.8,
+      "match_id": 5095,
+      "date": "2025-11-02",
+      "time": "18:15",
+      "week": 11,
+      "stadium": "Estadio de Mendizorroza",
+      "importance_score": 4.2,
       "home_team": {
-        "name": "Rayo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rayo.png",
-        "colors": ["#FFFFFF", "#E41E26"]
-      },
-      "away_team": {
         "name": "Alavés",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alaves.png",
         "colors": ["#0033A0", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Espanyol",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_espanyol.png",
+        "colors": ["#0070BB", "#FFFFFF"]
       }
     },
     {
-      "match_id": 5087,
-      "date": "2025-10-27",
+      "match_id": 5096,
+      "date": "2025-11-02",
+      "time": "20:30",
+      "week": 11,
+      "stadium": "Estadi Olímpic Lluís Companys",
+      "importance_score": 6.3,
+      "home_team": {
+        "name": "Barcelona",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brc.png",
+        "colors": ["#A50044", "#004D98"]
+      },
+      "away_team": {
+        "name": "Elche",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_elche.png",
+        "colors": ["#008F39", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 5097,
+      "date": "2025-11-02",
       "time": "23:00",
-      "week": 10,
-      "stadium": "Benito Villamarín",
-      "importance_score": 6.7,
+      "week": 11,
+      "stadium": "Estadio Benito Villamarín",
+      "importance_score": 4.6,
       "home_team": {
         "name": "Real Betis",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_betis.png",
-        "colors": ["#009540", "#FFFFFF"]
+        "colors": ["#009639", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Atletico Madrid",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png",
-        "colors": ["#A50044", "#FFFFFF"]
+        "name": "Mallorca",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mallorca.png",
+        "colors": ["#DA1212", "#000000"]
+      }
+    },
+    {
+      "match_id": 5093,
+      "date": "2025-11-03",
+      "time": "23:00",
+      "week": 11,
+      "stadium": "Estadio Carlos Tartiere",
+      "importance_score": 3.8,
+      "home_team": {
+        "name": "Real Oviedo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_oviedo.png",
+        "colors": ["#0033A0", "#FFD700"]
+      },
+      "away_team": {
+        "name": "Osasuna",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_osasuna.png",
+        "colors": ["#E60026", "#00205B"]
       }
     }
   ]
