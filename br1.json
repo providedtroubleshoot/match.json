@@ -1,24 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 1302,
-      "date": "2025-10-30",
-      "time": "02:00",
-      "week": 30,
-      "stadium": "Maracanã",
-      "importance_score": 3.8,
-      "home_team": {
-        "name": "Fluminense",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fluminense.png",
-        "colors": ["#870A28", "#00613C"]
-      },
-      "away_team": {
-        "name": "Ceará SC",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ceara.png",
-        "colors": ["#000000", "#FFFFFF"]
-      }
-    },
-    {
       "match_id": 1303,
       "date": "2025-11-01",
       "time": "22:00",
