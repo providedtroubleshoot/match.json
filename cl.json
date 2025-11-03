@@ -1,0 +1,130 @@
+{
+  "matches": [
+    {
+      "match_id": 4000,
+      "date": "2025-11-04",
+      "time": "20:45",
+      "week": 4,
+      "stadium": "Stadio Diego Armando Maradona",
+      "importance_score": 8.0,
+      "home_team": {
+        "name": "Napoli",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_napoli.png",
+        "colors": ["#007FFF", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Frankfurt",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png",
+        "colors": ["#E00000", "#000000"]
+      }
+    },
+    {
+      "match_id": 4001,
+      "date": "2025-11-04",
+      "time": "23:00",
+      "week": 4,
+      "stadium": "Anfield",
+      "importance_score": 10.0,
+      "home_team": {
+        "name": "Liverpool",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_liv.png",
+        "colors": ["#C8102E", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Real Madrid",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rma.png",
+        "colors": ["#FFFFFF", "#F7B500"]
+      }
+    },
+    {
+      "match_id": 4002,
+      "date": "2025-11-04",
+      "time": "23:00",
+      "week": 4,
+      "stadium": "Parc des Princes",
+      "importance_score": 10.0,
+      "home_team": {
+        "name": "PSG",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psg.png",
+        "colors": ["#004170", "#DA291C"]
+      },
+      "away_team": {
+        "name": "Bayern Münih",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bayern.png",
+        "colors": ["#DC052D", "#0066B2"]
+      }
+    },
+    {
+      "match_id": 4003,
+      "date": "2025-11-05",
+      "time": "23:00",
+      "week": 4,
+      "stadium": "Stade Vélodrome",
+      "importance_score": 7.5,
+      "home_team": {
+        "name": "Marsilya",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mrs.png",
+        "colors": ["#009FDB", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Atalanta",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atalanta.png",
+        "colors": ["#00529F", "#000000"]
+      }
+    },
+    {
+      "match_id": 4004,
+      "date": "2025-11-05",
+      "time": "23:00",
+      "week": 4,
+      "stadium": "Johan Cruyff Arena",
+      "importance_score": 7.0,
+      "home_team": {
+        "name": "Ajax",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ajax.png",
+        "colors": ["#E41E26", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Galatasaray",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gs.png",
+        "colors": ["#A32638", "#FDB913"]
+      }
+    },
+    {
+      "match_id": 4005,
+      "date": "2025-11-05",
+      "time": "23:00",
+      "week": 4,
+      "stadium": "Etihad Stadium",
+      "importance_score": 9.0,
+      "home_team": {
+        "name": "Man City",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png",
+        "colors": ["#6CABDD", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Dortmund",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png",
+        "colors": ["#FDE100", "#000000"]
+      }
+    },
+    {
+      "match_id": 4006,
+      "date": "2025-11-05",
+      "time": "23:00",
+      "week": 4,
+      "stadium": "St James' Park",
+      "importance_score": 7.5,
+      "home_team": {
+        "name": "Newcastle",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_newc.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Athletic Bilbao",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bilbao.png",
+        "colors": ["#EE0000", "#FFFFFF"]
+      }
+    }
+  ]
+}
