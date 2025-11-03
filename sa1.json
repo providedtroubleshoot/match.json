@@ -1,165 +1,165 @@
 {
   "matches": [
     {
-      "match_id": 1054,
-      "date": "2025-10-30",
-      "time": "18:15",
-      "week": 7,
-      "stadium": "Damac Club Stadium",
-      "importance_score": 6.3,
+      "match_id": 1063,
+      "date": "2025-11-06",
+      "time": "17:55",
+      "week": 8,
+      "stadium": "Al-Rass Stadium",
+      "importance_score": 6.2,
       "home_team": {
-        "name": "Damac",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_damac.png",
-        "colors": ["#8B0000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Al-Fateh",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfateh.png",
-        "colors": ["#006BB6", "#32CD32"]
-      }
-    },
-    {
-      "match_id": 1055,
-      "date": "2025-10-30",
-      "time": "20:30",
-      "week": 7,
-      "stadium": "King Abdullah Sports City",
-      "importance_score": 7.1,
-      "home_team": {
-        "name": "Al-Ahli",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alahli.png",
-        "colors": ["#006400", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Al-Riyadh",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alriyadh.png",
-        "colors": ["#FF0000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1056,
-      "date": "2025-10-30",
-      "time": "20:30",
-      "week": 7,
-      "stadium": "Al-Kholood Club Stadium",
-      "importance_score": 6.0,
-      "home_team": {
-        "name": "Al-Kholood",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alkholood.png",
-        "colors": ["#8B0000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "NEOM SC",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_neom.png",
-        "colors": ["#000000", "#FFD700"]
-      }
-    },
-    {
-      "match_id": 1057,
-      "date": "2025-10-31",
-      "time": "16:40",
-      "week": 7,
-      "stadium": "Al-Okhdood Club Stadium",
-      "importance_score": 5.8,
-      "home_team": {
-        "name": "Al-Okhdood",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alokhdood.png",
-        "colors": ["#6BB9E1", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Al-Najma",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnajma.png",
-        "colors": ["#1B1F8A", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1058,
-      "date": "2025-10-31",
-      "time": "17:50",
-      "week": 7,
-      "stadium": "King Fahd International Stadium",
-      "importance_score": 7.5,
-      "home_team": {
-        "name": "Al-Hilal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alhilal.png",
-        "colors": ["#002B7F", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Al-Shabab",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alshabab.png",
-        "colors": ["#FFFFFF", "#000000"]
-      }
-    },
-    {
-      "match_id": 1059,
-      "date": "2025-10-31",
-      "time": "20:30",
-      "week": 7,
-      "stadium": "Prince Abdullah bin Jalawi Stadium",
-      "importance_score": 6.7,
-      "home_team": {
-        "name": "Al-Ettifaq",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alettifaq.png",
-        "colors": ["#007A33", "#FFFFFF"]
-      },
-      "away_team": {
         "name": "Al-Hazem",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alhazem.png",
         "colors": ["#002B7F", "#FFD700"]
-      }
-    },
-    {
-      "match_id": 1060,
-      "date": "2025-11-01",
-      "time": "16:30",
-      "week": 7,
-      "stadium": "King Abdullah Sports City",
-      "importance_score": 5.9,
-      "home_team": {
-        "name": "Al-Taawoun",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_altawoun.png",
-        "colors": ["#FFD700", "#000000"]
       },
       "away_team": {
-        "name": "Al-Qadsiah",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alqadsiah.png",
-        "colors": ["#FFD700", "#FF0000"]
-      }
-    },
-    {
-      "match_id": 1061,
-      "date": "2025-11-01",
-      "time": "17:35",
-      "week": 7,
-      "stadium": "Prince Abdullah bin Jalawi Stadium",
-      "importance_score": 6.3,
-      "home_team": {
         "name": "Al-Khaleej",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alkhaleej.png",
         "colors": ["#006400", "#FFD700"]
+      }
+    },
+    {
+      "match_id": 1064,
+      "date": "2025-11-06",
+      "time": "20:30",
+      "week": 8,
+      "stadium": "Prince Saud bin Jalawi Stadium",
+      "importance_score": 6.1,
+      "home_team": {
+        "name": "Al-Qadsiah",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alqadsiah.png",
+        "colors": ["#FFD700", "#FF0000"]
       },
       "away_team": {
-        "name": "Al-Ittihad",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alittihad.png",
+        "name": "Al-Kholood",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alkholood.png",
+        "colors": ["#8B0000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1065,
+      "date": "2025-11-06",
+      "time": "20:30",
+      "week": 8,
+      "stadium": "Prince Faisal bin Fahd Stadium",
+      "importance_score": 6.0,
+      "home_team": {
+        "name": "Al-Riyadh",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alriyadh.png",
+        "colors": ["#FF0000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Damac",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_damac.png",
+        "colors": ["#8B0000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1066,
+      "date": "2025-11-07",
+      "time": "16:20",
+      "week": 8,
+      "stadium": "Al-Majma'ah Sports City",
+      "importance_score": 5.8,
+      "home_team": {
+        "name": "Al-Fayha",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfayha.png",
+        "colors": ["#FF4F00", "#000080"]
+      },
+      "away_team": {
+        "name": "Al-Okhdood",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alokhdood.png",
+        "colors": ["#6BB9E1", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1067,
+      "date": "2025-11-07",
+      "time": "17:35",
+      "week": 8,
+      "stadium": "Prince Abdullah bin Jalawi Stadium",
+      "importance_score": 6.5,
+      "home_team": {
+        "name": "Al-Fateh",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfateh.png",
+        "colors": ["#006BB6", "#32CD32"]
+      },
+      "away_team": {
+        "name": "Al-Taawoun",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_altawoun.png",
         "colors": ["#FFD700", "#000000"]
       }
     },
     {
-      "match_id": 1062,
-      "date": "2025-11-01",
+      "match_id": 1068,
+      "date": "2025-11-07",
       "time": "20:30",
-      "week": 7,
-      "stadium": "Al-Nassr Club Stadium",
-      "importance_score": 7.0,
+      "week": 8,
+      "stadium": "Al-Najma Club Stadium",
+      "importance_score": 8.2,
       "home_team": {
-        "name": "Al-Nassr",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnassr.png",
-        "colors": ["#FFD700", "#1B1F8A"]
+        "name": "Al-Najma",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnajma.png",
+        "colors": ["#1B1F8A", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Al-Fayha",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfayha.png",
-        "colors": ["#FF4F00", "#000080"]
+        "name": "Al-Hilal",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alhilal.png",
+        "colors": ["#002B7F", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1069,
+      "date": "2025-11-08",
+      "time": "16:50",
+      "week": 8,
+      "stadium": "NEOM Stadium",
+      "importance_score": 8.6,
+      "home_team": {
+        "name": "NEOM SC",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_neom.png",
+        "colors": ["#000000", "#FFD700"]
+      },
+      "away_team": {
+        "name": "Al-Nassr",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnasrr.png",
+        "colors": ["#FFD700", "#1B1F8A"]
+      }
+    },
+    {
+      "match_id": 1070,
+      "date": "2025-11-08",
+      "time": "17:45",
+      "week": 8,
+      "stadium": "Al-Shabab Club Stadium",
+      "importance_score": 6.3,
+      "home_team": {
+        "name": "Al-Shabab",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alshabab.png",
+        "colors": ["#FFFFFF", "#000000"]
+      },
+      "away_team": {
+        "name": "Al-Ettifaq",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alettifaq.png",
+        "colors": ["#007A33", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1071,
+      "date": "2025-11-08",
+      "time": "20:30",
+      "week": 8,
+      "stadium": "King Abdullah Sports City",
+      "importance_score": 8.9,
+      "home_team": {
+        "name": "Al-Ittihad",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alittihad.png",
+        "colors": ["#FFD700", "#000000"]
+      },
+      "away_team": {
+        "name": "Al-Ahli",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alahli.png",
+        "colors": ["#006400", "#FFFFFF"]
       }
     }
   ]
