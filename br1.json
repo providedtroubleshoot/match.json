@@ -1,3 +1,58 @@
 {
-  "matches": []
+  "matches": [
+    {
+      "match_id": 1323,
+      "date": "2025-11-13",
+      "time": "02:30",
+      "week": 33,
+      "stadium": "Arena MRV",
+      "importance_score": 4.2,
+      "home_team": {
+        "name": "Atlético-MG",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mineiro.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Fortaleza",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fortaleza.png",
+        "colors": ["#0362AB", "#F32B09"]
+      }
+    },
+    {
+      "match_id": 1324,
+      "date": "2025-11-16",
+      "time": "00:30",
+      "week": 33,
+      "stadium": "Ilha do Retiro",
+      "importance_score": 4.5,
+      "home_team": {
+        "name": "Sport Recife",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_recife.png",
+        "colors": ["#D40019", "#000000"]
+      },
+      "away_team": {
+        "name": "Flamengo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_flamengo.png",
+        "colors": ["#C00000", "#000000"]
+      }
+    },
+    {
+      "match_id": 1325,
+      "date": "2025-11-16",
+      "time": "03:00",
+      "week": 33,
+      "stadium": "Vila Belmiro",
+      "importance_score": 4.7,
+      "home_team": {
+        "name": "Santos",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_santos.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Palmeiras",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_palm.png",
+        "colors": ["#006437", "#FFFFFF"]
+      }
+    }
+  ]
 }
