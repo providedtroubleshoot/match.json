@@ -54,6 +54,26 @@
         "colors": ["#D10000", "#000000"]
       }
     },
+
+    {
+      "match_id": 1335,
+      "date": "2025-11-20",
+      "time": "22:00",
+      "week": 34,
+      "stadium": "Alfredo Jaconi",
+      "importance_score": 4.4,
+      "home_team": {
+        "name": "Juventude",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_juventude.png",
+        "colors": ["#1FA22E", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Cruzeiro",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cruzeiro.png",
+        "colors": ["#0033A0", "#FFFFFF"]
+      }
+    },
+
     {
       "match_id": 1328,
       "date": "2025-11-20",
@@ -108,6 +128,7 @@
         "colors": ["#000000", "#FFFFFF"]
       }
     },
+
     {
       "match_id": 1331,
       "date": "2025-11-21",
