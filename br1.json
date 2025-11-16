@@ -1,34 +1,70 @@
 {
   "matches": [
     {
-      "match_id": 1323,
-      "date": "2025-11-13",
-      "time": "02:30",
-      "week": 33,
-      "stadium": "Arena MRV",
-      "importance_score": 4.2,
+      "match_id": 1326,
+      "date": "2025-11-17",
+      "time": "01:00",
+      "week": 37,
+      "stadium": "Nabizão",
+      "importance_score": 4.3,
       "home_team": {
+        "name": "Bragantino",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bragantino.png",
+        "colors": ["#FFFFFF", "#D40019"]
+      },
+      "away_team": {
         "name": "Atlético-MG",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mineiro.png",
         "colors": ["#000000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Fortaleza",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fortaleza.png",
-        "colors": ["#0362AB", "#F32B09"]
       }
     },
     {
-      "match_id": 1324,
-      "date": "2025-11-16",
-      "time": "00:30",
-      "week": 33,
-      "stadium": "Ilha do Retiro",
-      "importance_score": 4.5,
+      "match_id": 1327,
+      "date": "2025-11-19",
+      "time": "02:30",
+      "week": 34,
+      "stadium": "Nilton Santos",
+      "importance_score": 4.1,
       "home_team": {
+        "name": "Botafogo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bota.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
         "name": "Sport Recife",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_recife.png",
         "colors": ["#D40019", "#000000"]
+      }
+    },
+    {
+      "match_id": 1334,
+      "date": "2025-11-20",
+      "time": "01:30",
+      "week": 37,
+      "stadium": "Allianz Parque",
+      "importance_score": 4.2,
+      "home_team": {
+        "name": "Palmeiras",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_palm.png",
+        "colors": ["#037942", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Vitória",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_vitoria.png",
+        "colors": ["#D10000", "#000000"]
+      }
+    },
+    {
+      "match_id": 1328,
+      "date": "2025-11-20",
+      "time": "03:30",
+      "week": 34,
+      "stadium": "Maracanã",
+      "importance_score": 6.8,
+      "home_team": {
+        "name": "Fluminense",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fluminense.png",
+        "colors": ["#7F0019", "#1C5A3F"]
       },
       "away_team": {
         "name": "Flamengo",
@@ -37,21 +73,93 @@
       }
     },
     {
-      "match_id": 1325,
-      "date": "2025-11-16",
-      "time": "03:00",
-      "week": 33,
+      "match_id": 1329,
+      "date": "2025-11-20",
+      "time": "03:30",
+      "week": 34,
       "stadium": "Vila Belmiro",
-      "importance_score": 4.7,
+      "importance_score": 4.0,
       "home_team": {
         "name": "Santos",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_santos.png",
         "colors": ["#000000", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Palmeiras",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_palm.png",
-        "colors": ["#006437", "#FFFFFF"]
+        "name": "Mirassol",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mirassol.png",
+        "colors": ["#FFCE00", "#008000"]
+      }
+    },
+    {
+      "match_id": 1330,
+      "date": "2025-11-20",
+      "time": "03:30",
+      "week": 34,
+      "stadium": "Arena do Grêmio",
+      "importance_score": 4.2,
+      "home_team": {
+        "name": "Grêmio",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gremio.png",
+        "colors": ["#0073CF", "#000000"]
+      },
+      "away_team": {
+        "name": "Vasco",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_vdgama.png",
+        "colors": ["#000000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1331,
+      "date": "2025-11-21",
+      "time": "00:00",
+      "week": 34,
+      "stadium": "Arena Fonte Nova",
+      "importance_score": 4.1,
+      "home_team": {
+        "name": "Bahia",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bahia.png",
+        "colors": ["#0056A6", "#D9001C"]
+      },
+      "away_team": {
+        "name": "Fortaleza",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fortaleza.png",
+        "colors": ["#0362AB", "#F32B09"]
+      }
+    },
+    {
+      "match_id": 1332,
+      "date": "2025-11-21",
+      "time": "01:30",
+      "week": 34,
+      "stadium": "Neo Química Arena",
+      "importance_score": 5.1,
+      "home_team": {
+        "name": "Corinthians",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_corint.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "São Paulo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sp.png",
+        "colors": ["#C00000", "#000000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1333,
+      "date": "2025-11-21",
+      "time": "03:30",
+      "week": 34,
+      "stadium": "Castelão",
+      "importance_score": 4.0,
+      "home_team": {
+        "name": "Ceará SC",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ceara.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "SC Inter",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_internacional.png",
+        "colors": ["#D00000", "#FFFFFF"]
       }
     }
   ]
