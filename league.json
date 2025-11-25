@@ -48,6 +48,14 @@
     "secondaryColor": "0xFF091C3D"
   },
   {
+    "id": "hl1",
+    "name": "Eredivisie",
+    "country": "Nederland",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_hl1.png",
+    "primaryColor": "0xFF002B63",
+    "secondaryColor": "0xFFFFFFFF"
+  },
+  {
     "id": "br1",
     "name": "Brasileirão Série A",
     "country": "Brazil",
