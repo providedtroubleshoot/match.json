@@ -1,24 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 100033,
-      "date": "2025-12-02",
-      "time": "16:30",
-      "week": 14,
-      "stadium": "Johan Cruijff Arena",
-      "importance_score": 4.1,
-      "home_team": {
-        "name": "Ajax",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ajax.png",
-        "colors": ["#D2122E", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Groningen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_groningen.png",
-        "colors": ["#008F39", "#FFFFFF"]
-      }
-    },
-    {
       "match_id": 100034,
       "date": "2025-12-05",
       "time": "22:00",
