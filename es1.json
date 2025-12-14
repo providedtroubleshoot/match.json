@@ -127,24 +127,6 @@
       }
     },
     {
-      "match_id": 5153,
-      "date": "2025-12-14",
-      "time": "20:30",
-      "week": 16,
-      "stadium": "Ciutat de València",
-      "importance_score": 5.9,
-      "home_team": {
-        "name": "Levante",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_levante.png",
-        "colors": ["#002F6C", "#C8102E"]
-      },
-      "away_team": {
-        "name": "Villarreal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_villarreal.png",
-        "colors": ["#FFF200", "#1D42BA"]
-      }
-    },
-    {
       "match_id": 5157,
       "date": "2025-12-14",
       "time": "23:00",
