@@ -1,10 +1,10 @@
 [
   {
-    "name": "Frankfurt",
+    "name": "Eintracht Frankfurt",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png"
   },
   {
-    "name": "Dortmund",
+    "name": "Borussia Dortmund",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png"
   },
   {
@@ -16,7 +16,7 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hamburg.png"
   },
   {
-    "name": "Bremen",
+    "name": "Werder Bremen",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_werder.png"
   },
   {
@@ -24,7 +24,7 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hoffenheim.png"
   },
   {
-    "name": "U. Berlin",
+    "name": "Union Berlin",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_berlin.png"
   },
   {
@@ -36,7 +36,7 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pauli.png"
   },
   {
-    "name": "Leipzig",
+    "name": "RB Leipzig",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rbl.png"
   },
   {
@@ -48,7 +48,7 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_köln.png"
   },
   {
-    "name": "Leverkusen",
+    "name": "Bayer Leverkusen",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png"
   },
   {
@@ -73,19 +73,19 @@
   },
 
   {
-    "name": "Man United",
+    "name": "Manchester United",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_manutd.png"
   },
   {
-    "name": "Newcastle",
+    "name": "Newcastle United",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_newc.png"
   },
   {
-    "name": "Nottingham",
+    "name": "Nottingham Forest",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_notting.png"
   },
   {
-    "name": "Man City",
+    "name": "Manchester City",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png"
   },
   {
@@ -121,7 +121,7 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_wolves.png"
   },
   {
-    "name": "West Ham",
+    "name": "West Ham United",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_westh.png"
   },
   {
@@ -141,7 +141,7 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sunderland.png"
   },
   {
-    "name": "Leeds",
+    "name": "Leeds United",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_leeds.png"
   },
   {
@@ -153,7 +153,7 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tottenham.png"
   },
   {
-    "name": "Rayo",
+    "name": "Rayo Vallecano",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rayo.png"
   },
   {
@@ -225,7 +225,7 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_oviedo.png"
   },
   {
-    "name": "Sociedad",
+    "name": "Real Sociedad",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sociedad.png"
   },
   {
@@ -282,11 +282,11 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_feyenoord.png"
   },
   {
-    "name": "Go Ahead",
+    "name": "Go Ahead Eagles",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_eagles.png"
   },
   {
-    "name": "F. Sittard",
+    "name": "Fortuna Sittard",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sittard.png"
   },
   {
@@ -298,14 +298,13 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ajax.png"
   },
   {
-    "name": "Sparta",
+    "name": "Sparta Rotterdam",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sparta.png"
   },
   {
-    "name": "Heracles",
+    "name": "Heracles Almelo",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heracles.png"
   },
-
   {
     "name": "Toulouse",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tls.png"
@@ -319,7 +318,7 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mco.png"
   },
   {
-    "name": "Lyon",
+    "name": "Olympique Lyon",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lyo.png"
   },
   {
@@ -371,7 +370,7 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aux.png"
   },
   {
-    "name": "PSG",
+    "name": "Paris Saint-Germain",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psg.png"
   },
   {
@@ -483,9 +482,9 @@
   { "name": "Eyüpspor", "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_eyup.png" },
   { "name": "Fenerbahçe", "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fb.png" },
   { "name": "Beşiktaş", "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bjk.png" },
-  { "name": "Ç. Rizespor", "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_crz.png" },
+  { "name": "Çaykur Rizespor", "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_crz.png" },
   { "name": "Alanyaspor", "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aln.png" },
-  { "name": "Karagümrük", "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kara.png" },
+  { "name": "Fatih Karagümrük", "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kara.png" },
   { "name": "Başakşehir", "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ibfk.png" },
   { "name": "Gaziantep FK", "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gfk.png" },
   { "name": "Göztepe", "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gz.png" },
@@ -535,19 +534,19 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cruzeiro.png"
   },
   {
-    "name": "Atlético-MG",
+    "name": "Atlético Mineiro",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mineiro.png"
   },
   {
-    "name": "Vasco",
+    "name": "Vasco da Gama",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_vdgama.png"
   },
   {
-    "name": "SC Inter",
+    "name": "SC Internacional",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_internacional.png"
   },
   {
-    "name": "Bragantino",
+    "name": "RB Bragantino",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bragantino.png"
   },
   {
@@ -574,5 +573,4 @@
     "name": "Grêmio",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gremio.png"
   }
-
 ]
