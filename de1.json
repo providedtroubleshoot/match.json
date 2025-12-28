@@ -6,7 +6,7 @@
       "time": "22:30",
       "week": 16,
       "stadium": "Deutsche Bank Park",
-      "importance_score": 6.8,
+      "importance_score": 7.8,
       "home_team": {
         "name": "Frankfurt",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png",
@@ -24,7 +24,7 @@
       "time": "17:30",
       "week": 16,
       "stadium": "Europa-Park Stadion",
-      "importance_score": 5.4,
+      "importance_score": 7.4,
       "home_team": {
         "name": "Freiburg",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_freiburg.png",
@@ -42,7 +42,7 @@
       "time": "17:30",
       "week": 16,
       "stadium": "Weserstadion",
-      "importance_score": 5.9,
+      "importance_score": 7.2,
       "home_team": {
         "name": "Bremen",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_werder.png",
@@ -60,7 +60,7 @@
       "time": "17:30",
       "week": 16,
       "stadium": "Stadion An der Alten Försterei",
-      "importance_score": 5.2,
+      "importance_score": 6.6,
       "home_team": {
         "name": "U. Berlin",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_berlin.png",
@@ -78,7 +78,7 @@
       "time": "17:30",
       "week": 16,
       "stadium": "Millerntor-Stadion",
-      "importance_score": 6.3,
+      "importance_score": 7.3,
       "home_team": {
         "name": "St. Pauli",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pauli.png",
@@ -96,7 +96,7 @@
       "time": "17:30",
       "week": 16,
       "stadium": "Voith-Arena",
-      "importance_score": 5.6,
+      "importance_score": 6.9,
       "home_team": {
         "name": "Heidenheim",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heidenheim.png",
@@ -114,7 +114,7 @@
       "time": "20:30",
       "week": 16,
       "stadium": "BayArena",
-      "importance_score": 6.9,
+      "importance_score": 8.1,
       "home_team": {
         "name": "Leverkusen",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png",
@@ -132,7 +132,7 @@
       "time": "17:30",
       "week": 16,
       "stadium": "BORUSSIA-PARK",
-      "importance_score": 5.1,
+      "importance_score": 7.1,
       "home_team": {
         "name": "Gladbach",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bmg.png",
@@ -150,7 +150,7 @@
       "time": "19:30",
       "week": 16,
       "stadium": "Allianz Arena",
-      "importance_score": 7.4,
+      "importance_score": 9.4,
       "home_team": {
         "name": "Bayern Münih",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bayern.png",
