@@ -1,106 +1,34 @@
 {
   "matches": [
     {
-      "match_id": 75128,
-      "date": "2026-01-02",
-      "time": "22:45",
-      "week": 18,
-      "stadium": "Unipol Domus",
-      "importance_score": 7.6,
-      "home_team": {
-        "name": "Cagliari",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cagliari.png",
-        "colors": ["#00205B", "#C8102E"]
-      },
-      "away_team": {
-        "name": "Milan",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_milan.png",
-        "colors": ["#FF0000", "#000000"]
-      }
-    },
-    {
-      "match_id": 75129,
-      "date": "2026-01-03",
-      "time": "14:30",
-      "week": 18,
-      "stadium": "Stadio Giuseppe Sinigaglia",
-      "importance_score": 5.4,
-      "home_team": {
-        "name": "Como",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_como.png",
-        "colors": ["#0033A0", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Udinese",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_udinese.png",
-        "colors": ["#000000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 75130,
-      "date": "2026-01-03",
+      "match_id": 75138,
+      "date": "2026-01-06",
       "time": "17:00",
-      "week": 18,
-      "stadium": "Stadio Luigi Ferraris",
-      "importance_score": 4.9,
+      "week": 19,
+      "stadium": "Arena Garibaldi",
+      "importance_score": 5.1,
       "home_team": {
-        "name": "Genoa",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_genoa.png",
-        "colors": ["#C8102E", "#001489"]
-      },
-      "away_team": {
         "name": "Pisa",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pisa.png",
         "colors": ["#000000", "#0077C8"]
-      }
-    },
-    {
-      "match_id": 75131,
-      "date": "2026-01-03",
-      "time": "17:00",
-      "week": 18,
-      "stadium": "Mapei Stadium",
-      "importance_score": 5.1,
-      "home_team": {
-        "name": "Sassuolo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sassuolo.png",
-        "colors": ["#009639", "#000000"]
       },
       "away_team": {
-        "name": "Parma",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_parma.png",
-        "colors": ["#0033A0", "#F6EB16"]
+        "name": "Como",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_como.png",
+        "colors": ["#0033A0", "#FFFFFF"]
       }
     },
     {
-      "match_id": 75132,
-      "date": "2026-01-03",
+      "match_id": 75139,
+      "date": "2026-01-06",
       "time": "20:00",
-      "week": 18,
-      "stadium": "Allianz Stadium",
-      "importance_score": 6.8,
+      "week": 19,
+      "stadium": "Via del Mare",
+      "importance_score": 7.8,
       "home_team": {
-        "name": "Juventus",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_juventus.png",
-        "colors": ["#FFFFFF", "#000000"]
-      },
-      "away_team": {
         "name": "Lecce",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lecce.png",
         "colors": ["#D20000", "#00205B"]
-      }
-    },
-    {
-      "match_id": 75133,
-      "date": "2026-01-03",
-      "time": "22:45",
-      "week": 18,
-      "stadium": "Gewiss Stadium",
-      "importance_score": 7.9,
-      "home_team": {
-        "name": "Atalanta",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atalanta.png",
-        "colors": ["#00529F", "#000000"]
       },
       "away_team": {
         "name": "Roma",
@@ -109,75 +37,147 @@
       }
     },
     {
-      "match_id": 75134,
-      "date": "2026-01-04",
-      "time": "14:30",
-      "week": 18,
+      "match_id": 75140,
+      "date": "2026-01-06",
+      "time": "22:45",
+      "week": 19,
+      "stadium": "Mapei Stadium",
+      "importance_score": 8.2,
+      "home_team": {
+        "name": "Sassuolo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sassuolo.png",
+        "colors": ["#009639", "#000000"]
+      },
+      "away_team": {
+        "name": "Juventus",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_juventus.png",
+        "colors": ["#FFFFFF", "#000000"]
+      }
+    },
+    {
+      "match_id": 75141,
+      "date": "2026-01-07",
+      "time": "20:30",
+      "week": 19,
+      "stadium": "Dall’Ara",
+      "importance_score": 7.1,
+      "home_team": {
+        "name": "Bologna",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bologna.png",
+        "colors": ["#DC143C", "#001489"]
+      },
+      "away_team": {
+        "name": "Atalanta",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atalanta.png",
+        "colors": ["#00529F", "#000000"]
+      }
+    },
+    {
+      "match_id": 75142,
+      "date": "2026-01-07",
+      "time": "20:30",
+      "week": 19,
+      "stadium": "Diego Armando Maradona",
+      "importance_score": 6.9,
+      "home_team": {
+        "name": "Napoli",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_napoli.png",
+        "colors": ["#00ADEF", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Verona",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_verona.png",
+        "colors": ["#002F6C", "#F7D417"]
+      }
+    },
+    {
+      "match_id": 75143,
+      "date": "2026-01-07",
+      "time": "22:45",
+      "week": 19,
       "stadium": "Stadio Olimpico",
-      "importance_score": 8.4,
+      "importance_score": 6.4,
       "home_team": {
         "name": "Lazio",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lazio.png",
         "colors": ["#A7C6ED", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Napoli",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_napoli.png",
-        "colors": ["#00ADEF", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 75135,
-      "date": "2026-01-04",
-      "time": "17:00",
-      "week": 18,
-      "stadium": "Artemio Franchi",
-      "importance_score": 4.7,
-      "home_team": {
         "name": "Fiorentina",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fiorentina.png",
         "colors": ["#582C83", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Cremonese",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cremonese.png",
-        "colors": ["#C8102E", "#A7A9AC"]
       }
     },
     {
-      "match_id": 75136,
-      "date": "2026-01-04",
-      "time": "20:00",
-      "week": 18,
-      "stadium": "Marcantonio Bentegodi",
-      "importance_score": 5.0,
-      "home_team": {
-        "name": "Verona",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_verona.png",
-        "colors": ["#002F6C", "#F7D417"]
-      },
-      "away_team": {
-        "name": "Torino",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_torino.png",
-        "colors": ["#8B0000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 75137,
-      "date": "2026-01-04",
+      "match_id": 75144,
+      "date": "2026-01-07",
       "time": "22:45",
-      "week": 18,
-      "stadium": "San Siro",
-      "importance_score": 8.7,
+      "week": 19,
+      "stadium": "Ennio Tardini",
+      "importance_score": 8.5,
       "home_team": {
+        "name": "Parma",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_parma.png",
+        "colors": ["#0033A0", "#F6EB16"]
+      },
+      "away_team": {
         "name": "Inter",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_inter.png",
         "colors": ["#0033A0", "#000000"]
+      }
+    },
+    {
+      "match_id": 75145,
+      "date": "2026-01-07",
+      "time": "22:45",
+      "week": 19,
+      "stadium": "Olimpico di Torino",
+      "importance_score": 5.6,
+      "home_team": {
+        "name": "Torino",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_torino.png",
+        "colors": ["#8B0000", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Bologna",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bologna.png",
-        "colors": ["#DC143C", "#001489"]
+        "name": "Udinese",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_udinese.png",
+        "colors": ["#000000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 75146,
+      "date": "2026-01-08",
+      "time": "20:30",
+      "week": 19,
+      "stadium": "Giovanni Zini",
+      "importance_score": 5.0,
+      "home_team": {
+        "name": "Cremonese",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cremonese.png",
+        "colors": ["#C8102E", "#A7A9AC"]
+      },
+      "away_team": {
+        "name": "Cagliari",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cagliari.png",
+        "colors": ["#00205B", "#C8102E"]
+      }
+    },
+    {
+      "match_id": 75147,
+      "date": "2026-01-08",
+      "time": "22:45",
+      "week": 19,
+      "stadium": "San Siro",
+      "importance_score": 7.3,
+      "home_team": {
+        "name": "Milan",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_milan.png",
+        "colors": ["#FF0000", "#000000"]
+      },
+      "away_team": {
+        "name": "Genoa",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_genoa.png",
+        "colors": ["#C8102E", "#001489"]
       }
     }
   ]
