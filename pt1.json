@@ -14,7 +14,7 @@
       },
       "away_team": {
         "name": "Santa Clara",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_scl.png",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_santaclara.png",
         "colors": ["#E30613", "#FFFFFF"]
       }
     },
@@ -27,12 +27,12 @@
       "importance_score": 5.8,
       "home_team": {
         "name": "Moreirense",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mor.png",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_moreirense.png",
         "colors": ["#006633", "#FFFFFF"]
       },
       "away_team": {
         "name": "Tondela",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ton.png",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tondela.png",
         "colors": ["#FFD200", "#008000"]
       }
     }
