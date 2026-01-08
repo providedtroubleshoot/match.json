@@ -1,0 +1,40 @@
+{
+  "matches": [
+    {
+      "match_id": 8000,
+      "date": "2026-01-11",
+      "time": "18:30",
+      "week": 16,
+      "stadium": "Estádio da Madeira",
+      "importance_score": 5.5,
+      "home_team": {
+        "name": "Nacional",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nacional.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Santa Clara",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_scl.png",
+        "colors": ["#E30613", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 8001,
+      "date": "2026-01-11",
+      "time": "21:00",
+      "week": 16,
+      "stadium": "Parque de Jogos Comendador Joaquim de Almeida Freitas",
+      "importance_score": 5.8,
+      "home_team": {
+        "name": "Moreirense",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mor.png",
+        "colors": ["#006633", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Tondela",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ton.png",
+        "colors": ["#FFD200", "#008000"]
+      }
+    }
+  ]
+}
