@@ -62,5 +62,13 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_sa1.png",
     "primaryColor": "0xFFFFFFFF",
     "secondaryColor": "0xFF0AE32B"
+  },
+  {
+    "id": "pt1",
+    "name": "Liga Portugal",
+    "country": "Portugal",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_pt1.png",
+    "primaryColor": "0xFFFFFFFF",
+    "secondaryColor": "0xFF00275B"
   }
 ]
