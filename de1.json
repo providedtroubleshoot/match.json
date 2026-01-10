@@ -37,24 +37,6 @@
       }
     },
     {
-      "match_id": 6120,
-      "date": "2026-01-10",
-      "time": "17:30",
-      "week": 16,
-      "stadium": "Weserstadion",
-      "importance_score": 7.2,
-      "home_team": {
-        "name": "Bremen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_werder.png",
-        "colors": ["#008B45", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Hoffenheim",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hoffenheim.png",
-        "colors": ["#005BAC", "#FFFFFF"]
-      }
-    },
-    {
       "match_id": 6121,
       "date": "2026-01-10",
       "time": "17:30",
@@ -70,24 +52,6 @@
         "name": "Mainz",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mainz.png",
         "colors": ["#E30613", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 6122,
-      "date": "2026-01-10",
-      "time": "17:30",
-      "week": 16,
-      "stadium": "Millerntor-Stadion",
-      "importance_score": 7.3,
-      "home_team": {
-        "name": "St. Pauli",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pauli.png",
-        "colors": ["#441100", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Leipzig",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rbl.png",
-        "colors": ["#FFFFFF", "#E30613"]
       }
     },
     {
