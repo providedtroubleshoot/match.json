@@ -1,10 +1,10 @@
 {
   "matches": [
     {
-      "match_id": 4016,
-      "date": "2025-12-09",
+      "match_id": 4024,
+      "date": "2026-01-20",
       "time": "23:00",
-      "week": 6,
+      "week": 7,
       "stadium": "San Siro",
       "importance_score": 9.5,
       "home_team": {
@@ -13,94 +13,40 @@
         "colors": ["#001489", "#000000"]
       },
       "away_team": {
-        "name": "Liverpool",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_liv.png",
-        "colors": ["#C8102E", "#FFFFFF"]
+        "name": "Arsenal",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_arsenal.png",
+        "colors": ["#EF0107", "#FFFFFF"]
       }
     },
     {
-      "match_id": 4017,
-      "date": "2025-12-09",
+      "match_id": 4025,
+      "date": "2026-01-20",
       "time": "23:00",
-      "week": 6,
-      "stadium": "Philips Stadion",
-      "importance_score": 9.0,
-      "home_team": {
-        "name": "PSV",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psv.png",
-        "colors": ["#CC0000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Atletico Madrid",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png",
-        "colors": ["#A50044", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 4018,
-      "date": "2025-12-09",
-      "time": "23:00",
-      "week": 6,
-      "stadium": "Stade Louis-II",
+      "week": 7,
+      "stadium": "Estadio de la Cerámica",
       "importance_score": 8.7,
       "home_team": {
-        "name": "Monaco",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mco.png",
-        "colors": ["#E5001C", "#FFFFFF"]
+        "name": "Villarreal",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_villarreal.png",
+        "colors": ["#FDE100", "#E3001B"]
       },
       "away_team": {
-        "name": "Galatasaray",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gs.png",
-        "colors": ["#A90432", "#F4C300"]
+        "name": "Ajax",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ajax.png",
+        "colors": ["#E41E26", "#FFFFFF"]
       }
     },
     {
-      "match_id": 4019,
-      "date": "2025-12-09",
+      "match_id": 4026,
+      "date": "2026-01-20",
       "time": "23:00",
-      "week": 6,
-      "stadium": "Gewiss Stadium",
+      "week": 7,
+      "stadium": "Estádio José Alvalade",
       "importance_score": 9.0,
       "home_team": {
-        "name": "Atalanta",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atalanta.png",
-        "colors": ["#00529F", "#000000"]
-      },
-      "away_team": {
-        "name": "Chelsea",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_chelsea.png",
-        "colors": ["#034694", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 4020,
-      "date": "2025-12-09",
-      "time": "23:00",
-      "week": 6,
-      "stadium": "Camp Nou",
-      "importance_score": 9.2,
-      "home_team": {
-        "name": "Barcelona",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brc.png",
-        "colors": ["#A50044", "#004D98"]
-      },
-      "away_team": {
-        "name": "Frankfurt",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png",
-        "colors": ["#E00000", "#000000"]
-      }
-    },
-    {
-      "match_id": 4021,
-      "date": "2025-12-10",
-      "time": "23:00",
-      "week": 6,
-      "stadium": "San Mamés",
-      "importance_score": 8.8,
-      "home_team": {
-        "name": "Athletic Bilbao",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bilbao.png",
-        "colors": ["#D00000", "#FFFFFF"]
+        "name": "Sporting",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sporting.png",
+        "colors": ["#008156", "#FFFFFF"]
       },
       "away_team": {
         "name": "PSG",
@@ -109,10 +55,10 @@
       }
     },
     {
-      "match_id": 4022,
-      "date": "2025-12-10",
+      "match_id": 4027,
+      "date": "2026-01-20",
       "time": "23:00",
-      "week": 6,
+      "week": 7,
       "stadium": "Santiago Bernabéu",
       "importance_score": 10.0,
       "home_team": {
@@ -121,27 +67,117 @@
         "colors": ["#FEBE10", "#00529F"]
       },
       "away_team": {
-        "name": "Man City",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png",
-        "colors": ["#6CABDD", "#FFFFFF"]
+        "name": "Monaco",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mco.png",
+        "colors": ["#E5001C", "#FFFFFF"]
       }
     },
     {
-      "match_id": 4023,
-      "date": "2025-12-10",
+      "match_id": 4028,
+      "date": "2026-01-20",
       "time": "23:00",
-      "week": 6,
-      "stadium": "BayArena",
-      "importance_score": 8.9,
+      "week": 7,
+      "stadium": "Tottenham Hotspur Stadium",
+      "importance_score": 9.2,
       "home_team": {
-        "name": "Leverkusen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png",
-        "colors": ["#D30000", "#000000"]
+        "name": "Tottenham",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tottenham.png",
+        "colors": ["#132257", "#FFFFFF"]
       },
       "away_team": {
+        "name": "Dortmund",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png",
+        "colors": ["#FDE100", "#000000"]
+      }
+    },
+    {
+      "match_id": 4029,
+      "date": "2026-01-21",
+      "time": "20:45",
+      "week": 7,
+      "stadium": "RAMS Park",
+      "importance_score": 9.0,
+      "home_team": {
+        "name": "Galatasaray",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gs.png",
+        "colors": ["#A90432", "#F4C300"]
+      },
+      "away_team": {
+        "name": "Atletico Madrid",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png",
+        "colors": ["#A50044", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 4030,
+      "date": "2026-01-21",
+      "time": "23:00",
+      "week": 7,
+      "stadium": "Stade Vélodrome",
+      "importance_score": 9.3,
+      "home_team": {
+        "name": "Marsilya",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mrs.png",
+        "colors": ["#009FDB", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Liverpool",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_liv.png",
+        "colors": ["#C8102E", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 4031,
+      "date": "2026-01-21",
+      "time": "23:00",
+      "week": 7,
+      "stadium": "Gewiss Stadium",
+      "importance_score": 8.8,
+      "home_team": {
+        "name": "Atalanta",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atalanta.png",
+        "colors": ["#00529F", "#000000"]
+      },
+      "away_team": {
+        "name": "Athletic Bilbao",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bilbao.png",
+        "colors": ["#D00000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 4032,
+      "date": "2026-01-21",
+      "time": "23:00",
+      "week": 7,
+      "stadium": "St James' Park",
+      "importance_score": 8.9,
+      "home_team": {
         "name": "Newcastle",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_newc.png",
         "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "PSV",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psv.png",
+        "colors": ["#CC0000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 4033,
+      "date": "2026-01-21",
+      "time": "23:00",
+      "week": 7,
+      "stadium": "Allianz Stadium",
+      "importance_score": 9.1,
+      "home_team": {
+        "name": "Juventus",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_juventus.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Benfica",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_benfica.png",
+        "colors": ["#E10600", "#FFFFFF"]
       }
     }
   ]

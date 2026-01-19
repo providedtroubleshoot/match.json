@@ -1,165 +1,165 @@
 {
   "matches": [
     {
-      "match_id": 3126,
-      "date": "2026-01-17",
-      "time": "17:00",
-      "week": 18,
-      "stadium": "Başakşehir Fatih Terim Stadyumu",
-      "importance_score": 2.8,
-      "home_team": {
-        "name": "Başakşehir",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ibfk.png",
-        "colors": ["#FF6600", "#0B2240"]
-      },
-      "away_team": {
-        "name": "Karagümrük",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kara.png",
-        "colors": ["#E30613", "#000000"]
-      }
-    },
-    {
-      "match_id": 3127,
-      "date": "2026-01-17",
+      "match_id": 3135,
+      "date": "2026-01-23",
       "time": "20:00",
-      "week": 18,
-      "stadium": "RAMS Park",
-      "importance_score": 7.6,
+      "week": 19,
+      "stadium": "Papara Park",
+      "importance_score": 6.8,
       "home_team": {
-        "name": "Galatasaray",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gs.png",
-        "colors": ["#A32638", "#FDB913"]
-      },
-      "away_team": {
-        "name": "Gaziantep FK",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gfk.png",
-        "colors": ["#E30613", "#000000"]
-      }
-    },
-    {
-      "match_id": 3128,
-      "date": "2026-01-18",
-      "time": "14:30",
-      "week": 18,
-      "stadium": "Recep Tayyip Erdoğan Stadyumu",
-      "importance_score": 1.0,
-      "home_team": {
-        "name": "Kasımpaşa",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ksp.png",
-        "colors": ["#004080", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Antalyaspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ant.png",
-        "colors": ["#E30613", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 3129,
-      "date": "2026-01-18",
-      "time": "17:00",
-      "week": 18,
-      "stadium": "Kocaeli Stadyumu",
-      "importance_score": 7.6,
-      "home_team": {
-        "name": "Kocaelispor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kca.png",
-        "colors": ["#006A4E", "#000000"]
-      },
-      "away_team": {
         "name": "Trabzonspor",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ts.png",
         "colors": ["#800000", "#87CEEB"]
+      },
+      "away_team": {
+        "name": "Kasımpaşa",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ksp.png",
+        "colors": ["#004080", "#FFFFFF"]
       }
     },
     {
-      "match_id": 3130,
-      "date": "2026-01-18",
-      "time": "17:00",
-      "week": 18,
-      "stadium": "Eryaman Stadyumu",
-      "importance_score": 4.7,
+      "match_id": 3136,
+      "date": "2026-01-24",
+      "time": "14:30",
+      "week": 19,
+      "stadium": "RHG Enertürk Enerji Stadyumu",
+      "importance_score": 4.2,
       "home_team": {
-        "name": "Gençlerbirliği",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gnclr.png",
-        "colors": ["#E30613", "#000000"]
-      },
-      "away_team": {
-        "name": "Samsunspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_smsn.png",
-        "colors": ["#FF0000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 3131,
-      "date": "2026-01-18",
-      "time": "20:00",
-      "week": 18,
-      "stadium": "Alanya Oba Stadyumu",
-      "importance_score": 7.9,
-      "home_team": {
-        "name": "Alanyaspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aln.png",
-        "colors": ["#F47B20", "#00843D"]
-      },
-      "away_team": {
-        "name": "Fenerbahçe",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fb.png",
-        "colors": ["#0B2240", "#FFD100"]
-      }
-    },
-    {
-      "match_id": 3132,
-      "date": "2026-01-19",
-      "time": "17:00",
-      "week": 18,
-      "stadium": "MEDAŞ Konya Büyükşehir Stadyumu",
-      "importance_score": 3.8,
-      "home_team": {
-        "name": "Konyaspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kon.png",
-        "colors": ["#006400", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Eyüpspor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_eyup.png",
-        "colors": ["#FFD700", "#800080"]
-      }
-    },
-    {
-      "match_id": 3133,
-      "date": "2026-01-19",
-      "time": "20:00",
-      "week": 18,
-      "stadium": "Gürsel Aksel Stadyumu",
-      "importance_score": 6.1,
-      "home_team": {
-        "name": "Göztepe",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gz.png",
-        "colors": ["#FFD700", "#E30613"]
-      },
-      "away_team": {
-        "name": "Ç. Rizespor",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_crz.png",
-        "colors": ["#008000", "#87CEEB"]
-      }
-    },
-    {
-      "match_id": 3134,
-      "date": "2026-01-19",
-      "time": "20:00",
-      "week": 18,
-      "stadium": "Tüpraş Stadyumu",
-      "importance_score": 7.1,
-      "home_team": {
-        "name": "Beşiktaş",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bjk.png",
-        "colors": ["#000000", "#FFFFFF"]
-      },
-      "away_team": {
         "name": "Kayserispor",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kys.png",
         "colors": ["#FFD700", "#E30613"]
+      },
+      "away_team": {
+        "name": "Başakşehir",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ibfk.png",
+        "colors": ["#FF6600", "#0B2240"]
+      }
+    },
+    {
+      "match_id": 3137,
+      "date": "2026-01-24",
+      "time": "17:00",
+      "week": 19,
+      "stadium": "Samsun Yeni 19 Mayıs Stadyumu",
+      "importance_score": 4.9,
+      "home_team": {
+        "name": "Samsunspor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_smsn.png",
+        "colors": ["#FF0000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Kocaelispor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kca.png",
+        "colors": ["#006A4E", "#000000"]
+      }
+    },
+    {
+      "match_id": 3138,
+      "date": "2026-01-24",
+      "time": "20:00",
+      "week": 19,
+      "stadium": "Atatürk Olimpiyat Stadyumu",
+      "importance_score": 7.7,
+      "home_team": {
+        "name": "Karagümrük",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kara.png",
+        "colors": ["#E30613", "#000000"]
+      },
+      "away_team": {
+        "name": "Galatasaray",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gs.png",
+        "colors": ["#A32638", "#FDB913"]
+      }
+    },
+    {
+      "match_id": 3139,
+      "date": "2026-01-25",
+      "time": "14:30",
+      "week": 19,
+      "stadium": "Kalyon Stadyumu",
+      "importance_score": 5.1,
+      "home_team": {
+        "name": "Gaziantep FK",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gfk.png",
+        "colors": ["#E30613", "#000000"]
+      },
+      "away_team": {
+        "name": "Konyaspor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kon.png",
+        "colors": ["#006400", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 3140,
+      "date": "2026-01-25",
+      "time": "17:00",
+      "week": 19,
+      "stadium": "Çaykur Didi Stadyumu",
+      "importance_score": 4.6,
+      "home_team": {
+        "name": "Ç. Rizespor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_crz.png",
+        "colors": ["#008000", "#87CEEB"]
+      },
+      "away_team": {
+        "name": "Alanyaspor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aln.png",
+        "colors": ["#F47B20", "#00843D"]
+      }
+    },
+    {
+      "match_id": 3141,
+      "date": "2026-01-25",
+      "time": "17:00",
+      "week": 19,
+      "stadium": "Corendon Airlines Park",
+      "importance_score": 3.4,
+      "home_team": {
+        "name": "Antalyaspor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ant.png",
+        "colors": ["#E30613", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Gençlerbirliği",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gnclr.png",
+        "colors": ["#E30613", "#000000"]
+      }
+    },
+    {
+      "match_id": 3142,
+      "date": "2026-01-25",
+      "time": "20:00",
+      "week": 19,
+      "stadium": "Ülker Stadyumu",
+      "importance_score": 7.5,
+      "home_team": {
+        "name": "Fenerbahçe",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fb.png",
+        "colors": ["#0B2240", "#FFD100"]
+      },
+      "away_team": {
+        "name": "Göztepe",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gz.png",
+        "colors": ["#FFD700", "#E30613"]
+      }
+    },
+    {
+      "match_id": 3143,
+      "date": "2026-01-26",
+      "time": "20:00",
+      "week": 19,
+      "stadium": "Eyüp Stadı",
+      "importance_score": 5.2,
+      "home_team": {
+        "name": "Eyüpspor",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_eyup.png",
+        "colors": ["#FFD700", "#800080"]
+      },
+      "away_team": {
+        "name": "Beşiktaş",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bjk.png",
+        "colors": ["#000000", "#FFFFFF"]
       }
     }
   ]
