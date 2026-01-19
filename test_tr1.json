@@ -1,0 +1,58 @@
+{
+  "matches": [
+   {
+      "match_id": 6145,
+      "date": "2026-01-19",
+      "time": "22:30",
+      "week": 19,
+      "stadium": "Millerntor-Stadion",
+      "importance_score": 5.4,
+      "home_team": {
+        "name": "St. Pauli",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pauli.png",
+        "colors": ["#441100", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Hamburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hamburg.png",
+        "colors": ["#0F45A0", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 6147,
+      "date": "2026-01-19",
+      "time": "17:30",
+      "week": 19,
+      "stadium": "BayArena",
+      "importance_score": 6.1,
+      "home_team": {
+        "name": "Leverkusen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png",
+        "colors": ["#E30613", "#000000"]
+      },
+      "away_team": {
+        "name": "Bremen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_werder.png",
+        "colors": ["#008B45", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 6148,
+      "date": "2026-01-24",
+      "time": "17:30",
+      "week": 19,
+      "stadium": "Deutsche Bank Park",
+      "importance_score": 6.3,
+      "home_team": {
+        "name": "Frankfurt",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png",
+        "colors": ["#E30613", "#000000"]
+      },
+      "away_team": {
+        "name": "Hoffenheim",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hoffenheim.png",
+        "colors": ["#005BAC", "#FFFFFF"]
+      }
+    }
+  ]
+}
