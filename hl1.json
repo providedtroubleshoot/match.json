@@ -1,24 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 100079,
-      "date": "2026-01-21",
-      "time": "20:45",
-      "week": 16,
-      "stadium": "AFAS Stadion",
-      "importance_score": 7.1,
-      "home_team": {
-        "name": "AZ Alkmaar",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_az.png",
-        "colors": ["#E41B13", "#000000"]
-      },
-      "away_team": {
-        "name": "Excelsior",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_excelsior.png",
-        "colors": ["#000000", "#FF0000"]
-      }
-    },
-    {
       "match_id": 100080,
       "date": "2026-01-24",
       "time": "18:30",
@@ -160,24 +142,6 @@
         "name": "Heracles",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heracles.png",
         "colors": ["#000000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 100088,
-      "date": "2026-02-11",
-      "time": "20:45",
-      "week": 20,
-      "stadium": "De Adelaarshorst",
-      "importance_score": 7.1,
-      "home_team": {
-        "name": "Go Ahead",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_eagles.png",
-        "colors": ["#FFCC00", "#E2001A"]
-      },
-      "away_team": {
-        "name": "Heerenveen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heerenveen.png",
-        "colors": ["#0033A0", "#FFFFFF"]
       }
     }
   ]
