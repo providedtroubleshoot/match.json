@@ -1,39 +1,165 @@
 {
   "matches": [
     {
-      "match_id": 6154,
-      "date": "2026-01-27",
+      "match_id": 6156,
+      "date": "2026-01-30",
       "time": "22:30",
-      "week": 19,
+      "week": 20,
+      "stadium": "RheinEnergieStadion",
+      "importance_score": 5.6,
+      "home_team": {
+        "name": "Köln",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_köln.png",
+        "colors": ["#FFFFFF", "#E30613"]
+      },
+      "away_team": {
+        "name": "Wolfsburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_wolfsburg.png",
+        "colors": ["#65B32E", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 6157,
+      "date": "2026-01-31",
+      "time": "17:30",
+      "week": 20,
+      "stadium": "Deutsche Bank Park",
+      "importance_score": 6.4,
+      "home_team": {
+        "name": "Frankfurt",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png",
+        "colors": ["#E30613", "#000000"]
+      },
+      "away_team": {
+        "name": "Leverkusen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png",
+        "colors": ["#E30613", "#000000"]
+      }
+    },
+    {
+      "match_id": 6158,
+      "date": "2026-01-31",
+      "time": "17:30",
+      "week": 20,
+      "stadium": "Red Bull Arena",
+      "importance_score": 6.7,
+      "home_team": {
+        "name": "Leipzig",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rbl.png",
+        "colors": ["#FFFFFF", "#E30613"]
+      },
+      "away_team": {
+        "name": "Mainz",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mainz.png",
+        "colors": ["#E30613", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 6159,
+      "date": "2026-01-31",
+      "time": "17:30",
+      "week": 20,
       "stadium": "Wohninvest Weserstadion",
-      "importance_score": 5.8,
+      "importance_score": 5.5,
       "home_team": {
         "name": "Bremen",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_werder.png",
         "colors": ["#008B45", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Hoffenheim",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hoffenheim.png",
-        "colors": ["#005BAC", "#FFFFFF"]
+        "name": "Gladbach",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bmg.png",
+        "colors": ["#000000", "#FFFFFF"]
       }
     },
     {
-      "match_id": 6155,
-      "date": "2026-01-27",
-      "time": "22:30",
-      "week": 19,
-      "stadium": "Millerntor-Stadion",
-      "importance_score": 6.4,
+      "match_id": 6160,
+      "date": "2026-01-31",
+      "time": "17:30",
+      "week": 20,
+      "stadium": "WWK Arena",
+      "importance_score": 5.3,
       "home_team": {
+        "name": "Augsburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_augsburg.png",
+        "colors": ["#C20C0C", "#008751"]
+      },
+      "away_team": {
         "name": "St. Pauli",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pauli.png",
         "colors": ["#441100", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 6161,
+      "date": "2026-01-31",
+      "time": "17:30",
+      "week": 20,
+      "stadium": "PreZero Arena",
+      "importance_score": 6.1,
+      "home_team": {
+        "name": "Hoffenheim",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hoffenheim.png",
+        "colors": ["#005BAC", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Leipzig",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rbl.png",
+        "name": "U. Berlin",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_berlin.png",
+        "colors": ["#DC052D", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 6162,
+      "date": "2026-01-31",
+      "time": "20:30",
+      "week": 20,
+      "stadium": "Volksparkstadion",
+      "importance_score": 7.4,
+      "home_team": {
+        "name": "Hamburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hamburg.png",
+        "colors": ["#0F45A0", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Bayern Münih",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bayern.png",
+        "colors": ["#DC052D", "#0066B2"]
+      }
+    },
+    {
+      "match_id": 6163,
+      "date": "2026-02-01",
+      "time": "17:30",
+      "week": 20,
+      "stadium": "MHPArena",
+      "importance_score": 6.0,
+      "home_team": {
+        "name": "Stuttgart",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_stuttgart.png",
         "colors": ["#FFFFFF", "#E30613"]
+      },
+      "away_team": {
+        "name": "Freiburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_freiburg.png",
+        "colors": ["#000000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 6164,
+      "date": "2026-02-01",
+      "time": "19:30",
+      "week": 20,
+      "stadium": "Signal Iduna Park",
+      "importance_score": 6.8,
+      "home_team": {
+        "name": "Dortmund",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png",
+        "colors": ["#FDE100", "#000000"]
+      },
+      "away_team": {
+        "name": "Heidenheim",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heidenheim.png",
+        "colors": ["#005BAC", "#DA291C"]
       }
     }
   ]
