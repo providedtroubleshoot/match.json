@@ -55,24 +55,6 @@
       }
     },
     {
-      "match_id": 5221,
-      "date": "2026-02-07",
-      "time": "20:30",
-      "week": 23,
-      "stadium": "Ramón Sánchez-Pizjuán",
-      "importance_score": 6.6,
-      "home_team": {
-        "name": "Sevilla",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sev.png",
-        "colors": ["#FF0000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Girona",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_girona.png",
-        "colors": ["#CC0000", "#FFFFFF"]
-      }
-    },
-    {
       "match_id": 5222,
       "date": "2026-02-07",
       "time": "23:00",
