@@ -19,6 +19,24 @@
       }
     },
     {
+      "match_id": 100117,
+      "date": "2026-02-11",
+      "time": "23:00",
+      "week": 18,
+      "stadium": "Goffertstadion",
+      "importance_score": 7.9,
+      "home_team": {
+        "name": "NEC Nijmegen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nec.png",
+        "colors": ["#D40000", "#007F3E"]
+      },
+      "away_team": {
+        "name": "Utrecht",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_utrecht.png",
+        "colors": ["#E50000", "#1B4E9B"]
+      }
+    },
+    {
       "match_id": 100108,
       "date": "2026-02-13",
       "time": "22:00",
@@ -168,7 +186,7 @@
       "time": "18:45",
       "week": 23,
       "stadium": "Sparta Stadion Het Kasteel",
-      "importance_score": 8.0,
+      "importance_score": 8.0,	
       "home_team": {
         "name": "Sparta",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sparta.png",
