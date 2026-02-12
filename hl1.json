@@ -1,42 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 100107,
-      "date": "2026-02-11",
-      "time": "20:45",
-      "week": 20,
-      "stadium": "De Adelaarshorst",
-      "importance_score": 5.4,
-      "home_team": {
-        "name": "Go Ahead",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_eagles.png",
-        "colors": ["#FFCC00", "#E2001A"]
-      },
-      "away_team": {
-        "name": "Heerenveen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heerenveen.png",
-        "colors": ["#0033A0", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 100117,
-      "date": "2026-02-11",
-      "time": "23:00",
-      "week": 18,
-      "stadium": "Goffertstadion",
-      "importance_score": 7.9,
-      "home_team": {
-        "name": "NEC Nijmegen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nec.png",
-        "colors": ["#D40000", "#007F3E"]
-      },
-      "away_team": {
-        "name": "Utrecht",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_utrecht.png",
-        "colors": ["#E50000", "#1B4E9B"]
-      }
-    },
-    {
       "match_id": 100108,
       "date": "2026-02-13",
       "time": "22:00",
