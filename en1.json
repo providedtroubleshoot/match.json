@@ -1,24 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 2750,
-      "date": "2026-02-18",
-      "time": "23:00",
-      "week": 31,
-      "stadium": "Molineux Stadium",
-      "importance_score": 7.4,
-      "home_team": {
-        "name": "Wolves",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_wolves.png",
-        "colors": ["#FDB913", "#231F20"]
-      },
-      "away_team": {
-        "name": "Arsenal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_arsenal.png",
-        "colors": ["#EF0107", "#FFFFFF"]
-      }
-    },
-    {
       "match_id": 2751,
       "date": "2026-02-21",
       "time": "18:00",

@@ -1,24 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 5237,
-      "date": "2026-02-18",
-      "time": "22:00",
-      "week": 16,
-      "stadium": "Ciutat de València",
-      "importance_score": 6.8,
-      "home_team": {
-        "name": "Levante",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_levante.png",
-        "colors": ["#002F6C", "#C8102E"]
-      },
-      "away_team": {
-        "name": "Villarreal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_villarreal.png",
-        "colors": ["#FFF200", "#1D42BA"]
-      }
-    },
-    {
       "match_id": 5238,
       "date": "2026-02-20",
       "time": "23:00",

@@ -1,24 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 75210,
-      "date": "2026-02-18",
-      "time": "22:45",
-      "week": 24,
-      "stadium": "Stadio Giuseppe Meazza",
-      "importance_score": 7.2,
-      "home_team": {
-        "name": "Milan",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_milan.png",
-        "colors": ["#AC0000", "#000000"]
-      },
-      "away_team": {
-        "name": "Como",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_como.png",
-        "colors": ["#003A8F", "#FFFFFF"]
-      }
-    },
-    {
       "match_id": 75211,
       "date": "2026-02-20",
       "time": "22:45",
