@@ -1,75 +1,75 @@
 {
   "matches": [
     {
-      "match_id": 4043,
-      "date": "2026-02-17",
+      "match_id": 4047,
+      "date": "2026-02-25",
       "time": "20:45",
-      "week": 9,
-      "stadium": "RAMS Park",
-      "importance_score": 9.6,
+      "week": 10,
+      "stadium": "Gewiss Stadium",
+      "importance_score": 9.4,
       "home_team": {
-        "name": "Galatasaray",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gs.png",
-        "colors": ["#A90432", "#FDB912"]
-      },
-      "away_team": {
-        "name": "Juventus",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_juventus.png",
-        "colors": ["#000000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 4044,
-      "date": "2026-02-17",
-      "time": "23:00",
-      "week": 9,
-      "stadium": "Stade Louis II",
-      "importance_score": 9.2,
-      "home_team": {
-        "name": "Monaco",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mco.png",
-        "colors": ["#D71920", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "PSG",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psg.png",
-        "colors": ["#004170", "#DA291C"]
-      }
-    },
-    {
-      "match_id": 4045,
-      "date": "2026-02-17",
-      "time": "23:00",
-      "week": 9,
-      "stadium": "Estádio da Luz",
-      "importance_score": 9.5,
-      "home_team": {
-        "name": "Benfica",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_benfica.png",
-        "colors": ["#E83030", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Real Madrid",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rma.png",
-        "colors": ["#FEBE10", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 4046,
-      "date": "2026-02-17",
-      "time": "23:00",
-      "week": 9,
-      "stadium": "Signal Iduna Park",
-      "importance_score": 9.0,
-      "home_team": {
-        "name": "Dortmund",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png",
-        "colors": ["#FDE100", "#000000"]
-      },
-      "away_team": {
         "name": "Atalanta",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atalanta.png",
         "colors": ["#00529F", "#000000"]
+      },
+      "away_team": {
+        "name": "Dortmund",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png",
+        "colors": ["#FDE100", "#000000"]
+      }
+    },
+    {
+      "match_id": 4048,
+      "date": "2026-02-25",
+      "time": "23:00",
+      "week": 10,
+      "stadium": "Parc des Princes",
+      "importance_score": 9.5,
+      "home_team": {
+        "name": "PSG",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psg.png",
+        "colors": ["#004170", "#DA291C"]
+      },
+      "away_team": {
+        "name": "Monaco",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mco.png",
+        "colors": ["#D71920", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 4049,
+      "date": "2026-02-25",
+      "time": "23:00",
+      "week": 10,
+      "stadium": "Allianz Stadium",
+      "importance_score": 9.6,
+      "home_team": {
+        "name": "Juventus",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_juventus.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Galatasaray",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gs.png",
+        "colors": ["#A90432", "#FDB912"]
+      }
+    },
+    {
+      "match_id": 4050,
+      "date": "2026-02-25",
+      "time": "23:00",
+      "week": 10,
+      "stadium": "Santiago Bernabéu",
+      "importance_score": 9.8,
+      "home_team": {
+        "name": "Real Madrid",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rma.png",
+        "colors": ["#FEBE10", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Benfica",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_benfica.png",
+        "colors": ["#E83030", "#FFFFFF"]
       }
     }
   ]
