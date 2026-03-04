@@ -1,24 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 5258,
-      "date": "2026-03-04",
-      "time": "21:00",
-      "week": 23,
-      "stadium": "Campo de Vallecas",
-      "importance_score": 6.1,
-      "home_team": {
-        "name": "Rayo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rayo.png",
-        "colors": ["#FFFFFF", "#D50032"]
-      },
-      "away_team": {
-        "name": "Real Oviedo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_oviedo.png",
-        "colors": ["#0033A0", "#FFD700"]
-      }
-    },
-    {
       "match_id": 5259,
       "date": "2026-03-06",
       "time": "23:00",
