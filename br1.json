@@ -179,6 +179,24 @@
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_vdgama.png",
         "colors": ["#000000", "#FFFFFF"]
       }
+    },
+    {
+      "match_id": 1440,
+      "date": "2026-03-17",
+      "time": "02:00",
+      "week": 6,
+      "stadium": "Arena Condá",
+      "importance_score": 4.3,
+      "home_team": {
+        "name": "Chapecoense",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_chapecoense.png",
+        "colors": ["#1BC918", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Grêmio",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gremio.png",
+        "colors": ["#000000", "#FFFFFF"]
+      }
     }
   ]
 }
