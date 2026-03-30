@@ -1,24 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 1460,
-      "date": "2026-03-30",
-      "time": "01:30",
-      "week": 5,
-      "stadium": "Arena da Baixada",
-      "importance_score": 5.9,
-      "home_team": {
-        "name": "Athletico",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_paranaense.png",
-        "colors": ["#D10000", "#000000"]
-      },
-      "away_team": {
-        "name": "Botafogo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bota.png",
-        "colors": ["#000000", "#FFFFFF"]
-      }
-    },
-    {
       "match_id": 1470,
       "date": "2026-04-02",
       "time": "01:30",
