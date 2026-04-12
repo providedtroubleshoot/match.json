@@ -1,111 +1,39 @@
 {
   "matches": [
     {
-      "match_id": 1255,
-      "date": "2026-04-09",
-      "time": "19:00",
-      "week": 28,
-      "stadium": "Prince Sultan bin Abdul Aziz Stadium",
-      "importance_score": 6.4,
+      "match_id": 1261,
+      "date": "2026-04-14",
+      "time": "21:00",
+      "week": 29,
+      "stadium": "Prince Saud bin Jalawi Stadium",
+      "importance_score": 5.7,
       "home_team": {
-        "name": "Damac",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_damac.png",
-        "colors": ["#8B0000", "#FFFFFF"]
-      },
-      "away_team": {
         "name": "Al-Qadsiah",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alqadsiah.png",
         "colors": ["#FFD700", "#FF0000"]
+      },
+      "away_team": {
+        "name": "Al-Shabab",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alshabab.png",
+        "colors": ["#FFFFFF", "#000000"]
       }
     },
     {
-      "match_id": 1256,
-      "date": "2026-04-09",
+      "match_id": 1262,
+      "date": "2026-04-15",
       "time": "21:00",
-      "week": 28,
-      "stadium": "Prince Mohammed bin Fahd Stadium",
-      "importance_score": 5.8,
+      "week": 29,
+      "stadium": "Al-Awwal Park",
+      "importance_score": 7.8,
       "home_team": {
-        "name": "Al-Ettifaq",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alettifaq.png",
-        "colors": ["#007A33", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Al-Riyadh",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alriyadh.png",
-        "colors": ["#FF0000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1257,
-      "date": "2026-04-11",
-      "time": "19:00",
-      "week": 28,
-      "stadium": "Al-Najma Club Stadium",
-      "importance_score": 4.6,
-      "home_team": {
-        "name": "Al-Najma",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnajma.png",
-        "colors": ["#1B1F8A", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "NEOM SC",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_neom.png",
-        "colors": ["#000000", "#FFD700"]
-      }
-    },
-    {
-      "match_id": 1258,
-      "date": "2026-04-11",
-      "time": "19:00",
-      "week": 28,
-      "stadium": "Al-Rass Stadium",
-      "importance_score": 4.5,
-      "home_team": {
-        "name": "Al-Taawoun",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_altawoun.png",
-        "colors": ["#FFD700", "#000000"]
-      },
-      "away_team": {
-        "name": "Al-Kholood",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alkholood.png",
-        "colors": ["#8B0000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1259,
-      "date": "2026-04-11",
-      "time": "19:05",
-      "week": 28,
-      "stadium": "Al-Hazem Club Stadium",
-      "importance_score": 4.9,
-      "home_team": {
-        "name": "Al-Hazem",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alhazem.png",
-        "colors": ["#002B7F", "#FFD700"]
-      },
-      "away_team": {
-        "name": "Al-Fayha",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfayha.png",
-        "colors": ["#FF4F00", "#000080"]
-      }
-    },
-    {
-      "match_id": 1260,
-      "date": "2026-04-11",
-      "time": "21:00",
-      "week": 28,
-      "stadium": "Prince Hathloul bin Abdulaziz Stadium",
-      "importance_score": 7.6,
-      "home_team": {
-        "name": "Al-Okhdood",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alokhdood.png",
-        "colors": ["#6BB9E1", "#FFFFFF"]
-      },
-      "away_team": {
         "name": "Al-Nassr",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnasrr.png",
         "colors": ["#FFD700", "#1B1F8A"]
+      },
+      "away_team": {
+        "name": "Al-Ettifaq",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alettifaq.png",
+        "colors": ["#007A33", "#FFFFFF"]
       }
     }
   ]
