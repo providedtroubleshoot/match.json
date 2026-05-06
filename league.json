@@ -1,13 +1,5 @@
 [
   {
-    "id": "cl",
-    "name": "Champions League",
-    "country": "Europe",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_cl.png",
-    "primaryColor": "0xFFFFFFFF",
-    "secondaryColor": "0xFF0AE32B"
-  },
-  {
     "id": "en1",
     "name": "Premier League",
     "country": "England",
