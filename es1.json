@@ -1,124 +1,70 @@
 {
   "matches": [
     {
-      "match_id": 5349,
-      "date": "2026-05-12",
+      "match_id": 5359,
+      "date": "2026-05-17",
       "time": "20:00",
-      "week": 36,
-      "stadium": "Abanca-Balaídos",
-      "importance_score": 6.4,
+      "week": 37,
+      "stadium": "San Mamés",
+      "importance_score": 7.4,
       "home_team": {
-        "name": "Celta Vigo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_celta.png",
-        "colors": ["#8ECEF2", "#DC143C"]
-      },
-      "away_team": {
-        "name": "Levante",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_levante.png",
-        "colors": ["#002F6C", "#C8102E"]
-      }
-    },
-    {
-      "match_id": 5350,
-      "date": "2026-05-12",
-      "time": "21:00",
-      "week": 36,
-      "stadium": "Benito Villamarín",
-      "importance_score": 7.1,
-      "home_team": {
-        "name": "Real Betis",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_betis.png",
-        "colors": ["#0BB363", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Elche",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_elche.png",
-        "colors": ["#FFFFFF", "#00954C"]
-      }
-    },
-    {
-      "match_id": 5351,
-      "date": "2026-05-12",
-      "time": "22:30",
-      "week": 36,
-      "stadium": "El Sadar",
-      "importance_score": 7.9,
-      "home_team": {
-        "name": "Osasuna",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_osasuna.png",
-        "colors": ["#D50032", "#0033A0"]
-      },
-      "away_team": {
-        "name": "Atletico Madrid",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png",
-        "colors": ["#CB3524", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 5352,
-      "date": "2026-05-13",
-      "time": "20:00",
-      "week": 36,
-      "stadium": "RCDE Stadium",
-      "importance_score": 6.7,
-      "home_team": {
-        "name": "Espanyol",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_espanyol.png",
-        "colors": ["#0070BB", "#FFFFFF"]
-      },
-      "away_team": {
         "name": "Athletic Bilbao",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bilbao.png",
         "colors": ["#EE2737", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Celta Vigo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_celta.png",
+        "colors": ["#8ECEF2", "#DC143C"]
       }
     },
     {
-      "match_id": 5353,
-      "date": "2026-05-13",
+      "match_id": 5360,
+      "date": "2026-05-17",
       "time": "20:00",
-      "week": 36,
-      "stadium": "Estadio de la Cerámica",
-      "importance_score": 7.6,
+      "week": 37,
+      "stadium": "Metropolitano",
+      "importance_score": 8.2,
       "home_team": {
-        "name": "Villarreal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_villarreal.png",
-        "colors": ["#FFF200", "#1D42BA"]
+        "name": "Atletico Madrid",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png",
+        "colors": ["#CB3524", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Sevilla",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sev.png",
-        "colors": ["#FF0000", "#FFFFFF"]
+        "name": "Girona",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_girona.png",
+        "colors": ["#CC0000", "#FFFFFF"]
       }
     },
     {
-      "match_id": 5354,
-      "date": "2026-05-13",
-      "time": "22:30",
-      "week": 36,
-      "stadium": "Mendizorroza",
-      "importance_score": 8.8,
+      "match_id": 5361,
+      "date": "2026-05-17",
+      "time": "20:00",
+      "week": 37,
+      "stadium": "Martínez Valero",
+      "importance_score": 6.5,
       "home_team": {
-        "name": "Alavés",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alaves.png",
-        "colors": ["#0033A0", "#FFFFFF"]
+        "name": "Elche",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_elche.png",
+        "colors": ["#FFFFFF", "#00954C"]
       },
       "away_team": {
-        "name": "Barcelona",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brc.png",
-        "colors": ["#A50044", "#004D98"]
-      }
-    },
-    {
-      "match_id": 5355,
-      "date": "2026-05-13",
-      "time": "22:30",
-      "week": 36,
-      "stadium": "Coliseum",
-      "importance_score": 6.3,
-      "home_team": {
         "name": "Getafe",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_getafe.png",
         "colors": ["#0054A6", "#D50032"]
+      }
+    },
+    {
+      "match_id": 5362,
+      "date": "2026-05-17",
+      "time": "20:00",
+      "week": 37,
+      "stadium": "Ciutat de València",
+      "importance_score": 5.8,
+      "home_team": {
+        "name": "Levante",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_levante.png",
+        "colors": ["#002F6C", "#C8102E"]
       },
       "away_team": {
         "name": "Mallorca",
@@ -127,57 +73,111 @@
       }
     },
     {
-      "match_id": 5356,
-      "date": "2026-05-14",
+      "match_id": 5363,
+      "date": "2026-05-17",
       "time": "20:00",
-      "week": 36,
-      "stadium": "Mestalla",
-      "importance_score": 6.5,
+      "week": 37,
+      "stadium": "Campo de Vallecas",
+      "importance_score": 7.1,
       "home_team": {
-        "name": "Valencia",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_valencia.png",
-        "colors": ["#F5941D", "#000000"]
-      },
-      "away_team": {
         "name": "Rayo",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rayo.png",
         "colors": ["#FFFFFF", "#D50032"]
+      },
+      "away_team": {
+        "name": "Villarreal",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_villarreal.png",
+        "colors": ["#FFF200", "#1D42BA"]
       }
     },
     {
-      "match_id": 5357,
-      "date": "2026-05-14",
-      "time": "21:00",
-      "week": 36,
-      "stadium": "Montilivi",
-      "importance_score": 6.2,
+      "match_id": 5364,
+      "date": "2026-05-17",
+      "time": "20:00",
+      "week": 37,
+      "stadium": "Reale Arena",
+      "importance_score": 6.9,
       "home_team": {
-        "name": "Girona",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_girona.png",
-        "colors": ["#CC0000", "#FFFFFF"]
-      },
-      "away_team": {
         "name": "Sociedad",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sociedad.png",
         "colors": ["#005BAC", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Valencia",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_valencia.png",
+        "colors": ["#F5941D", "#000000"]
       }
     },
     {
-      "match_id": 5358,
-      "date": "2026-05-14",
-      "time": "22:30",
-      "week": 36,
-      "stadium": "Santiago Bernabéu",
-      "importance_score": 9.1,
+      "match_id": 5365,
+      "date": "2026-05-17",
+      "time": "20:00",
+      "week": 37,
+      "stadium": "Carlos Tartiere",
+      "importance_score": 5.7,
       "home_team": {
-        "name": "Real Madrid",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rma.png",
-        "colors": ["#FFFFFF", "#FEBE10"]
-      },
-      "away_team": {
         "name": "Real Oviedo",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_oviedo.png",
         "colors": ["#0033A0", "#FFD700"]
+      },
+      "away_team": {
+        "name": "Alavés",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alaves.png",
+        "colors": ["#0033A0", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 5366,
+      "date": "2026-05-17",
+      "time": "20:00",
+      "week": 37,
+      "stadium": "El Sadar",
+      "importance_score": 6.2,
+      "home_team": {
+        "name": "Osasuna",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_osasuna.png",
+        "colors": ["#D50032", "#0033A0"]
+      },
+      "away_team": {
+        "name": "Espanyol",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_espanyol.png",
+        "colors": ["#0070BB", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 5367,
+      "date": "2026-05-17",
+      "time": "20:00",
+      "week": 37,
+      "stadium": "Ramón Sánchez-Pizjuán",
+      "importance_score": 8.4,
+      "home_team": {
+        "name": "Sevilla",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sev.png",
+        "colors": ["#FF0000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Real Madrid",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rma.png",
+        "colors": ["#FFFFFF", "#FEBE10"]
+      }
+    },
+    {
+      "match_id": 5368,
+      "date": "2026-05-17",
+      "time": "22:15",
+      "week": 37,
+      "stadium": "Estadi Olímpic Lluís Companys",
+      "importance_score": 9.3,
+      "home_team": {
+        "name": "Barcelona",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brc.png",
+        "colors": ["#A50044", "#004D98"]
+      },
+      "away_team": {
+        "name": "Real Betis",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_betis.png",
+        "colors": ["#0BB363", "#FFFFFF"]
       }
     }
   ]
