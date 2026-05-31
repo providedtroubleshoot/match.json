@@ -1,22 +1,4 @@
 {
   "matches": [
-    {
-      "match_id": 4077,
-      "date": "2026-05-30",
-      "time": "19:00",
-      "week": 17,
-      "stadium": "Puskás Aréna",
-      "importance_score": 10.0,
-      "home_team": {
-        "name": "PSG",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psg.png",
-        "colors": ["#004170", "#DA291C"]
-      },
-      "away_team": {
-        "name": "Arsenal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_arsenal.png",
-        "colors": ["#EF0107", "#FFFFFF"]
-      }
-    }
   ]
 }
