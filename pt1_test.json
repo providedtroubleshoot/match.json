@@ -27,7 +27,7 @@
       "importance_score": 6.8,
       "home_team": {
         "name": "South Korea",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_southkorea.png",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_korea.png",
         "colors": ["#CD2E3A", "#FFFFFF"]
       },
       "away_team": {
@@ -49,7 +49,7 @@
         "colors": ["#FF0000", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Bosnia",
+        "name": "Bosnia-Herzegovina",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bosnia.png",
         "colors": ["#002F6C", "#FCD116"]
       }
