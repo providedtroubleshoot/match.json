@@ -1,16 +1,16 @@
 {
   "matches": [
     {
-      "match_id": 89,
-      "date": "2026-07-04",
-      "time": "20:00",
-      "week": 5,
-      "stadium": "NRG Stadium",
-      "importance_score": 9.2,
+      "match_id": 97,
+      "date": "2026-07-09",
+      "time": "23:00",
+      "week": 6,
+      "stadium": "Gillette Stadium",
+      "importance_score": 9.8,
       "home_team": {
-        "name": "Canada",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_canada.png",
-        "colors": ["#FF0000", "#FFFFFF"]
+        "name": "France",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_france.png",
+        "colors": ["#0055A4", "#FFFFFF"]
       },
       "away_team": {
         "name": "Morocco",
@@ -19,88 +19,16 @@
       }
     },
     {
-      "match_id": 90,
-      "date": "2026-07-05",
-      "time": "00:00",
-      "week": 5,
-      "stadium": "Lincoln Financial Field",
-      "importance_score": 9.4,
-      "home_team": {
-        "name": "Paraguay",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_paraguay.png",
-        "colors": ["#D52B1E", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "France",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_france.png",
-        "colors": ["#0055A4", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 91,
-      "date": "2026-07-05",
-      "time": "23:00",
-      "week": 5,
-      "stadium": "MetLife Stadium",
-      "importance_score": 9.7,
-      "home_team": {
-        "name": "Brazil",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brazil.png",
-        "colors": ["#FFDF00", "#009739"]
-      },
-      "away_team": {
-        "name": "Norway",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_norway.png",
-        "colors": ["#BA0C2F", "#00205B"]
-      }
-    },
-    {
-      "match_id": 92,
-      "date": "2026-07-06",
-      "time": "03:00",
-      "week": 5,
-      "stadium": "Estadio Azteca",
-      "importance_score": 9.8,
-      "home_team": {
-        "name": "Mexico",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mexico.png",
-        "colors": ["#006847", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "England",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_england.png",
-        "colors": ["#FFFFFF", "#CE1126"]
-      }
-    },
-    {
-      "match_id": 93,
-      "date": "2026-07-06",
+      "match_id": 98,
+      "date": "2026-07-10",
       "time": "22:00",
-      "week": 5,
-      "stadium": "AT&T Stadium",
-      "importance_score": 9.6,
+      "week": 6,
+      "stadium": "SoFi Stadium",
+      "importance_score": 9.9,
       "home_team": {
-        "name": "Portugal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_portugal.png",
-        "colors": ["#006600", "#FF0000"]
-      },
-      "away_team": {
         "name": "Spain",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_spain.png",
         "colors": ["#AA151B", "#F1BF00"]
-      }
-    },
-    {
-      "match_id": 94,
-      "date": "2026-07-07",
-      "time": "03:00",
-      "week": 5,
-      "stadium": "Lumen Field",
-      "importance_score": 9.4,
-      "home_team": {
-        "name": "United States",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_usa.png",
-        "colors": ["#B22234", "#3C3B6E"]
       },
       "away_team": {
         "name": "Belgium",
@@ -109,39 +37,39 @@
       }
     },
     {
-      "match_id": 95,
-      "date": "2026-07-07",
-      "time": "19:00",
-      "week": 5,
-      "stadium": "Mercedes-Benz Stadium",
-      "importance_score": 9.5,
+      "match_id": 99,
+      "date": "2026-07-12",
+      "time": "00:00",
+      "week": 6,
+      "stadium": "Hard Rock Stadium",
+      "importance_score": 9.7,
+      "home_team": {
+        "name": "Norway",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_norway.png",
+        "colors": ["#BA0C2F", "#00205B"]
+      },
+      "away_team": {
+        "name": "England",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_england.png",
+        "colors": ["#FFFFFF", "#CE1126"]
+      }
+    },
+    {
+      "match_id": 100,
+      "date": "2026-07-12",
+      "time": "04:00",
+      "week": 6,
+      "stadium": "Arrowhead Stadium",
+      "importance_score": 9.9,
       "home_team": {
         "name": "Argentina",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_argentina.png",
         "colors": ["#75AADB", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Egypt",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_egypt.png",
-        "colors": ["#CE1126", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 96,
-      "date": "2026-07-07",
-      "time": "23:00",
-      "week": 5,
-      "stadium": "BC Place",
-      "importance_score": 8.9,
-      "home_team": {
         "name": "Switzerland",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_switzerland.png",
         "colors": ["#FF0000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Colombia",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_colombia.png",
-        "colors": ["#FCD116", "#003893"]
       }
     }
   ]
