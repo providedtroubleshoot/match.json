@@ -1,75 +1,39 @@
 {
   "matches": [
     {
-      "match_id": 97,
-      "date": "2026-07-09",
-      "time": "23:00",
-      "week": 6,
-      "stadium": "Gillette Stadium",
-      "importance_score": 9.8,
+      "match_id": 101,
+      "date": "2026-07-14",
+      "time": "22:00",
+      "week": 7,
+      "stadium": "AT&T Stadium",
+      "importance_score": 10.0,
       "home_team": {
         "name": "France",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_france.png",
         "colors": ["#0055A4", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Morocco",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_morocco.png",
-        "colors": ["#C1272D", "#006233"]
-      }
-    },
-    {
-      "match_id": 98,
-      "date": "2026-07-10",
-      "time": "22:00",
-      "week": 6,
-      "stadium": "SoFi Stadium",
-      "importance_score": 9.9,
-      "home_team": {
         "name": "Spain",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_spain.png",
         "colors": ["#AA151B", "#F1BF00"]
-      },
-      "away_team": {
-        "name": "Belgium",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_belgium.png",
-        "colors": ["#000000", "#FFD90C"]
       }
     },
     {
-      "match_id": 99,
-      "date": "2026-07-12",
-      "time": "00:00",
-      "week": 6,
-      "stadium": "Hard Rock Stadium",
-      "importance_score": 9.7,
+      "match_id": 102,
+      "date": "2026-07-15",
+      "time": "22:00",
+      "week": 7,
+      "stadium": "Mercedes-Benz Stadium",
+      "importance_score": 10.0,
       "home_team": {
-        "name": "Norway",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_norway.png",
-        "colors": ["#BA0C2F", "#00205B"]
-      },
-      "away_team": {
         "name": "England",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_england.png",
         "colors": ["#FFFFFF", "#CE1126"]
-      }
-    },
-    {
-      "match_id": 100,
-      "date": "2026-07-12",
-      "time": "04:00",
-      "week": 6,
-      "stadium": "Arrowhead Stadium",
-      "importance_score": 9.9,
-      "home_team": {
+      },
+      "away_team": {
         "name": "Argentina",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_argentina.png",
         "colors": ["#75AADB", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Switzerland",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_switzerland.png",
-        "colors": ["#FF0000", "#FFFFFF"]
       }
     }
   ]
