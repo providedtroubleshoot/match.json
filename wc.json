@@ -1,34 +1,34 @@
 {
   "matches": [
     {
-      "match_id": 101,
-      "date": "2026-07-14",
-      "time": "22:00",
-      "week": 7,
-      "stadium": "AT&T Stadium",
-      "importance_score": 10.0,
+      "match_id": 103,
+      "date": "2026-07-19",
+      "time": "00:00",
+      "week": 8,
+      "stadium": "Hard Rock Stadium",
+      "importance_score": 9.8,
       "home_team": {
         "name": "France",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_france.png",
         "colors": ["#0055A4", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Spain",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_spain.png",
-        "colors": ["#AA151B", "#F1BF00"]
-      }
-    },
-    {
-      "match_id": 102,
-      "date": "2026-07-15",
-      "time": "22:00",
-      "week": 7,
-      "stadium": "Mercedes-Benz Stadium",
-      "importance_score": 10.0,
-      "home_team": {
         "name": "England",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_england.png",
         "colors": ["#FFFFFF", "#CE1126"]
+      }
+    },
+    {
+      "match_id": 104,
+      "date": "2026-07-19",
+      "time": "22:00",
+      "week": 8,
+      "stadium": "MetLife Stadium",
+      "importance_score": 10.0,
+      "home_team": {
+        "name": "Spain",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_spain.png",
+        "colors": ["#AA151B", "#F1BF00"]
       },
       "away_team": {
         "name": "Argentina",
