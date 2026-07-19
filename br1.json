@@ -143,6 +143,24 @@
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_remo.png",
         "colors": ["#0033A0", "#FFFFFF"]
       }
-    }
+    },
+{
+  "match_id": 1543,
+  "date": "2026-07-24",
+  "time": "01:30",
+  "week": 19,
+  "stadium": "Nilton Santos",
+  "importance_score": 4.0,
+  "home_team": {
+    "name": "Botafogo",
+    "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bota.png",
+    "colors": ["#000000", "#FFFFFF"]
+  },
+  "away_team": {
+    "name": "Vitória",
+    "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_vitoria.png",
+    "colors": ["#D10000", "#000000"]
+  }
+}
   ]
 }
