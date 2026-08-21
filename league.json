@@ -1,21 +1,5 @@
 [
   {
-    "id": "wc",
-    "name": "World Cup 2026",
-    "country": "World",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_wc.png",
-    "primaryColor": "0xFF0D3724",
-    "secondaryColor": "0xFFC9A04F"
-  },
-  {
-    "id": "cl",
-    "name": "Champions League",
-    "country": "Europe",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/league_logos/logo_cl.png",
-    "primaryColor": "0xFFFFFFFF",
-    "secondaryColor": "0xFF0AE32B"
-  },
-  {
     "id": "en1",
     "name": "Premier League",
     "country": "England",

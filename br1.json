@@ -1,124 +1,52 @@
 {
   "matches": [
     {
-      "match_id": 1564,
-      "date": "2026-08-15",
-      "time": "22:30",
-      "week": 23,
+      "match_id": 1574,
+      "date": "2026-08-22",
+      "time": "22:00",
+      "week": 24,
       "stadium": "Maracanã",
-      "importance_score": 5.0,
+      "importance_score": 4.2,
       "home_team": {
         "name": "Fluminense",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fluminense.png",
         "colors": ["#7F0019", "#1C5A3F"]
       },
       "away_team": {
-        "name": "Palmeiras",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_palm.png",
-        "colors": ["#037942", "#FFFFFF"]
+        "name": "Remo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_remo.png",
+        "colors": ["#0033A0", "#FFFFFF"]
       }
     },
     {
-      "match_id": 1565,
-      "date": "2026-08-16",
+      "match_id": 1575,
+      "date": "2026-08-23",
       "time": "00:30",
-      "week": 23,
-      "stadium": "Ligga Arena",
-      "importance_score": 4.4,
+      "week": 24,
+      "stadium": "Beira-Rio",
+      "importance_score": 4.1,
       "home_team": {
-        "name": "Athletico",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_paranaense.png",
-        "colors": ["#D10000", "#000000"]
+        "name": "SC Inter",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_internacional.png",
+        "colors": ["#D00000", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Bragantino",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bragantino.png",
-        "colors": ["#FFFFFF", "#D40019"]
-      }
-    },
-    {
-      "match_id": 1566,
-      "date": "2026-08-16",
-      "time": "03:00",
-      "week": 23,
-      "stadium": "Morumbi",
-      "importance_score": 4.2,
-      "home_team": {
-        "name": "São Paulo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sp.png",
-        "colors": ["#C00000", "#000000"]
-      },
-      "away_team": {
-        "name": "Coritiba",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_coritiba.png",
-        "colors": ["#006437", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1567,
-      "date": "2026-08-16",
-      "time": "17:00",
-      "week": 23,
-      "stadium": "Arena Condá",
-      "importance_score": 3.8,
-      "home_team": {
-        "name": "Chapecoense",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_chapecoense.png",
-        "colors": ["#006437", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Bahia",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bahia.png",
-        "colors": ["#0056A6", "#D9001C"]
-      }
-    },
-    {
-      "match_id": 1568,
-      "date": "2026-08-16",
-      "time": "22:00",
-      "week": 23,
-      "stadium": "São Januário",
-      "importance_score": 4.0,
-      "home_team": {
-        "name": "Vasco",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_vdgama.png",
-        "colors": ["#000000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Santos",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_santos.png",
-        "colors": ["#000000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1569,
-      "date": "2026-08-16",
-      "time": "22:00",
-      "week": 23,
-      "stadium": "Arena MRV",
-      "importance_score": 4.3,
-      "home_team": {
         "name": "Atlético-MG",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mineiro.png",
         "colors": ["#000000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Grêmio",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gremio.png",
-        "colors": ["#0073CF", "#000000"]
       }
     },
     {
-      "match_id": 1570,
-      "date": "2026-08-17",
-      "time": "00:30",
-      "week": 23,
-      "stadium": "José Maria de Campos Maia",
-      "importance_score": 4.0,
+      "match_id": 1576,
+      "date": "2026-08-23",
+      "time": "02:30",
+      "week": 24,
+      "stadium": "Mineirão",
+      "importance_score": 4.5,
       "home_team": {
-        "name": "Mirassol",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mirassol.png",
-        "colors": ["#FFCC00", "#00923F"]
+        "name": "Cruzeiro",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cruzeiro.png",
+        "colors": ["#0033A0", "#FFFFFF"]
       },
       "away_team": {
         "name": "Flamengo",
@@ -127,57 +55,129 @@
       }
     },
     {
-      "match_id": 1571,
-      "date": "2026-08-17",
-      "time": "00:30",
-      "week": 23,
+      "match_id": 1577,
+      "date": "2026-08-23",
+      "time": "22:00",
+      "week": 24,
+      "stadium": "Allianz Parque",
+      "importance_score": 4.7,
+      "home_team": {
+        "name": "Palmeiras",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_palm.png",
+        "colors": ["#037942", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Vasco",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_vdgama.png",
+        "colors": ["#000000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1578,
+      "date": "2026-08-23",
+      "time": "22:00",
+      "week": 24,
+      "stadium": "Nabizão",
+      "importance_score": 4.0,
+      "home_team": {
+        "name": "Bragantino",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bragantino.png",
+        "colors": ["#FFFFFF", "#D40019"]
+      },
+      "away_team": {
+        "name": "Grêmio",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gremio.png",
+        "colors": ["#0073CF", "#000000"]
+      }
+    },
+    {
+      "match_id": 1579,
+      "date": "2026-08-23",
+      "time": "22:00",
+      "week": 24,
       "stadium": "Barradão",
-      "importance_score": 3.8,
+      "importance_score": 4.0,
       "home_team": {
         "name": "Vitória",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_vitoria.png",
         "colors": ["#D10000", "#000000"]
       },
       "away_team": {
-        "name": "Botafogo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bota.png",
-        "colors": ["#000000", "#FFFFFF"]
+        "name": "Bahia",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bahia.png",
+        "colors": ["#0056A6", "#D9001C"]
       }
     },
     {
-      "match_id": 1572,
-      "date": "2026-08-17",
-      "time": "01:30",
-      "week": 23,
-      "stadium": "Neo Química Arena",
-      "importance_score": 4.1,
+      "match_id": 1580,
+      "date": "2026-08-24",
+      "time": "00:30",
+      "week": 24,
+      "stadium": "Vila Belmiro",
+      "importance_score": 3.9,
       "home_team": {
+        "name": "Santos",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_santos.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Mirassol",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mirassol.png",
+        "colors": ["#FFCC00", "#00923F"]
+      }
+    },
+    {
+      "match_id": 1581,
+      "date": "2026-08-24",
+      "time": "00:30",
+      "week": 24,
+      "stadium": "Arena Condá",
+      "importance_score": 3.8,
+      "home_team": {
+        "name": "Chapecoense",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_chapecoense.png",
+        "colors": ["#006437", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "São Paulo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sp.png",
+        "colors": ["#C00000", "#000000"]
+      }
+    },
+    {
+      "match_id": 1582,
+      "date": "2026-08-24",
+      "time": "01:30",
+      "week": 24,
+      "stadium": "Couto Pereira",
+      "importance_score": 4.0,
+      "home_team": {
+        "name": "Coritiba",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_coritiba.png",
+        "colors": ["#006437", "#FFFFFF"]
+      },
+      "away_team": {
         "name": "Corinthians",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_corint.png",
         "colors": ["#000000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Cruzeiro",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cruzeiro.png",
-        "colors": ["#0033A0", "#FFFFFF"]
       }
     },
     {
-      "match_id": 1573,
-      "date": "2026-08-18",
+      "match_id": 1583,
+      "date": "2026-08-25",
       "time": "02:00",
-      "week": 23,
-      "stadium": "Beira-Rio",
-      "importance_score": 3.9,
+      "week": 24,
+      "stadium": "Nilton Santos",
+      "importance_score": 4.3,
       "home_team": {
-        "name": "SC Inter",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_internacional.png",
-        "colors": ["#D00000", "#FFFFFF"]
+        "name": "Botafogo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bota.png",
+        "colors": ["#000000", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Remo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_remo.png",
-        "colors": ["#0033A0", "#FFFFFF"]
+        "name": "Athletico",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_paranaense.png",
+        "colors": ["#D10000", "#000000"]
       }
     }
   ]
