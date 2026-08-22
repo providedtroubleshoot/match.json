@@ -1,4 +1,148 @@
 {
   "matches": [
+    {
+      "match_id": 1780,
+      "date": "2026-08-22",
+      "time": "18:15",
+      "week": 1,
+      "stadium": "Stade Bollaert-Delelis",
+      "importance_score": 6.2,
+      "home_team": {
+        "name": "Lens",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_len.png",
+        "colors": ["#E30613", "#FFD200"]
+      },
+      "away_team": {
+        "name": "AJ Auxerre",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aux.png",
+        "colors": ["#002767", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1781,
+      "date": "2026-08-22",
+      "time": "21:45",
+      "week": 1,
+      "stadium": "Stade de la Beaujoire",
+      "importance_score": 4.8,
+      "home_team": {
+        "name": "Le Mans FC",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lemans.png",
+        "colors": ["#E30613", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Brest",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brs.png",
+        "colors": ["#D6002F", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1782,
+      "date": "2026-08-22",
+      "time": "21:45",
+      "week": 1,
+      "stadium": "Allianz Riviera",
+      "importance_score": 5.0,
+      "home_team": {
+        "name": "Nice",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nce.png",
+        "colors": ["#000000", "#ED1C24"]
+      },
+      "away_team": {
+        "name": "Lorient",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lrn.png",
+        "colors": ["#FF7300", "#000000"]
+      }
+    },
+    {
+      "match_id": 1783,
+      "date": "2026-08-22",
+      "time": "21:45",
+      "week": 1,
+      "stadium": "Stadium de Toulouse",
+      "importance_score": 6.1,
+      "home_team": {
+        "name": "Toulouse",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tls.png",
+        "colors": ["#745990", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Lyon",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lyo.png",
+        "colors": ["#00285E", "#DA291C"]
+      }
+    },
+    {
+      "match_id": 1784,
+      "date": "2026-08-22",
+      "time": "21:45",
+      "week": 1,
+      "stadium": "Stade de l'Aube",
+      "importance_score": 4.7,
+      "home_team": {
+        "name": "Troyes",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_troyes.png",
+        "colors": ["#0055A4", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Paris FC",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pfc.png",
+        "colors": ["#00AEEF", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1785,
+      "date": "2026-08-23",
+      "time": "16:00",
+      "week": 1,
+      "stadium": "Stade Raymond-Kopa",
+      "importance_score": 5.2,
+      "home_team": {
+        "name": "Angers",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ang.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Lille",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lil.png",
+        "colors": ["#E4002B", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1786,
+      "date": "2026-08-23",
+      "time": "18:15",
+      "week": 1,
+      "stadium": "Stade Océane",
+      "importance_score": 5.6,
+      "home_team": {
+        "name": "Le Havre",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lhav.png",
+        "colors": ["#00427F", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Monaco",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mco.png",
+        "colors": ["#F2003C", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1787,
+      "date": "2026-08-23",
+      "time": "21:45",
+      "week": 1,
+      "stadium": "Parc des Princes",
+      "importance_score": 7.5,
+      "home_team": {
+        "name": "PSG",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psg.png",
+        "colors": ["#004170", "#DA021C"]
+      },
+      "away_team": {
+        "name": "Rennes",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ren.png",
+        "colors": ["#ED1C24", "#000000"]
+      }
+    }
   ]
 }
