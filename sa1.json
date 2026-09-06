@@ -1,52 +1,16 @@
 {
   "matches": [
     {
-      "match_id": 1334,
-      "date": "2026-09-04",
-      "time": "19:00",
-      "week": 5,
+      "match_id": 1340,
+      "date": "2026-09-07",
+      "time": "18:30",
+      "week": 6,
       "stadium": "Prince Mohamed bin Fahd Stadium",
-      "importance_score": 6.8,
+      "importance_score": 7.0,
       "home_team": {
-        "name": "Abha",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_abha.png",
-        "colors": ["#D71920", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Al-Ettifaq",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alettifaq.png",
-        "colors": ["#007A33", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1335,
-      "date": "2026-09-04",
-      "time": "21:00",
-      "week": 5,
-      "stadium": "Prince Faisal bin Fahd Stadium",
-      "importance_score": 8.7,
-      "home_team": {
-        "name": "Al-Shabab",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alshabab.png",
-        "colors": ["#FFFFFF", "#000000"]
-      },
-      "away_team": {
-        "name": "Al-Hilal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alhilal.png",
-        "colors": ["#002B7F", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 1336,
-      "date": "2026-09-04",
-      "time": "21:00",
-      "week": 5,
-      "stadium": "Prince Abdullah Al Faisal Stadium",
-      "importance_score": 7.7,
-      "home_team": {
-        "name": "Al-Ahli",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alahli.png",
-        "colors": ["#006400", "#FFFFFF"]
+        "name": "Al-Khaleej",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alkhaleej.png",
+        "colors": ["#006400", "#FFD700"]
       },
       "away_team": {
         "name": "Al-Riyadh",
@@ -55,57 +19,147 @@
       }
     },
     {
-      "match_id": 1337,
-      "date": "2026-09-05",
-      "time": "18:50",
-      "week": 5,
-      "stadium": "Al Majma'ah Sports City Stadium",
-      "importance_score": 6.4,
+      "match_id": 1341,
+      "date": "2026-09-07",
+      "time": "21:00",
+      "week": 6,
+      "stadium": "Kingdom Arena",
+      "importance_score": 8.9,
       "home_team": {
+        "name": "Al-Hilal",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alhilal.png",
+        "colors": ["#002B7F", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "NEOM SC",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_neom.png",
+        "colors": ["#000000", "#FFD700"]
+      }
+    },
+    {
+      "match_id": 1342,
+      "date": "2026-09-08",
+      "time": "18:30",
+      "week": 6,
+      "stadium": "Prince Mohamed bin Fahd Stadium",
+      "importance_score": 7.2,
+      "home_team": {
+        "name": "Al-Ettifaq",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alettifaq.png",
+        "colors": ["#007A33", "#FFFFFF"]
+      },
+      "away_team": {
         "name": "Al-Faisaly",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfaisaly.png",
         "colors": ["#8B0000", "#FFFFFF"]
-      },
-      "away_team": {
+      }
+    },
+    {
+      "match_id": 1343,
+      "date": "2026-09-08",
+      "time": "18:55",
+      "week": 6,
+      "stadium": "Al-Hazem Club Stadium",
+      "importance_score": 7.1,
+      "home_team": {
         "name": "Al-Hazem",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alhazem.png",
         "colors": ["#002B7F", "#FFD700"]
-      }
-    },
-    {
-      "match_id": 1338,
-      "date": "2026-09-05",
-      "time": "18:55",
-      "week": 5,
-      "stadium": "King Abdullah Sports City",
-      "importance_score": 6.7,
-      "home_team": {
+      },
+      "away_team": {
         "name": "Al-Taawoun",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_altawoun.png",
         "colors": ["#FFD700", "#000000"]
-      },
-      "away_team": {
-        "name": "Al-Fateh",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfateh.png",
-        "colors": ["#006BB6", "#32CD32"]
       }
     },
     {
-      "match_id": 1339,
-      "date": "2026-09-05",
+      "match_id": 1344,
+      "date": "2026-09-08",
       "time": "21:00",
-      "week": 5,
+      "week": 6,
+      "stadium": "Prince Saud bin Jalawi Stadium",
+      "importance_score": 8.5,
+      "home_team": {
+        "name": "Al-Qadsiah",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alqadsiah.png",
+        "colors": ["#FFD700", "#FF0000"]
+      },
+      "away_team": {
+        "name": "Al-Ahli",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alahli.png",
+        "colors": ["#006400", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1345,
+      "date": "2026-09-08",
+      "time": "21:00",
+      "week": 6,
       "stadium": "King Abdullah Sports City",
-      "importance_score": 9.2,
+      "importance_score": 8.7,
       "home_team": {
         "name": "Al-Ittihad",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alittihad.png",
         "colors": ["#FFD700", "#000000"]
       },
       "away_team": {
+        "name": "Al-Fayha",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfayha.png",
+        "colors": ["#FF4F00", "#000080"]
+      }
+    },
+    {
+      "match_id": 1346,
+      "date": "2026-09-09",
+      "time": "18:55",
+      "week": 6,
+      "stadium": "Al-Rass Stadium",
+      "importance_score": 7.4,
+      "home_team": {
+        "name": "Al-Kholood",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alkholood.png",
+        "colors": ["#8B0000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Al-Shabab",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alshabab.png",
+        "colors": ["#FFFFFF", "#000000"]
+      }
+    },
+    {
+      "match_id": 1347,
+      "date": "2026-09-09",
+      "time": "21:00",
+      "week": 6,
+      "stadium": "Prince Abdullah bin Jalawi Stadium",
+      "importance_score": 6.9,
+      "home_team": {
+        "name": "Al-Fateh",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfateh.png",
+        "colors": ["#006BB6", "#32CD32"]
+      },
+      "away_team": {
+        "name": "Al-Diriyah",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aldiriyah.png",
+        "colors": ["#00843D", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 1348,
+      "date": "2026-09-09",
+      "time": "21:00",
+      "week": 6,
+      "stadium": "Al-Awwal Park",
+      "importance_score": 9.3,
+      "home_team": {
         "name": "Al-Nassr",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnasrr.png",
         "colors": ["#FFD700", "#1B1F8A"]
+      },
+      "away_team": {
+        "name": "Abha",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_abha.png",
+        "colors": ["#D71920", "#FFFFFF"]
       }
     }
   ]
