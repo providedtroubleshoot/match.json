@@ -1,164 +1,164 @@
 {
   "matches": [
     {
-      "match_id": 8196,
-      "date": "2026-09-19",
-      "time": "17:30",
-      "week": 7,
-      "stadium": "Estádio Cidade de Barcelos",
-      "importance_score": 5.8,
+      "match_id": 8205,
+      "date": "2026-10-09",
+      "time": "20:45",
+      "week": 8,
+      "stadium": "Estádio C. J. de Almeida Freitas",
+      "importance_score": 6.1,
       "home_team": {
-        "name": "Gil Vicente",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gilvicente.png",
-        "colors": ["#C8102E", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Marítimo",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_maritimo.png",
-        "colors": ["#00843D", "#EF3340"]
-      }
-    },
-    {
-      "match_id": 8197,
-      "date": "2026-09-19",
-      "time": "17:30",
-      "week": 7,
-      "stadium": "Estádio da Madeira",
-      "importance_score": 5.1,
-      "home_team": {
-        "name": "Nacional",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nacional.png",
-        "colors": ["#000000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Famalicão",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_famalicao.png",
-        "colors": ["#002D62", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 8198,
-      "date": "2026-09-19",
-      "time": "20:00",
-      "week": 7,
-      "stadium": "Complexo Desportivo FC Alverca",
-      "importance_score": 4.9,
-      "home_team": {
-        "name": "Alverca",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alverca.png",
-        "colors": ["#E30613", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Rio Ave",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rioave.png",
-        "colors": ["#008000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 8199,
-      "date": "2026-09-19",
-      "time": "22:30",
-      "week": 7,
-      "stadium": "Estádio José Alvalade",
-      "importance_score": 7.2,
-      "home_team": {
-        "name": "Sporting",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sporting.png",
-        "colors": ["#006633", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Arouca",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_arouca.png",
-        "colors": ["#FFD200", "#003366"]
-      }
-    },
-    {
-      "match_id": 8200,
-      "date": "2026-09-20",
-      "time": "17:30",
-      "week": 7,
-      "stadium": "Estádio José Gomes",
-      "importance_score": 5.0,
-      "home_team": {
-        "name": "Estrela",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_estrela.png",
-        "colors": ["#006633", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Académico Viseu",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_viseu.png",
-        "colors": ["#FFD200", "#000000"]
-      }
-    },
-    {
-      "match_id": 8201,
-      "date": "2026-09-20",
-      "time": "17:30",
-      "week": 7,
-      "stadium": "Estádio D. Afonso Henriques",
-      "importance_score": 5.7,
-      "home_team": {
-        "name": "Vitória SC",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_vitoriasc.png",
-        "colors": ["#000000", "#FFFFFF"]
-      },
-      "away_team": {
         "name": "Moreirense",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_moreirense.png",
         "colors": ["#006633", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Gil Vicente",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gilvicente.png",
+        "colors": ["#C8102E", "#FFFFFF"]
       }
     },
     {
-      "match_id": 8202,
-      "date": "2026-09-20",
-      "time": "20:00",
-      "week": 7,
-      "stadium": "Estádio António Coimbra da Mota",
-      "importance_score": 4.6,
+      "match_id": 8206,
+      "date": "2026-10-09",
+      "time": "22:15",
+      "week": 8,
+      "stadium": "Estádio Municipal de Braga",
+      "importance_score": 8.2,
       "home_team": {
+        "name": "Braga",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_braga.png",
+        "colors": ["#E30613", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Sporting",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sporting.png",
+        "colors": ["#006633", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 8207,
+      "date": "2026-10-10",
+      "time": "17:30",
+      "week": 8,
+      "stadium": "Estádio Pina Manique",
+      "importance_score": 5.8,
+      "home_team": {
+        "name": "Casa Pia",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_casapia.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Santa Clara",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_santaclara.png",
+        "colors": ["#E30613", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 8208,
+      "date": "2026-10-10",
+      "time": "20:00",
+      "week": 8,
+      "stadium": "Estádio do Marítimo",
+      "importance_score": 7.8,
+      "home_team": {
+        "name": "Marítimo",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_maritimo.png",
+        "colors": ["#00843D", "#EF3340"]
+      },
+      "away_team": {
+        "name": "Porto",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_porto.png",
+        "colors": ["#003399", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 8209,
+      "date": "2026-10-10",
+      "time": "22:30",
+      "week": 8,
+      "stadium": "Estádio do Fontelo",
+      "importance_score": 6.3,
+      "home_team": {
+        "name": "Académico Viseu",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_viseu.png",
+        "colors": ["#FFD200", "#000000"]
+      },
+      "away_team": {
         "name": "Estoril",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_estoril.png",
         "colors": ["#FFD200", "#003366"]
+      }
+    },
+    {
+      "match_id": 8210,
+      "date": "2026-10-11",
+      "time": "17:30",
+      "week": 8,
+      "stadium": "Estádio dos Arcos",
+      "importance_score": 5.7,
+      "home_team": {
+        "name": "Rio Ave",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rioave.png",
+        "colors": ["#008000", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Casa Pia",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_casapia.png",
+        "name": "Nacional",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nacional.png",
         "colors": ["#000000", "#FFFFFF"]
       }
     },
     {
-      "match_id": 8203,
-      "date": "2026-09-20",
+      "match_id": 8211,
+      "date": "2026-10-11",
       "time": "20:00",
-      "week": 7,
-      "stadium": "Estádio de São Miguel",
-      "importance_score": 6.0,
+      "week": 8,
+      "stadium": "Estádio da Luz",
+      "importance_score": 8.6,
       "home_team": {
-        "name": "Santa Clara",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_santaclara.png",
+        "name": "Benfica",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_benfica.png",
         "colors": ["#E30613", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Braga",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_braga.png",
-        "colors": ["#E30613", "#FFFFFF"]
+        "name": "Vitória SC",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_vitoriasc.png",
+        "colors": ["#000000", "#FFFFFF"]
       }
     },
     {
-      "match_id": 8204,
-      "date": "2026-09-20",
+      "match_id": 8212,
+      "date": "2026-10-11",
       "time": "22:30",
-      "week": 7,
-      "stadium": "Estádio do Dragão",
-      "importance_score": 9.5,
+      "week": 8,
+      "stadium": "Estádio Municipal de Arouca",
+      "importance_score": 6.4,
       "home_team": {
-        "name": "Porto",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_porto.png",
-        "colors": ["#003399", "#FFFFFF"]
+        "name": "Arouca",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_arouca.png",
+        "colors": ["#FFD200", "#003366"]
       },
       "away_team": {
-        "name": "Benfica",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_benfica.png",
+        "name": "Estrela",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_estrela.png",
+        "colors": ["#006633", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 8213,
+      "date": "2026-10-12",
+      "time": "22:15",
+      "week": 8,
+      "stadium": "Estádio Municipal 22 de Junho",
+      "importance_score": 6.0,
+      "home_team": {
+        "name": "Famalicão",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_famalicao.png",
+        "colors": ["#002D62", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Alverca",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alverca.png",
         "colors": ["#E30613", "#FFFFFF"]
       }
     }
