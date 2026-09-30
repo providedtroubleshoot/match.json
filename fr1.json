@@ -157,7 +157,7 @@
         "colors": ["#003DA5", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Marsilya",
+        "name": "Marseille",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mrs.png",
         "colors": ["#00A1DE", "#F15A22"]
       }
