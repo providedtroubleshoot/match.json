@@ -31,7 +31,7 @@
         "colors": ["#E4002B", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Le Havre",
+        "name": "Le Havre AC",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lhav.png",
         "colors": ["#00427F", "#FFFFFF"]
       }
@@ -44,12 +44,12 @@
       "stadium": "Stade Francis-Le Blé",
       "importance_score": 5.1,
       "home_team": {
-        "name": "Brest",
+        "name": "Stade Brestois",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brs.png",
         "colors": ["#D6002F", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Angers",
+        "name": "Angers SCO",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ang.png",
         "colors": ["#000000", "#FFFFFF"]
       }
@@ -62,7 +62,7 @@
       "stadium": "Stade du Moustoir",
       "importance_score": 5.0,
       "home_team": {
-        "name": "Lorient",
+        "name": "FC Lorient",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lrn.png",
         "colors": ["#FF7300", "#000000"]
       },
@@ -121,7 +121,7 @@
         "colors": ["#000000", "#ED1C24"]
       },
       "away_team": {
-        "name": "Strasbourg",
+        "name": "R. Strasbourg",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rcs.png",
         "colors": ["#0055A4", "#FFFFFF"]
       }
