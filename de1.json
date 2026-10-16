@@ -1,165 +1,147 @@
 {
   "matches": [
     {
-      "match_id": 6326,
-      "date": "2026-10-09",
-      "time": "21:30",
-      "week": 5,
-      "stadium": "Signal Iduna Park",
-      "importance_score": 7.1,
-      "home_team": {
-        "name": "Dortmund",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png",
-        "colors": ["#FDE100", "#000000"]
-      },
-      "away_team": {
-        "name": "Bremen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_werder.png",
-        "colors": ["#008B45", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 6327,
-      "date": "2026-10-10",
+      "match_id": "6239",
+      "date": "2026-10-17",
       "time": "16:30",
-      "week": 5,
-      "stadium": "PreZero Arena",
-      "importance_score": 5.3,
-      "home_team": {
-        "name": "Hoffenheim",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hoffenheim.png",
-        "colors": ["#005BAC", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Hamburg",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hamburg.png",
-        "colors": ["#0F45A0", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 6328,
-      "date": "2026-10-10",
-      "time": "16:30",
-      "week": 5,
-      "stadium": "WWK Arena",
-      "importance_score": 7.2,
-      "home_team": {
-        "name": "Augsburg",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_augsburg.png",
-        "colors": ["#C20C0C", "#008751"]
-      },
-      "away_team": {
-        "name": "Bayern Münih",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bayern.png",
-        "colors": ["#DC052D", "#0066B2"]
-      }
-    },
-    {
-      "match_id": 6329,
-      "date": "2026-10-10",
-      "time": "16:30",
-      "week": 5,
-      "stadium": "MEWA Arena",
-      "importance_score": 6.5,
-      "home_team": {
-        "name": "Mainz",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mainz.png",
-        "colors": ["#E30613", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Leverkusen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png",
-        "colors": ["#E30613", "#000000"]
-      }
-    },
-    {
-      "match_id": 6330,
-      "date": "2026-10-10",
-      "time": "16:30",
-      "week": 5,
+      "week": 6,
       "stadium": "Stadion An der Alten Försterei",
-      "importance_score": 5.7,
+      "importance_score": 78,
       "home_team": {
         "name": "U. Berlin",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_berlin.png",
-        "colors": ["#DC052D", "#FFFFFF"]
+        "colors": ["#E3000B", "#FFFFFF"]
       },
       "away_team": {
-        "name": "SV Elversberg",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_elversberg.png",
-        "colors": ["#000000", "#FFFFFF"]
+        "name": "Dortmund",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bvb.png",
+        "colors": ["#FDE100", "#000000"]
       }
     },
     {
-      "match_id": 6331,
-      "date": "2026-10-10",
+      "match_id": "6240",
+      "date": "2026-10-17",
       "time": "16:30",
-      "week": 5,
-      "stadium": "Home Deluxe Arena",
-      "importance_score": 5.6,
+      "week": 6,
+      "stadium": "Volksparkstadion",
+      "importance_score": 70,
       "home_team": {
-        "name": "Paderborn",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_paderborn.png",
-        "colors": ["#005CA9", "#FFFFFF"]
+        "name": "Hamburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hamburg.png",
+        "colors": ["#004B9B", "#FFFFFF"]
       },
       "away_team": {
         "name": "Stuttgart",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_stuttgart.png",
-        "colors": ["#FFFFFF", "#E30613"]
+        "colors": ["#E32219", "#FFFFFF"]
       }
     },
     {
-      "match_id": 6332,
-      "date": "2026-10-10",
-      "time": "19:30",
-      "week": 5,
-      "stadium": "Red Bull Arena",
-      "importance_score": 6.2,
+      "match_id": "6241",
+      "date": "2026-10-17",
+      "time": "16:30",
+      "week": 6,
+      "stadium": "Weserstadion",
+      "importance_score": 68,
       "home_team": {
+        "name": "Bremen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_werder.png",
+        "colors": ["#008B45", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Paderborn",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_paderborn.png",
+        "colors": ["#005CA9", "#000000"]
+      }
+    },
+    {
+      "match_id": "6242",
+      "date": "2026-10-17",
+      "time": "16:30",
+      "week": 6,
+      "stadium": "Veltins-Arena",
+      "importance_score": 72,
+      "home_team": {
+        "name": "Schalke",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_schalke.png",
+        "colors": ["#004D9D", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Mainz",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mainz.png",
+        "colors": ["#C3142D", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": "6243",
+      "date": "2026-10-17",
+      "time": "16:30",
+      "week": 6,
+      "stadium": "URSAPHARM-Arena an der Kaiserlinde",
+      "importance_score": 65,
+      "home_team": {
+        "name": "SV Elversberg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_elversberg.png",
+        "colors": ["#000000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Augsburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_augsburg.png",
+        "colors": ["#BA3733", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": "6244",
+      "date": "2026-10-17",
+      "time": "19:30",
+      "week": 6,
+      "stadium": "Allianz Arena",
+      "importance_score": 95,
+      "home_team": {
+        "name": "Bayern Münih",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bayern.png",
+        "colors": ["#DC052D", "#FFFFFF"]
+      },
+      "away_team": {
         "name": "Leipzig",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rbl.png",
-        "colors": ["#FFFFFF", "#E30613"]
-      },
-      "away_team": {
-        "name": "Frankfurt",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png",
-        "colors": ["#E30613", "#000000"]
+        "colors": ["#DD0741", "#FFFFFF"]
       }
     },
     {
-      "match_id": 6333,
-      "date": "2026-10-11",
+      "match_id": "6245",
+      "date": "2026-10-18",
       "time": "16:30",
-      "week": 5,
-      "stadium": "RheinEnergieStadion",
-      "importance_score": 5.2,
+      "week": 6,
+      "stadium": "BayArena",
+      "importance_score": 82,
       "home_team": {
-        "name": "Köln",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_köln.png",
-        "colors": ["#FFFFFF", "#E30613"]
+        "name": "Leverkusen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_b04.png",
+        "colors": ["#E32219", "#000000"]
       },
       "away_team": {
+        "name": "Freiburg",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_freiburg.png",
+        "colors": ["#E3000B", "#000000"]
+      }
+    },
+    {
+      "match_id": "6246",
+      "date": "2026-10-18",
+      "time": "18:30",
+      "week": 6,
+      "stadium": "Borussia-Park",
+      "importance_score": 75,
+      "home_team": {
         "name": "Gladbach",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bmg.png",
         "colors": ["#000000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 6334,
-      "date": "2026-10-11",
-      "time": "18:30",
-      "week": 5,
-      "stadium": "Europa-Park Stadion",
-      "importance_score": 6.8,
-      "home_team": {
-        "name": "Freiburg",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_freiburg.png",
-        "colors": ["#000000", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Schalke",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_schalke.png",
-        "colors": ["#004B9B", "#FFFFFF"]
+        "name": "Hoffenheim",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hoffenheim.png",
+        "colors": ["#1961B5", "#FFFFFF"]
       }
     }
   ]
