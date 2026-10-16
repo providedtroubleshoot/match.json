@@ -1,5 +1,20 @@
 [
   {
+    "name": "Schalke 04",
+    "topicName": "Schalke",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_schalke.png"
+  },
+  {
+    "name": "Elversberg",
+    "topicName": "SV Elversberg",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_elversberg.png"
+  },
+  {
+    "name": "Paderborn",
+    "topicName": "Paderborn",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_paderborn.png"
+  },
+  {
     "name": "Eintracht Frankfurt",
     "topicName": "Frankfurt",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_frankfurt.png"
@@ -39,20 +54,9 @@
     "topicName": "Mainz",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mainz.png"
   },
-  {
-    "name": "St. Pauli",
-    "topicName": "St. Pauli",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pauli.png"
-  },
-  {
     "name": "RB Leipzig",
     "topicName": "Leipzig",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rbl.png"
-  },
-  {
-    "name": "Heidenheim",
-    "topicName": "Heidenheim",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heidenheim.png"
   },
   {
     "name": "Köln",
@@ -83,11 +87,6 @@
     "name": "Bayern Münih",
     "topicName": "Bayern Münih",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bayern.png"
-  },
-  {
-    "name": "Wolfsburg",
-    "topicName": "Wolfsburg",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_wolfsburg.png"
   },
   {
     "name": "Manchester United",
@@ -130,11 +129,6 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bour.png"
   },
   {
-    "name": "Burnley",
-    "topicName": "Burnley",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_burnley.png"
-  },
-  {
     "name": "Everton",
     "topicName": "Everton",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_everton.png"
@@ -143,16 +137,6 @@
     "name": "Liverpool",
     "topicName": "Liverpool",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_liv.png"
-  },
-  {
-    "name": "Wolves",
-    "topicName": "Wolves",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_wolves.png"
-  },
-  {
-    "name": "West Ham United",
-    "topicName": "West Ham",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_westh.png"
   },
   {
     "name": "Fulham",
@@ -188,6 +172,21 @@
     "name": "Tottenham",
     "topicName": "Tottenham",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tottenham.png"
+  },
+  {
+    "name": "Ipswich Town",
+    "topicName": "Ipswich",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ipswich.png"
+  },
+  {
+    "name": "Coventry City",
+    "topicName": "Coventry City",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_coventry.png"
+  },
+  {
+    "name": "Hull City",
+    "topicName": "Hull City",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_hull.png"
   },
   {
     "name": "Rayo Vallecano",
@@ -260,24 +259,9 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_betis.png"
   },
   {
-    "name": "Mallorca",
-    "topicName": "Mallorca",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mallorca.png"
-  },
-  {
-    "name": "Girona",
-    "topicName": "Girona",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_girona.png"
-  },
-  {
     "name": "Alavés",
     "topicName": "Alavés",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alaves.png"
-  },
-  {
-    "name": "Real Oviedo",
-    "topicName": "Real Oviedo",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_oviedo.png"
   },
   {
     "name": "Real Sociedad",
@@ -288,6 +272,21 @@
     "name": "Atletico Madrid",
     "topicName": "Atletico Madrid",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_atm.png"
+  },
+  {
+    "name": "Racing Santander",
+    "topicName": "Racing",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_racing.png"
+  },
+  {
+    "name": "Málaga",
+    "topicName": "Málaga",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_malaga.png"
+  },
+  {
+    "name": "Deportivo A Coruña",
+    "topicName": "Dep. A Coruña",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_deportivo.png"
   },
   {
     "name": "NEC Nijmegen",
@@ -303,11 +302,6 @@
     "name": "AZ Alkmaar",
     "topicName": "AZ Alkmaar",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_az.png"
-  },
-  {
-    "name": "Volendam",
-    "topicName": "Volendam",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_volendam.png"
   },
   {
     "name": "Twente",
@@ -333,11 +327,6 @@
     "name": "Groningen",
     "topicName": "Groningen",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_groningen.png"
-  },
-  {
-    "name": "NAC Breda",
-    "topicName": "NAC Breda",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nacbreda.png"
   },
   {
     "name": "Heerenveen",
@@ -375,9 +364,19 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sparta.png"
   },
   {
-    "name": "Heracles Almelo",
-    "topicName": "Heracles",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heracles.png"
+    "name": "ADO Den Haag",
+    "topicName": "ADO Den Haag",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ado.png"
+  },
+  {
+    "name": "Cambuur",
+    "topicName": "SC Cambuur",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cambuur.png"
+  },
+  {
+    "name": "Willem II",
+    "topicName": "Willem II",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_willem.png"
   },
   {
     "name": "Toulouse",
@@ -406,7 +405,7 @@
   },
   {
     "name": "Strasbourg",
-    "topicName": "Strasbourg",
+    "topicName": "R. Strasbourg",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_rcs.png"
   },
   {
@@ -421,37 +420,27 @@
   },
   {
     "name": "Marsilya",
-    "topicName": "Marsilya",
+    "topicName": "Marseille",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mrs.png"
   },
   {
-    "name": "Nantes",
-    "topicName": "Nantes",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nte.png"
-  },
-  {
     "name": "Le Havre",
-    "topicName": "Le Havre",
+    "topicName": "Le Havre AC",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lhav.png"
   },
   {
     "name": "Angers",
-    "topicName": "Angers",
+    "topicName": "Angers SCO",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ang.png"
   },
   {
     "name": "Lorient",
-    "topicName": "Lorient",
+    "topicName": "FC Lorient",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lrn.png"
   },
   {
-    "name": "Metz",
-    "topicName": "Metz",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mtz.png"
-  },
-  {
     "name": "Brest",
-    "topicName": "Brest",
+    "topicName": "Stade Brestois",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brs.png"
   },
   {
@@ -468,6 +457,16 @@
     "name": "Paris FC",
     "topicName": "Paris FC",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pfc.png"
+  },
+  {
+    "name": "Le Mans",
+    "topicName": "Le Mans FC",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lemans.png"
+  },
+  {
+    "name": "Troyes",
+    "topicName": "Troyes",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_troyes.png"
   },
   {
     "name": "Parma",
@@ -510,11 +509,6 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_lazio.png"
   },
   {
-    "name": "Pisa",
-    "topicName": "Pisa",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_pisa.png"
-  },
-  {
     "name": "Juventus",
     "topicName": "Juventus",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_juventus.png"
@@ -523,16 +517,6 @@
     "name": "Milan",
     "topicName": "Milan",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_milan.png"
-  },
-  {
-    "name": "Verona",
-    "topicName": "Verona",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_verona.png"
-  },
-  {
-    "name": "Cremonese",
-    "topicName": "Cremonese",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cremonese.png"
   },
   {
     "name": "Napoli",
@@ -570,6 +554,21 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_genoa.png"
   },
   {
+    "name": "Venezia",
+    "topicName": "Venezia",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_venezia.png"
+  },
+  {
+    "name": "Frosinone",
+    "topicName": "Frosinone",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_genoa.png"
+  },
+  {
+    "name": "Monza",
+    "topicName": "Monza",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_monza.png"
+  },
+  {
     "name": "Al-Fayha",
     "topicName": "Al-Fayha",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfayha.png"
@@ -593,11 +592,6 @@
     "name": "NEOM SC",
     "topicName": "NEOM SC",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_neom.png"
-  },
-  {
-  "name": "Al-Najma",
-  "topicName": "Al-Najma",
-  "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnajma.png"
   },
   {
     "name": "Al-Fateh",
@@ -635,19 +629,9 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alqadsiah.png"
   },
   {
-    "name": "Damac",
-    "topicName": "Damac",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_damac.png"
-  },
-  {
     "name": "Al-Nassr",
     "topicName": "Al-Nassr",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alnasrr.png"
-  },
-  {
-    "name": "Al-Okhdood",
-    "topicName": "Al-Okhdood",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alokhdood.png"
   },
   {
     "name": "Al-Ittihad",
@@ -660,24 +644,29 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alshabab.png"
   },
   {
+    "name": "Al-Diriyah",
+    "topicName": "Al-Diriyah",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aldiriyah.png"
+  },
+  {
+    "name": "Abha",
+    "topicName": "Abha",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_abha.png"
+  },
+  {
+    "name": "Al-Faisaly",
+    "topicName": "Al-Faisaly",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_alfaisaly.png"
+  },
+  {
     "name": "Kocaelispor",
     "topicName": "Kocaelispor",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kca.png"
   },
   {
-    "name": "Antalyaspor",
-    "topicName": "Antalyaspor",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ant.png"
-  },
-  {
     "name": "Konyaspor",
     "topicName": "Konyaspor",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kon.png"
-  },
-  {
-    "name": "Kayserispor",
-    "topicName": "Kayserispor",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kys.png"
   },
   {
     "name": "Eyüpspor",
@@ -703,11 +692,6 @@
     "name": "Alanyaspor",
     "topicName": "Alanyaspor",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_aln.png"
-  },
-  {
-    "name": "Fatih Karagümrük",
-    "topicName": "Karagümrük",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_kara.png"
   },
   {
     "name": "Başakşehir",
@@ -750,6 +734,21 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ts.png"
   },
   {
+    "name": "Çorum FK",
+    "topicName": "Çorum FK",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_corum.png"
+  },
+  {
+    "name": "Amed SF",
+    "topicName": "Amed SK",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_amed.png"
+  },
+  {
+    "name": "Erzurumspor",
+    "topicName": "Erzurumspor FK",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_erzurumspor.png"
+  },
+  {
     "name": "Mirassol",
     "topicName": "Mirassol",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mirassol.png"
@@ -775,19 +774,9 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bota.png"
   },
   {
-    "name": "Fortaleza",
-    "topicName": "Fortaleza",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fortaleza.png"
-  },
-  {
     "name": "Corinthians",
     "topicName": "Corinthians",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_corint.png"
-  },
-  {
-    "name": "Juventude",
-    "topicName": "Juventude",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_juventude.png"
   },
   {
     "name": "Santos",
@@ -830,26 +819,36 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sp.png"
   },
   {
-    "name": "Ceará",
-    "topicName": "Ceará SC",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ceara.png"
-  },
-  {
     "name": "Palmeiras",
     "topicName": "Palmeiras",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_palm.png"
-  },
-  {
-    "name": "Sport Recife",
-    "topicName": "Sport Recife",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_recife.png"
   },
   {
     "name": "Grêmio",
     "topicName": "Grêmio",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_gremio.png"
   },
-{
+  {
+    "name": "Athletico Paranaense",
+    "topicName": "Athletico",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_paranaense.png"
+  },
+  {
+    "name": "Coritiba",
+    "topicName": "Coritiba",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_coritiba.png"
+  },
+  {
+    "name": "Remo",
+    "topicName": "Remo",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_remo.png"
+  },
+  {
+    "name": "Chapecoense",
+    "topicName": "Chapecoense",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_chapecoense.png"
+  },
+  {
     "name": "Sporting CP",
     "topicName": "Sporting",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sporting.png"
@@ -868,11 +867,6 @@
     "name": "CD Nacional",
     "topicName": "Nacional",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nacional.png"
-  },
-  {
-    "name": "AVS Futebol SAD",
-    "topicName": "AVS",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_avs.png"
   },
   {
     "name": "FC Arouca",
@@ -910,11 +904,6 @@
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_famalicao.png"
   },
   {
-    "name": "CD Tondela",
-    "topicName": "Tondela",
-    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tondela.png"
-  },
-  {
     "name": "SC Braga",
     "topicName": "Braga",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_braga.png"
@@ -938,6 +927,15 @@
     "name": "GD Estoril Praia",
     "topicName": "Estoril",
     "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_estoril.png"
+  },
+  {
+    "name": "Académico Viseu",
+    "topicName": "Académico Viseu",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_viseu.png"
+  },
+  {
+    "name": "Marítimo",
+    "topicName": "Marítimo",
+    "logoUrl": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_maritimo.png"
   }
-
 ]
