@@ -1,82 +1,10 @@
 {
   "matches": [
     {
-      "match_id": 2924,
-      "date": "2026-10-23",
-      "time": "22:00",
-      "week": 8,
-      "stadium": "Portman Road",
-      "importance_score": 7.0,
-      "home_team": {
-        "name": "Ipswich",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ipswich.png",
-        "colors": ["#005A9C", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Nottingham",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_notting.png",
-        "colors": ["#DD0000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 2925,
-      "date": "2026-10-24",
-      "time": "14:30",
-      "week": 8,
-      "stadium": "Villa Park",
-      "importance_score": 8.5,
-      "home_team": {
-        "name": "Aston Villa",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_asvilla.png",
-        "colors": ["#670E36", "#95BFE5"]
-      },
-      "away_team": {
-        "name": "Man City",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png",
-        "colors": ["#6CABDD", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 2926,
-      "date": "2026-10-24",
-      "time": "17:00",
-      "week": 8,
-      "stadium": "Emirates Stadium",
-      "importance_score": 8.0,
-      "home_team": {
-        "name": "Arsenal",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_arsenal.png",
-        "colors": ["#EF0107", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Everton",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_everton.png",
-        "colors": ["#003399", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 2927,
-      "date": "2026-10-24",
-      "time": "17:00",
-      "week": 8,
-      "stadium": "Coventry Building Society Arena",
-      "importance_score": 6.5,
-      "home_team": {
-        "name": "Coventry City",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_coventry.png",
-        "colors": ["#87CEEB", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "Fulham",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fulham.png",
-        "colors": ["#000000", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 2928,
-      "date": "2026-10-24",
-      "time": "19:30",
-      "week": 8,
+      "match_id": 2934,
+      "date": "2026-10-31",
+      "time": "15:30",
+      "week": 9,
       "stadium": "Stamford Bridge",
       "importance_score": 8.5,
       "home_team": {
@@ -85,34 +13,70 @@
         "colors": ["#034694", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Tottenham",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tottenham.png",
-        "colors": ["#132257", "#FFFFFF"]
+        "name": "Man United",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_manutd.png",
+        "colors": ["#DA291C", "#FBE122"]
       }
     },
     {
-      "match_id": 2929,
-      "date": "2026-10-25",
-      "time": "17:00",
-      "week": 8,
-      "stadium": "Selhurst Park",
+      "match_id": 2935,
+      "date": "2026-10-31",
+      "time": "18:00",
+      "week": 9,
+      "stadium": "Vitality Stadium",
       "importance_score": 7.0,
       "home_team": {
-        "name": "Crystal Palace",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cry.png",
-        "colors": ["#1B458F", "#A7A5A6"]
+        "name": "Bournemouth",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bour.png",
+        "colors": ["#DA291C", "#000000"]
       },
       "away_team": {
-        "name": "Newcastle",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_newc.png",
-        "colors": ["#241F20", "#FFFFFF"]
+        "name": "Leeds",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_leeds.png",
+        "colors": ["#FFCD00", "#1D428A"]
       }
     },
     {
-      "match_id": 2930,
-      "date": "2026-10-25",
-      "time": "17:00",
-      "week": 8,
+      "match_id": 2936,
+      "date": "2026-10-31",
+      "time": "18:00",
+      "week": 9,
+      "stadium": "Gtech Community Stadium",
+      "importance_score": 6.5,
+      "home_team": {
+        "name": "Brentford",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brentford.png",
+        "colors": ["#FF0000", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Nottingham",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_notting.png",
+        "colors": ["#DD0000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 2937,
+      "date": "2026-10-31",
+      "time": "18:00",
+      "week": 9,
+      "stadium": "Coventry Building Society Arena",
+      "importance_score": 6.5,
+      "home_team": {
+        "name": "Coventry City",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_coventry.png",
+        "colors": ["#87CEEB", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Sunderland",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sunderland.png",
+        "colors": ["#D71920", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 2938,
+      "date": "2026-10-31",
+      "time": "18:00",
+      "week": 9,
       "stadium": "MKM Stadium",
       "importance_score": 6.5,
       "home_team": {
@@ -121,22 +85,22 @@
         "colors": ["#F5A623", "#000000"]
       },
       "away_team": {
-        "name": "Brentford",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_brentford.png",
-        "colors": ["#FF0000", "#FFFFFF"]
+        "name": "Ipswich",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ipswich.png",
+        "colors": ["#005A9C", "#FFFFFF"]
       }
     },
     {
-      "match_id": 2931,
-      "date": "2026-10-25",
-      "time": "17:00",
-      "week": 8,
-      "stadium": "Anfield",
-      "importance_score": 8.5,
+      "match_id": 2939,
+      "date": "2026-10-31",
+      "time": "18:00",
+      "week": 9,
+      "stadium": "Etihad Stadium",
+      "importance_score": 8.0,
       "home_team": {
-        "name": "Liverpool",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_liv.png",
-        "colors": ["#C8102E", "#FFFFFF"]
+        "name": "Man City",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_mancity.png",
+        "colors": ["#6CABDD", "#FFFFFF"]
       },
       "away_team": {
         "name": "Brighton",
@@ -145,39 +109,75 @@
       }
     },
     {
-      "match_id": 2932,
-      "date": "2026-10-25",
-      "time": "17:00",
-      "week": 8,
-      "stadium": "Old Trafford",
+      "match_id": 2940,
+      "date": "2026-10-31",
+      "time": "20:30",
+      "week": 9,
+      "stadium": "Tottenham Hotspur Stadium",
       "importance_score": 7.5,
       "home_team": {
-        "name": "Man United",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_manutd.png",
-        "colors": ["#DA291C", "#FBE122"]
+        "name": "Tottenham",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_tottenham.png",
+        "colors": ["#132257", "#FFFFFF"]
       },
       "away_team": {
-        "name": "Bournemouth",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_bour.png",
-        "colors": ["#DA291C", "#000000"]
+        "name": "Crystal Palace",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cry.png",
+        "colors": ["#1B458F", "#A7A5A6"]
       }
     },
     {
-      "match_id": 2933,
-      "date": "2026-10-25",
-      "time": "19:30",
-      "week": 8,
-      "stadium": "Stadium of Light",
+      "match_id": 2941,
+      "date": "2026-10-31",
+      "time": "23:00",
+      "week": 9,
+      "stadium": "Villa Park",
       "importance_score": 7.0,
       "home_team": {
-        "name": "Sunderland",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sunderland.png",
-        "colors": ["#D71920", "#FFFFFF"]
+        "name": "Aston Villa",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_asvilla.png",
+        "colors": ["#670E36", "#95BFE5"]
       },
       "away_team": {
-        "name": "Leeds",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_leeds.png",
-        "colors": ["#FFCD00", "#1D428A"]
+        "name": "Fulham",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_fulham.png",
+        "colors": ["#000000", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 2942,
+      "date": "2026-11-01",
+      "time": "19:30",
+      "week": 9,
+      "stadium": "Anfield",
+      "importance_score": 9.5,
+      "home_team": {
+        "name": "Liverpool",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_liv.png",
+        "colors": ["#C8102E", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Arsenal",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_arsenal.png",
+        "colors": ["#EF0107", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 2943,
+      "date": "2026-11-02",
+      "time": "23:00",
+      "week": 9,
+      "stadium": "St James' Park",
+      "importance_score": 7.0,
+      "home_team": {
+        "name": "Newcastle",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_newc.png",
+        "colors": ["#241F20", "#FFFFFF"]
+      },
+      "away_team": {
+        "name": "Everton",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_everton.png",
+        "colors": ["#003399", "#FFFFFF"]
       }
     }
   ]
