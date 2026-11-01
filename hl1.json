@@ -1,88 +1,70 @@
 {
   "matches": [
     {
-      "match_id": 100272,
-      "date": "2026-10-31",
-      "time": "18:30",
-      "week": 11,
-      "stadium": "De Kuip",
-      "importance_score": 6.9,
+      "match_id": 100281,
+      "date": "2026-11-06",
+      "time": "22:00",
+      "week": 12,
+      "stadium": "Koning Willem II Stadion",
+      "importance_score": 5.3,
       "home_team": {
-        "name": "Feyenoord",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_feyenoord.png",
-        "colors": ["#FF0000", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "F. Sittard",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sittard.png",
-        "colors": ["#FFD700", "#009739"]
-      }
-    },
-    {
-      "match_id": 100273,
-      "date": "2026-10-31",
-      "time": "20:45",
-      "week": 11,
-      "stadium": "Philips Stadion",
-      "importance_score": 7.5,
-      "home_team": {
-        "name": "PSV",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psv.png",
-        "colors": ["#DA121A", "#FFFFFF"]
-      },
-      "away_team": {
         "name": "Willem II",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_willem.png",
         "colors": ["#FFD200", "#003DA5"]
+      },
+      "away_team": {
+        "name": "PEC Zwolle",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_zwolle.png",
+        "colors": ["#1C64B5", "#FFFFFF"]
       }
     },
     {
-      "match_id": 100274,
-      "date": "2026-10-31",
+      "match_id": 100282,
+      "date": "2026-11-07",
+      "time": "18:30",
+      "week": 12,
+      "stadium": "Fortuna Sittard Stadion",
+      "importance_score": 5.7,
+      "home_team": {
+        "name": "F. Sittard",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sittard.png",
+        "colors": ["#FFD700", "#009739"]
+      },
+      "away_team": {
+        "name": "Telstar",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_telstar.png",
+        "colors": ["#0033A0", "#FFCC00"]
+      }
+    },
+    {
+      "match_id": 100283,
+      "date": "2026-11-07",
       "time": "20:45",
-      "week": 11,
-      "stadium": "Abe Lenstra Stadion",
-      "importance_score": 5.9,
+      "week": 12,
+      "stadium": "Bingoal Stadion",
+      "importance_score": 5.8,
       "home_team": {
-        "name": "Heerenveen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heerenveen.png",
-        "colors": ["#0033A0", "#FFFFFF"]
+        "name": "ADO Den Haag",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ado.png",
+        "colors": ["#008C95", "#FFD700"]
       },
       "away_team": {
-        "name": "NEC Nijmegen",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nec.png",
-        "colors": ["#D40000", "#007F3E"]
+        "name": "Sparta",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sparta.png",
+        "colors": ["#FF0000", "#FFFFFF"]
       }
     },
     {
-      "match_id": 100275,
-      "date": "2026-10-31",
+      "match_id": 100284,
+      "date": "2026-11-07",
       "time": "23:00",
-      "week": 11,
-      "stadium": "Johan Cruyff Arena",
-      "importance_score": 8.1,
+      "week": 12,
+      "stadium": "Van Donge & De Roo Stadion",
+      "importance_score": 5.8,
       "home_team": {
-        "name": "Ajax",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ajax.png",
-        "colors": ["#D2122E", "#FFFFFF"]
-      },
-      "away_team": {
-        "name": "AZ Alkmaar",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_az.png",
-        "colors": ["#E41B13", "#000000"]
-      }
-    },
-    {
-      "match_id": 100276,
-      "date": "2026-10-31",
-      "time": "23:00",
-      "week": 11,
-      "stadium": "Kooi Stadion",
-      "importance_score": 6.1,
-      "home_team": {
-        "name": "SC Cambuur",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cambuur.png",
-        "colors": ["#FFD700", "#00529B"]
+        "name": "Excelsior",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_excelsior.png",
+        "colors": ["#000000", "#FF0000"]
       },
       "away_team": {
         "name": "Go Ahead",
@@ -91,75 +73,93 @@
       }
     },
     {
-      "match_id": 100277,
-      "date": "2026-11-01",
+      "match_id": 100285,
+      "date": "2026-11-08",
       "time": "14:15",
-      "week": 11,
-      "stadium": "MAC³PARK Stadion",
-      "importance_score": 5.6,
+      "week": 12,
+      "stadium": "Abe Lenstra Stadion",
+      "importance_score": 7.0,
       "home_team": {
-        "name": "PEC Zwolle",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_zwolle.png",
-        "colors": ["#1C64B5", "#FFFFFF"]
+        "name": "Heerenveen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_heerenveen.png",
+        "colors": ["#0033A0", "#FFFFFF"]
       },
       "away_team": {
-        "name": "ADO Den Haag",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ado.png",
-        "colors": ["#008C95", "#FFD700"]
+        "name": "Feyenoord",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_feyenoord.png",
+        "colors": ["#FF0000", "#FFFFFF"]
       }
     },
     {
-      "match_id": 100278,
-      "date": "2026-11-01",
+      "match_id": 100286,
+      "date": "2026-11-08",
       "time": "16:30",
-      "week": 11,
-      "stadium": "Van Donge & De Roo Stadion",
-      "importance_score": 6.2,
+      "week": 12,
+      "stadium": "De Grolsch Veste",
+      "importance_score": 8.3,
       "home_team": {
-        "name": "Excelsior",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_excelsior.png",
-        "colors": ["#000000", "#FF0000"]
-      },
-      "away_team": {
         "name": "Twente",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_twente.png",
         "colors": ["#E2001A", "#FFFFFF"]
-      }
-    },
-    {
-      "match_id": 100279,
-      "date": "2026-11-01",
-      "time": "16:30",
-      "week": 11,
-      "stadium": "BUKO Stadion",
-      "importance_score": 5.8,
-      "home_team": {
-        "name": "Telstar",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_telstar.png",
-        "colors": ["#0033A0", "#FFCC00"]
       },
       "away_team": {
-        "name": "Utrecht",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_utrecht.png",
-        "colors": ["#E50000", "#1B4E9B"]
+        "name": "Ajax",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_ajax.png",
+        "colors": ["#D2122E", "#FFFFFF"]
       }
     },
     {
-      "match_id": 100280,
-      "date": "2026-11-01",
+      "match_id": 100287,
+      "date": "2026-11-08",
       "time": "18:45",
-      "week": 11,
-      "stadium": "Euroborg",
-      "importance_score": 5.9,
+      "week": 12,
+      "stadium": "Kooi Stadion",
+      "importance_score": 7.7,
       "home_team": {
+        "name": "SC Cambuur",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_cambuur.png",
+        "colors": ["#FFD700", "#00529B"]
+      },
+      "away_team": {
+        "name": "PSV",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_psv.png",
+        "colors": ["#DA121A", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 100288,
+      "date": "2026-11-08",
+      "time": "18:45",
+      "week": 12,
+      "stadium": "AFAS Stadion",
+      "importance_score": 6.9,
+      "home_team": {
+        "name": "AZ Alkmaar",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_az.png",
+        "colors": ["#E41B13", "#000000"]
+      },
+      "away_team": {
         "name": "Groningen",
         "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_groningen.png",
         "colors": ["#008F39", "#FFFFFF"]
+      }
+    },
+    {
+      "match_id": 100289,
+      "date": "2026-11-08",
+      "time": "22:00",
+      "week": 12,
+      "stadium": "Stadion Galgenwaard",
+      "importance_score": 5.9,
+      "home_team": {
+        "name": "Utrecht",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_utrecht.png",
+        "colors": ["#E50000", "#1B4E9B"]
       },
       "away_team": {
-        "name": "Sparta",
-        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_sparta.png",
-        "colors": ["#FF0000", "#FFFFFF"]
+        "name": "NEC Nijmegen",
+        "logo": "https://raw.githubusercontent.com/providedtroubleshoot/match.json/main/team_logos/logo_nec.png",
+        "colors": ["#D40000", "#007F3E"]
       }
     }
   ]
